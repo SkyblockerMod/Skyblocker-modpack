@@ -1,0 +1,13 @@
+name = "Memory Usage Screen"
+filename = "MemoryUsageScreen-1.17-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/n9mFA0ax/versions/1.17-1.2-Fabric/MemoryUsageScreen-1.17-1.2.jar"
+hash-format = "sha512"
+hash = "7dbd56fbcbe1e346a8fe14ac3f19614f8932c2d5741d648bac0a7f1be9b4e2d91080ed87f1b2c2a2ff92224ad4b98489b4c06e8d62fe0ef4364277ed0ed0900c"
+
+[update]
+[update.modrinth]
+mod-id = "n9mFA0ax"
+version = "sYbae3xU"

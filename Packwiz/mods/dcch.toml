@@ -1,0 +1,13 @@
+name = "Don't Clear Chat History"
+filename = "DCCH-2.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar"
+hash-format = "sha512"
+hash = "e130d6319b421a8b0d2b7d76107d11eff06f425482254027f0ac3633503d4c7e1eed714da808f14dc377685b08f9c94fe830e7d679e0e8b0180d9afb6ca07fda"
+
+[update]
+[update.modrinth]
+mod-id = "sUbMm93i"
+version = "O4vDf8eh"

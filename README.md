@@ -1,2 +1,2 @@
 # Skyblocker-modpack
- Modpack that includes Skyblocker and performance mods
+Modpack for hypixel skyblock (fabric) (1.17.1)
