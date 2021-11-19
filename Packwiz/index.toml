@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "d7333ea6deb1e9b0df3f9cbebe1294396d864ab7b8b0e4aa609b87b3af32682f"
+hash = "5d910a686f63efcc856b2e8fd694cc1d95311107624cebbe82d37e3adad2eb23"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "311ca79bcaeb1d78c207e8059f05225bb05842b7b0dda3c54859d5d5b4e9d908"
+hash = "8085a1c52ea30800552f6351d14a1a435e5aa55f4853733aa1f710a41af2ac80"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
+hash = "532a85cc714a146876b4ba9c8a25a71ebfd3e136f96b1028724d314cf591577d"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.toml"
-hash = "01300d975279342bfe1434ca1ee21c3fed756d1d5e4581d46ba1ab1c8099e503"
+hash = "6d03b73660b252e2b73610e0e882aa430dd0f0377acf94ef1b5e3edaa18cb687"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "d82c21413c0e255f13f6046915b1b20f23bf99148246504ee04bd5ca1162cf7c"
+hash = "876c894734eb68f42009a090271ffcadb5861e6abbaf6aca12c6a89185ee3e13"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.toml"
-hash = "4b6c590f98d1088f6148d00aa4b30b6d1ef1ba233f94f166fd668ce36616bc2f"
+hash = "74f399d7179e3a19c4d0802d4dd2df426b10ac00515db03cb9e2e2d0d13fae0a"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
+hash = "e62ba838078e0e0b17dbb5c262ec58af4c672afcadadf99697737ef3534005c2"
 metafile = true
 
 [[files]]
