@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "876c894734eb68f42009a090271ffcadb5861e6abbaf6aca12c6a89185ee3e13"
+hash = "725731a49cd7cdbb6474308f147304d16bae3b836aa89c2a3c13e4804d6a7f0c"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.toml"
-hash = "74f399d7179e3a19c4d0802d4dd2df426b10ac00515db03cb9e2e2d0d13fae0a"
+hash = "ad5ae044d2984f5b9ef5de978454afe5841404fba43679bc126bc663236c7e31"
 metafile = true
 
 [[files]]
