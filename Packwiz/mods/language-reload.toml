@@ -1,13 +1,13 @@
 name = "Language Reload"
-filename = "language-reload-1.2.jar"
-side = "client"
+filename = "language-reload-1.2.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.2/language-reload-1.2.jar"
-hash-format = "sha512"
-hash = "cedc421694cf6d0eee8b456ec7841f648662cde8e7e570f78f9c6b4d01c7031f18d3bcdf4765ba2c2c9173ccee340935943b4cdfa9eca00dc1615eb2555e9cbb"
+url = "https://edge.forgecdn.net/files/3641/52/language-reload-1.2.1.jar"
+hash-format = "sha1"
+hash = "4fc9f67f810bbe4a0958999c6eda9c7ebfd1b797"
 
 [update]
-[update.modrinth]
-mod-id = "uLbm7CG6"
-version = "De5hWChg"
+[update.curseforge]
+file-id = 3641052
+project-id = 527334

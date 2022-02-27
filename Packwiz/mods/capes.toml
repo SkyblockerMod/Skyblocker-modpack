@@ -1,13 +1,13 @@
 name = "Fabric Capes"
-filename = "Capes-1.2.2+1.17.jar"
+filename = "Capes-1.2.2+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3510/854/Capes-1.2.2+1.17.jar"
-hash-format = "murmur2"
-hash = "3793937648"
+url = "https://edge.forgecdn.net/files/3543/238/Capes-1.2.2+1.18.jar"
+hash-format = "sha1"
+hash = "34a9986cc8ee21a50b8ff3d47d4e73c1328f996c"
 
 [update]
 [update.curseforge]
-file-id = 3510854
+file-id = 3543238
 project-id = 408481

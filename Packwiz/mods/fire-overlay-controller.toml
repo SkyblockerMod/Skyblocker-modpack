@@ -1,13 +1,13 @@
 name = "Fire Overlay Controller"
-filename = "fireoverlaycontroller-1.0+1.17.jar"
-side = "client"
+filename = "fireoverlaycontroller-1.0+1.18.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WdpCzbHl/versions/1.0+1.17/fireoverlaycontroller-1.0+1.17.jar"
-hash-format = "sha512"
-hash = "a5d052c2f6bc11efa4e9c7fda3321563af3501d29c3285df8ef8ca4c2a4cc480dd99bab932efea4f6cbae2e0252e9921169b5a02d1d35e3cf45f88d86e880b2d"
+url = "https://edge.forgecdn.net/files/3554/254/fireoverlaycontroller-1.0+1.18.jar"
+hash-format = "sha1"
+hash = "62d15f7f99465235189d637dc4398ccd6f996423"
 
 [update]
-[update.modrinth]
-mod-id = "WdpCzbHl"
-version = "yML1bum4"
+[update.curseforge]
+file-id = 3554254
+project-id = 528378

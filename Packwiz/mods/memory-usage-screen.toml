@@ -1,13 +1,13 @@
-name = "Memory Usage Screen"
+name = "Memory Usage Screen [Forge/Fabric]"
 filename = "MemoryUsageScreen-1.17-1.2.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com//data/n9mFA0ax/versions/1.17-1.2-Fabric/MemoryUsageScreen-1.17-1.2.jar"
-hash-format = "sha512"
-hash = "7dbd56fbcbe1e346a8fe14ac3f19614f8932c2d5741d648bac0a7f1be9b4e2d91080ed87f1b2c2a2ff92224ad4b98489b4c06e8d62fe0ef4364277ed0ed0900c"
+url = "https://edge.forgecdn.net/files/3460/508/MemoryUsageScreen-1.17-1.2.jar"
+hash-format = "sha1"
+hash = "6381e8e65d171fb7e9653ce463a49d48a2d30129"
 
 [update]
-[update.modrinth]
-mod-id = "n9mFA0ax"
-version = "sYbae3xU"
+[update.curseforge]
+file-id = 3460508
+project-id = 500009
