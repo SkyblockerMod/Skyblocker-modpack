@@ -181,6 +181,11 @@ hash = "397d34d1a61f32de2be694c55ca15a9481338a9e9dbff96d62f72d771eecdae0"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot.toml"
+hash = "5395f3c793c9d31347774b1a179c6287958df953f0bf9652b6953673f74e7e08"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "4652412b4d9601b67d9c3f10b9dfa83e43b3c098f40e3fba56554201cce9bfa7"
 metafile = true
@@ -203,4 +208,9 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
 metafile = true
