@@ -21,6 +21,16 @@ hash = "34d2af081646852e3debde4208621cf0643f05d1ba06a82b95fcc4d20adb41f4"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.toml"
+hash = "f116163f6adaa71512ce90394294e448c4250a3996c2c99e4e5e4f69a07803d2"
+metafile = true
+
+[[files]]
+file = "mods/blockify.toml"
+hash = "0f208b9187a5272254f2d741be75268bcc11477785aac491dafa4657e5eafcd5"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "cfc25775ef2e2dec224cd7328b7174e271c28fc610841355d97f2fc6e3723a31"
 metafile = true
@@ -106,6 +116,16 @@ hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
 metafile = true
 
 [[files]]
+file = "mods/fire-overlay-controller.toml"
+hash = "bf707627ed010ac981ee00fcc8e6e4ded5a7c2c12fb242c7b02217ffbdd6f5e8"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.toml"
+hash = "379b86bbf0abf72d0cb13b89ef13d35402cb12c45ffa295912579d4753d7be48"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "c891e0d66857eeafbf3290fc1852c08f1dcfefd2403181790773b69052a199f8"
 metafile = true
@@ -141,6 +161,11 @@ hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
 
 [[files]]
+file = "mods/memory-usage-screen.toml"
+hash = "efc5698a5078e272f6d50c4d4c8e9c8d76b59005487f53b9ca3ccfe921df1acc"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.toml"
 hash = "8cf8faa6b8d2e856a998cfd590f3ff330d088a0827e04af2643ef8e9577582fd"
 metafile = true
@@ -168,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "a9276888dd34b084ecccc0433fe3a40545a1f8f625e98e860aa917cb8d159580"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard-fabric.toml"
+hash = "44632567c967e39232b98aa44cfe55c24beb725442b9148e1621459592406b76"
+metafile = true
+
+[[files]]
+file = "mods/shielddisruptor.toml"
+hash = "1dae33c92deca06b73b8c1babaffa11b30539fa114d2784f9a2ea15673b25497"
 metafile = true
 
 [[files]]

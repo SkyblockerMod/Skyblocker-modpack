@@ -1,0 +1,13 @@
+name = "Fire Overlay Controller"
+filename = "fireoverlaycontroller-1.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/254/fireoverlaycontroller-1.0+1.18.jar"
+hash-format = "sha1"
+hash = "62d15f7f99465235189d637dc4398ccd6f996423"
+
+[update]
+[update.curseforge]
+file-id = 3554254
+project-id = 528378

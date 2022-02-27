@@ -1,0 +1,13 @@
+name = "ShieldDisruptor"
+filename = "ShieldDisruptor-1.3.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ded5u7eL/versions/1.3.0-mc1.17/ShieldDisruptor-1.3.0+1.17.jar"
+hash-format = "sha1"
+hash = "444175c631ba4547d6c370248b7a52547343a1be"
+
+[update]
+[update.modrinth]
+mod-id = "ded5u7eL"
+version = "oMfE9C52"
