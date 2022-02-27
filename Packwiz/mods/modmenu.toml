@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/652/modmenu-3.0.1.jar"
+hash-format = "sha1"
+hash = "5b7328a666250330b3dd6a7a5190783d618a0307"
+
+[update]
+[update.curseforge]
+file-id = 3570652
+project-id = 308702
