@@ -19,7 +19,7 @@ jobs:
     - run: go install github.com/packwiz/packwiz@latest
     - name: export packs
       run: |
-        zip multimc/ Skyblocker-Modpack-MultiMC.zip
+        zip Skyblocker-Modpack-MultiMC.zip multimc
         cd Packwiz
         packwiz cf export -o Skyblocker-Modpack.zip
         packwiz mr export -o Skyblocker-Modpack.mrpack
