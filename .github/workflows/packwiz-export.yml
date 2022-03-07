@@ -19,7 +19,7 @@ jobs:
     - run: go install github.com/packwiz/packwiz@latest
     - name: export packs
       run: |
-        mkdir exports,
+        cd Packwiz
         packwiz cf export -o Skyblocker-Modpack.zip,
         packwiz mr export -o Skyblocker-Modpack.mrpack
     - uses: actions/upload-artifact@v3.0.0
