@@ -19,9 +19,11 @@ jobs:
     - run: go install github.com/packwiz/packwiz@latest
     - name: export packs
       run: |
+        zip multimc/ Skyblocker-Modpack-MultiMC.zip
         cd Packwiz
         packwiz cf export -o Skyblocker-Modpack.zip
         packwiz mr export -o Skyblocker-Modpack.mrpack
+        
     - uses: actions/upload-artifact@v3.0.0
       with:
         name: modrinth-pack
@@ -30,3 +32,7 @@ jobs:
       with:
         name: cursefrog-pack
         path: Packwiz/Skyblocker-Modpack.zip 
+    - uses: actions/upload-artifact@v3.0.0
+      with:
+        name: multimc-instance
+        path: Skyblcker-Modpack-MultiMC.zip
