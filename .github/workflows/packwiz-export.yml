@@ -20,7 +20,7 @@ jobs:
     - name: export packs
       run: |
         cd Packwiz
-        packwiz cf export -o Skyblocker-Modpack.zip,
+        packwiz cf export -o Skyblocker-Modpack.zip
         packwiz mr export -o Skyblocker-Modpack.mrpack
     - uses: actions/upload-artifact@v3.0.0
       with:
