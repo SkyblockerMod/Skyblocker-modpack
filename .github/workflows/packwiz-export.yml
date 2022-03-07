@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches:
+    - master
+  workflow_dispatch:
+  
+jobs:
+  export_pack:
+    name: Export Pack
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-go@v2
+      with:
+        go-version: '^1.13.1' # The Go version to download (if necessary) and use.
+    - run: go install github.com/packwiz/packwiz@latest
+    - name: export packs
+      run: |
+        mkdir exports,
+        packwiz cf export -o Skyblocker-Modpack.zip,
+        packwiz mr export -o Skyblocker-Modpack.mrpack
+    - uses: actions/upload-artifact@v3.0.0
+      with:
+        name: modrinth-pack
+        path: Skyblocker-Modpack.mrpack
+    - uses: actions/upload-artifact@v3.0.0
+      with:
+        name: cursefrog-pack
+        path: Skyblocker-Modpack.zip 
