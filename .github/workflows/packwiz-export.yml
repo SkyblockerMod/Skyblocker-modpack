@@ -35,4 +35,4 @@ jobs:
     - uses: actions/upload-artifact@v3.0.0
       with:
         name: multimc-instance
-        path: Skyblcker-Modpack-MultiMC.zip
+        path: Skyblocker-Modpack-MultiMC.zip
