@@ -21,8 +21,8 @@ jobs:
       run: |
         zip Skyblocker-Modpack-MultiMC.zip multimc
         cd Packwiz
-        packwiz cf export -o Skyblocker-Modpack.zip
         mkdir Skyblocker-Modpack
+        packwiz cf export -o Skyblocker-Modpack/Skyblocker-Modpack.zip
         unzip Skyblocker-Modpack.zip -d Skyblock-Modpack/
         packwiz mr export -o Skyblocker-Modpack.mrpack
         
@@ -33,7 +33,7 @@ jobs:
     - uses: actions/upload-artifact@v3.0.0
       with:
         name: Skyblocker-Curseforge
-        path: Packwiz/Skyblocker-Modpack
+        path: Packwiz/Skyblocker-Modpack/
     - uses: actions/upload-artifact@v3.0.0
       with:
         name: Skyblocker-MultiMC
