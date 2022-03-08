@@ -35,5 +35,5 @@ jobs:
         path: Packwiz/Skyblocker-Modpack
     - uses: actions/upload-artifact@v3.0.0
       with:
-        name: Skyblocker-MultiMC.zip
+        name: Skyblocker-MultiMC
         path: multimc/
