@@ -23,7 +23,7 @@ jobs:
         cd Packwiz
         mkdir Skyblocker-Modpack
         packwiz cf export -o Skyblocker-Modpack/Skyblocker-Modpack.zip
-        unzip Skyblocker-Modpack.zip -d Skyblock-Modpack/
+        unzip Skyblocker-Modpack/Skyblocker-Modpack.zip -d
         packwiz mr export -o Skyblocker-Modpack.mrpack
         
     - uses: actions/upload-artifact@v3.0.0
