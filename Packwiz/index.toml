@@ -70,11 +70,6 @@ hash = "ebc13481934dc3a89e106154b4650bf52a68e5abe07573efc81ebc927d479a3f"
 metafile = true
 
 [[files]]
-file = "mods/dcch.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true
