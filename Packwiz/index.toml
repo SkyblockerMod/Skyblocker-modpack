@@ -235,11 +235,6 @@ hash = "97760c782dac1802756ed9bf31c487b813dfe2aeda305acd8fc067546649a8d0"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot.toml"
-hash = "5395f3c793c9d31347774b1a179c6287958df953f0bf9652b6953673f74e7e08"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.toml"
 hash = "a0d8ad1d13e07e1270248cb51712268b9ef27e6ab5e8ab16634cca9fa5e12ef0"
 metafile = true
