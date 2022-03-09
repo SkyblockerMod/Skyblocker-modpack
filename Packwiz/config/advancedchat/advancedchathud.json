@@ -1,0 +1,104 @@
+{
+    "general": {
+      "vanillHud": true,
+      "minimalist": false,
+      "chatHeads": false,
+      "tabButtonsOnRight": false,
+      "width": 280,
+      "height": 117,
+      "x": 0,
+      "y": 30,
+      "messageSpace": 0,
+      "lineSpace": 9,
+      "leftPad": 2,
+      "rightPad": 2,
+      "bottomPad": 1,
+      "topPad": 0,
+      "visibility": "vanilla",
+      "advancedchathud.config.general.chatScale": 1.0,
+      "fadeTime": 40,
+      "fadeStart": 100,
+      "fadeType": "linear",
+      "emptyTextColor": "#FFFFFFFF",
+      "hudLineType": "full",
+      "alternateLines": false,
+      "storedLines": 200,
+      "renderInOther": true
+    },
+    "maintab": {
+      "name": "Main",
+      "startingMessage": "",
+      "forward": true,
+      "abbreviation": "Main",
+      "mainColor": "#643F3F3F",
+      "borderColor": "#B4000000",
+      "innerColor": "#64000000",
+      "showUnread": false,
+      "match": [
+        {
+          "pattern": "I will match to text!",
+          "findtype": "literal"
+        }
+      ],
+      "uuid": "32057896-897e-4aab-9618-effb9e68da55"
+    },
+    "tabs": [
+      {
+        "name": "Private Messages",
+        "startingMessage": "",
+        "forward": false,
+        "abbreviation": "PM",
+        "mainColor": "#643F3F3F",
+        "borderColor": "#B4000000",
+        "innerColor": "#64000000",
+        "showUnread": true,
+        "match": [
+          {
+            "pattern": "^From",
+            "findtype": "regex"
+          },
+          {
+            "pattern": "^To",
+            "findtype": "regex"
+          }
+        ],
+        "uuid": "d8a269db-bab6-4b1d-b19c-0f2a38b198fe"
+      },
+      {
+        "name": "Co-op Chat",
+        "startingMessage": "",
+        "forward": false,
+        "abbreviation": "COOP",
+        "mainColor": "#643F3F3F",
+        "borderColor": "#B4000000",
+        "innerColor": "#64000000",
+        "showUnread": true,
+        "match": [
+          {
+            "pattern": "^Co-op \u003e",
+            "findtype": "regex"
+          }
+        ],
+        "uuid": "0aa65518-0abf-4b71-bba3-509d829e7bc0"
+      },
+      {
+        "name": "Guild Chat",
+        "startingMessage": "",
+        "forward": false,
+        "abbreviation": "GUILD",
+        "mainColor": "#643F3F3F",
+        "borderColor": "#B4000000",
+        "innerColor": "#64000000",
+        "showUnread": true,
+        "match": [
+          {
+            "pattern": "^Guild \u003e",
+            "findtype": "regex"
+          }
+        ],
+        "uuid": "958099b7-ea8b-461c-b595-5e76232dfade"
+      }
+    ],
+    "windows": [],
+    "config_version": 1
+  }
