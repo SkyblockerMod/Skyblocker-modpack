@@ -45,11 +45,6 @@ hash = "a95e949723e71f98bf649883fa694950805f0431074e2716a4d769d3d2fddf9c"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.toml"
-hash = "e6ece997377e280226a75f623faa8e63796fe5911fe7dfb600dee57f21f37300"
-metafile = true
-
-[[files]]
 file = "mods/cloth-api.toml"
 hash = "0f325317ced484dc5fdd2e9b3d455223eed66c565c426ffd326468e472a951b1"
 metafile = true
@@ -140,11 +135,6 @@ hash = "d9064a0f9a4e70ce7d899986cb80fd177583c15c3f539533333eb4a6cf8171ea"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.toml"
-hash = "834895d40b3b4d9d5322dbecad1ca880455dacd92e621ed647b812b5fd3224fe"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
 metafile = true
@@ -212,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.toml"
 hash = "44632567c967e39232b98aa44cfe55c24beb725442b9148e1621459592406b76"
-metafile = true
-
-[[files]]
-file = "mods/shielddisruptor.toml"
-hash = "1dae33c92deca06b73b8c1babaffa11b30539fa114d2784f9a2ea15673b25497"
 metafile = true
 
 [[files]]
