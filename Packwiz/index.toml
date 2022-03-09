@@ -1,6 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quickconnectbutton.json5"
+hash = "9cf7cc30f000d7ed21ec613a16ba17721d76985b4fd6ae5324f2d3ecd02e977c"
+
+[[files]]
+file = "mods/advancedchatcore.toml"
+hash = "2b745617346ab27578afb187c275db6ff19e3e892b0e5171e0e99c2baa3b53b8"
+metafile = true
+
+[[files]]
+file = "mods/advancedchathud.toml"
+hash = "bb3c9241560cbb7a567a6c67d6c4926f82c19a3123d6fbc34b28c10efdf43001"
+metafile = true
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "4434f950f298b99f19434496a998c0a46951e9a025e07c5c7000b6fdf52b5f20"
 metafile = true
@@ -12,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
+hash = "b8f2d4e84622a78484fe04bb0713d2a6819c624a09614a83ff4815cca56d6cc0"
 metafile = true
 
 [[files]]
@@ -23,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/auth-me.toml"
 hash = "f116163f6adaa71512ce90394294e448c4250a3996c2c99e4e5e4f69a07803d2"
-metafile = true
-
-[[files]]
-file = "mods/blockify.toml"
-hash = "0f208b9187a5272254f2d741be75268bcc11477785aac491dafa4657e5eafcd5"
 metafile = true
 
 [[files]]
@@ -56,11 +65,6 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.toml"
-hash = "29e90bc358183319c225aaf0bf97a7d24c928b49dea0adfffa02fea8f6bb7644"
-metafile = true
-
-[[files]]
 file = "mods/continuity.toml"
 hash = "c64ecdf2decf5898efc6f1a99cf843f81ed2391020336d93228f95b529d8ef34"
 metafile = true
@@ -82,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "2589477b86c240cfbad7c6a0c64893297ff2c00e0b5cb362cb1609d675ae88bc"
+hash = "2df517821507b13dee85c5baae30749e081b08b82428b3349eaa02bcde9de10a"
 metafile = true
 
 [[files]]
@@ -92,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
@@ -122,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.toml"
-hash = "379b86bbf0abf72d0cb13b89ef13d35402cb12c45ffa295912579d4753d7be48"
+hash = "8bce15344fbd0c77db66fb108d7a17eaab7f51f01be9366bc68698026be0c6a6"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "c891e0d66857eeafbf3290fc1852c08f1dcfefd2403181790773b69052a199f8"
+hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
 metafile = true
 
 [[files]]
@@ -138,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.toml"
 hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-keys-fabric.toml"
+hash = "d9064a0f9a4e70ce7d899986cb80fd177583c15c3f539533333eb4a6cf8171ea"
 metafile = true
 
 [[files]]
@@ -158,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
@@ -191,8 +205,18 @@ hash = "4f80d5389cf1660d9511b81ec5ee3ec65b3fc4b1c1f11768ccb10d707b8a19c5"
 metafile = true
 
 [[files]]
+file = "mods/quickconnectbutton.toml"
+hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "a9276888dd34b084ecccc0433fe3a40545a1f8f625e98e860aa917cb8d159580"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
 
 [[files]]
@@ -208,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/skyblocker-liap.toml"
 hash = "e48b029720819ccefe455e4c2cdebde3f008915dfdf4f603ad86b236808aa20e"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "397d34d1a61f32de2be694c55ca15a9481338a9e9dbff96d62f72d771eecdae0"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Gamma Utils"
-filename = "Gamma-Utils-1.5.5-mc1.18.1.jar"
+filename = "Gamma-Utils-1.5.6-mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3607/752/Gamma-Utils-1.5.5-mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3667/398/Gamma-Utils-1.5.6-mc1.18.2.jar"
 hash-format = "sha1"
-hash = "3a3e74db86215727da4edf88eaed9c8fe61d3043"
+hash = "abadcdc70dcbaaeaa050ac1c552207f755f1efc7"
 
 [update]
 [update.curseforge]
-file-id = 3607752
+file-id = 3667398
 project-id = 492295

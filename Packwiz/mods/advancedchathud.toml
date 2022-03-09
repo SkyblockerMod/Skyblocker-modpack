@@ -1,0 +1,13 @@
+name = "AdvancedChatHUD"
+filename = "AdvancedChatHUD-1.18.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/616/AdvancedChatHUD-1.18.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "1c0fa3b0b92a1443b81e6e53c854372206d0b811"
+
+[update]
+[update.curseforge]
+file-id = 3635616
+project-id = 541708

@@ -1,0 +1,13 @@
+name = "AdvancedChatCore"
+filename = "AdvancedChatCore-1.18.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/189/AdvancedChatCore-1.18.1-1.4.2.jar"
+hash-format = "sha1"
+hash = "fb290c22a897a0dd8e316e298c6415e24c867ac5"
+
+[update]
+[update.curseforge]
+file-id = 3635189
+project-id = 537853
