@@ -1,13 +1,13 @@
 name = "ARRP"
-filename = "arrp-0.5.4.jar"
+filename = "arrp-0.5.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3529/149/arrp-0.5.4.jar"
+url = "https://edge.forgecdn.net/files/3680/866/arrp-0.5.7.jar"
 hash-format = "sha1"
-hash = "288124e89e8b3f7bb9f67b49a085f2c0d55a2439"
+hash = "cbbfd0b52bba7049a4d40cfa0206c734937a697a"
 
 [update]
 [update.curseforge]
-file-id = 3529149
+file-id = 3680866
 project-id = 463113

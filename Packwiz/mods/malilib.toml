@@ -1,13 +1,13 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.18.1-0.11.8.jar"
+filename = "malilib-fabric-1.18.2-0.12.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3671/369/malilib-fabric-1.18.1-0.11.8.jar"
+url = "https://edge.forgecdn.net/files/3671/371/malilib-fabric-1.18.2-0.12.0.jar"
 hash-format = "sha1"
-hash = "dc1a23b28bbcd3786d887356ff519f99c12d0906"
+hash = "275be1053e547da04bcd684d05304be4787b86fa"
 
 [update]
 [update.curseforge]
-file-id = 3671369
+file-id = 3671371
 project-id = 303119
