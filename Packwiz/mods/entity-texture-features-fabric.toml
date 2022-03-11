@@ -1,13 +1,13 @@
-name = "Entity Texture Features (Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!) - [Fabric]"
-filename = "entity-texture-features-%5B1.18.2%5D-2.4.2.jar"
+name = "Entity Texture Features - [Fabric]"
+filename = "entity-texture-features-[1.18.2]-2.4.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3682/672/entity-texture-features-%5B1.18.2%5D-2.4.2.jar"
+url = "https://edge.forgecdn.net/files/3683/634/entity-texture-features-%5B1.18.2%5D-2.4.5.jar"
 hash-format = "sha1"
-hash = "290485df0e08a303001a3a94f345949f044ade02"
+hash = "02777af75ea3c6bb0051a8de49037531bec89f11"
 
 [update]
 [update.curseforge]
-file-id = 3682672
+file-id = 3683634
 project-id = 568563
