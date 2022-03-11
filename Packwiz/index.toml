@@ -184,11 +184,6 @@ hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
-hash = "f05c443fcccebf9623060065e2319a22f983234dc0d1a7ac1cd6883cd61e93fb"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.toml"
 hash = "4f80d5389cf1660d9511b81ec5ee3ec65b3fc4b1c1f11768ccb10d707b8a19c5"
 metafile = true
@@ -246,4 +241,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.toml"
 hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.toml"
+hash = "502f7eb8372e5530de8aaffb38b426b5b533fef7ebfdc90db75c483187840868"
 metafile = true

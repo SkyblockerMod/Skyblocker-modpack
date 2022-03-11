@@ -1,0 +1,13 @@
+name = "Zoomify"
+filename = "Zoomify-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3682/908/Zoomify-1.4.0.jar"
+hash-format = "sha1"
+hash = "f1c60d353f5beff76c947748e48661c834b3842d"
+
+[update]
+[update.curseforge]
+file-id = 3682908
+project-id = 574741
