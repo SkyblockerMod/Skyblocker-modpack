@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "bd74735f807e01a6e7ea91f6e59f8f215854ca1e73c7a2970b3ac2cb994c959c"
+hash = "ac970d526fa1a86e6144bed5267a8bb7c6f422d63fd75fbd886e7b907ad86762"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "e6ece997377e280226a75f623faa8e63796fe5911fe7dfb600dee57f21f37300"
+hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "310c390e0f38f50a5b50dc04876307aab2fc191229aafc5ae199b9031e6bc7d4"
+hash = "dbd4742841185824131a7253feeb33caafd13481a3c3b830a2ec9425a8649bde"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cfc071c2400eb20973b2d42fbd6f1e713d2520b460cb20ea93e96eb2fd186387"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "bba3240ad4032a32a279813020b6ef59d8cbe85a455236ba52d0541a67ffd854"
+hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "b1c3916aec4e0d711075337639b54dc886248a68d1283a6a094ad32ee4544ec5"
+hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "4f80d5389cf1660d9511b81ec5ee3ec65b3fc4b1c1f11768ccb10d707b8a19c5"
+hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8aa67b7d71db2e344dcae8427aa8742459e893705774e1941bed7fff04a8d892"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.toml"
-hash = "97760c782dac1802756ed9bf31c487b813dfe2aeda305acd8fc067546649a8d0"
+hash = "910187b459b4ee26eab9773ffc8e1ba39a1c103255d73a54833ef679cdc01d48"
 metafile = true
 
 [[files]]
