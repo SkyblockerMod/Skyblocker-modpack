@@ -1,13 +1,13 @@
 name = "Skyblocker LIAP"
-filename = "skyblocker-1.6.1+1.18.x.jar"
+filename = "skyblocker-1.6.2+1.18.x.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/v1.6.1+1.18.x/skyblocker-1.6.1%2B1.18.x.jar"
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/v1.6.2+1.18.x/skyblocker-1.6.2%2B1.18.x.jar"
 hash-format = "sha1"
-hash = "9bf262a6b8122909fcb834b589e8862221f82069"
+hash = "870efc7d8027fd4e024e176387b5619f8b539996"
 
 [update]
 [update.modrinth]
 mod-id = "y6DuFGwJ"
-version = "5ZxgC3U6"
+version = "ApPSNhUB"

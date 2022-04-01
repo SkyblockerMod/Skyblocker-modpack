@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ac970d526fa1a86e6144bed5267a8bb7c6f422d63fd75fbd886e7b907ad86762"
+hash = "a5e5436e4a34733f283955c731398a4fd6bf151bd6bbdd377511d69b33065a9e"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "f116163f6adaa71512ce90394294e448c4250a3996c2c99e4e5e4f69a07803d2"
+hash = "a4b4df967d28d26f52e9e1f6d155ae3fb570ed1e51a5b96bdcc3a3b38f866a79"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "ebc13481934dc3a89e106154b4650bf52a68e5abe07573efc81ebc927d479a3f"
+hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "dbd4742841185824131a7253feeb33caafd13481a3c3b830a2ec9425a8649bde"
+hash = "68ea151b3a2b580cc1c8378ce58970e4375fe09b41c42db39b802f16ceda0891"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.toml"
-hash = "910187b459b4ee26eab9773ffc8e1ba39a1c103255d73a54833ef679cdc01d48"
+hash = "f734c1114aceafd41f915a2dd29085ca19225927db2d4e167e12e18dc0cd26db"
 metafile = true
 
 [[files]]
