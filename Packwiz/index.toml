@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+hash = "3894f56dbf821aebef6d4149ef30474d19c09ec9d27b8ee6f971ddfaa9057aaf"
 metafile = true
 
 [[files]]
@@ -199,18 +199,13 @@ hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
 metafile = true
 
 [[files]]
-file = "mods/quickconnectbutton.toml"
-hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8613849ff88460d1f68573874b0f98105db657eda7bb26a6d75e42e110f99a84"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
