@@ -1,13 +1,13 @@
 name = "AdvancedChatCore"
-filename = "AdvancedChatCore-1.18.2-1.4.4.jar"
+filename = "AdvancedChatCore-1.18.2-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3682/12/AdvancedChatCore-1.18.2-1.4.4.jar"
+url = "https://edge.forgecdn.net/files/3768/22/AdvancedChatCore-1.18.2-1.5.0.jar"
 hash-format = "sha1"
-hash = "d288f1e619fbf7767593f6cb6a6816de72727742"
+hash = "f89204ba13bdb0ff8257017c6cb66fa23e542698"
 
 [update]
 [update.curseforge]
-file-id = 3682012
+file-id = 3768022
 project-id = 537853
