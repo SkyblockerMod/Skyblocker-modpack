@@ -5,10 +5,6 @@ file = "config/advancedchat/advancedchathud.json"
 hash = "2c536abef809c8a804a0500701cd13c36a1e3a161c469da49378d3a31e5d28e7"
 
 [[files]]
-file = "config/quickconnectbutton.json5"
-hash = "9cf7cc30f000d7ed21ec613a16ba17721d76985b4fd6ae5324f2d3ecd02e977c"
-
-[[files]]
 file = "mods/advancedchatcore.toml"
 hash = "b8912383063be17fc8a07ae1c6e1c959c07b192bfed64e060dbbd976a3ede85f"
 metafile = true
