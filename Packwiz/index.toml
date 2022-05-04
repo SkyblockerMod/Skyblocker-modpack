@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "68ea151b3a2b580cc1c8378ce58970e4375fe09b41c42db39b802f16ceda0891"
+hash = "6ca956cf088d3b149f90c438dad1d2b8c4f9905f58a9fbe5262106073e220ee6"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.toml"
-hash = "8bce15344fbd0c77db66fb108d7a17eaab7f51f01be9366bc68698026be0c6a6"
+hash = "6c23389b091038e3b353abb4630ffd66a85cb95b2b971e78a4d9f6f14c17a3b2"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "3ce2b431413d1c8e46d19a60b65107cc5fb7c815d5cacdb62172b3a7248edfbb"
+hash = "f8b55cf573545a31ba3fcd99b8005513aa00c34e73a53493ed55c3e5be547db0"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.toml"
-hash = "a919e7e3ecd7a2dbb2e0ed76a74bc7ce2c916e2dfa0d011a5e534e0dca3ac476"
+hash = "1e047bed371c61b186736a2ae9c214252a7c59833c23e07afed7f91382969abd"
 metafile = true
 
 [[files]]
