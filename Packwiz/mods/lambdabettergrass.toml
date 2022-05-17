@@ -11,3 +11,8 @@ hash = "7f722205950dadc03beef72abbbba2ed2bcf767b"
 [update.curseforge]
 file-id = 3684228
 project-id = 400322
+
+[option]
+optional = true
+default = false
+description = "An optifine alternative mod that adds nicer grass and snow"

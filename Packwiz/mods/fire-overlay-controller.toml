@@ -11,3 +11,8 @@ hash = "62d15f7f99465235189d637dc4398ccd6f996423"
 [update.curseforge]
 file-id = 3554254
 project-id = 528378
+
+[option]
+optional = true
+default = true
+description = "Allows the player to control the fire overlay"

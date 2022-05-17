@@ -11,3 +11,8 @@ hash = "98c90cfa8d050a22e14b80691a8531e382840772"
 [update.curseforge]
 file-id = 3764447
 project-id = 356643
+
+[option]
+optional = true
+default = true
+description = "Allows the player to log in while in game, useful when you get the invalid session error"

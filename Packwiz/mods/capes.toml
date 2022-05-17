@@ -11,3 +11,8 @@ hash = "5a1d6eaeaf9a9bd36f82f720422606784d11f21a"
 [update.curseforge]
 file-id = 3739692
 project-id = 408481
+
+[option]
+optional = true
+default = false
+description = "A mod to see capes. Enable if you want to see optifine capes (and more)"

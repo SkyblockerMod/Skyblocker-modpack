@@ -11,3 +11,8 @@ hash = "812fdc41518b786f05d72de4017c16c88a3e2ea6"
 [update.curseforge]
 file-id = 3541670
 project-id = 393442
+
+[option]
+optional = true
+default = false
+description = "An optifine alternative mod that allows the use of dynamic lights."

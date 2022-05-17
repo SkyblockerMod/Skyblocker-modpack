@@ -11,3 +11,8 @@ hash = "2a7490d56d040529c86e0d1e4017cb825381bf78"
 [update.curseforge]
 file-id = 3755145
 project-id = 310205
+
+[option]
+optional = true
+default = true
+description = "Allows minecraft fullscreen to be borderless"

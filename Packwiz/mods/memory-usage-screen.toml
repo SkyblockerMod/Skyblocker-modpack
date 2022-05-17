@@ -11,3 +11,8 @@ hash = "6381e8e65d171fb7e9653ce463a49d48a2d30129"
 [update.curseforge]
 file-id = 3460508
 project-id = 500009
+
+[option]
+optional = true
+default = false
+description = "A mod that shows your memory usage while loading"

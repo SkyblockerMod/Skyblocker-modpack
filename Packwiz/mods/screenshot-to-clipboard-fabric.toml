@@ -11,3 +11,8 @@ hash = "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
 [update.curseforge]
 file-id = 3643025
 project-id = 327154
+
+[option]
+optional = true
+default = false
+description = "Enable if you want to easily share screenshots"

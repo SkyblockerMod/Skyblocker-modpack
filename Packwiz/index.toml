@@ -200,11 +200,6 @@ hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard-fabric.toml"
 hash = "44632567c967e39232b98aa44cfe55c24beb725442b9148e1621459592406b76"
 metafile = true

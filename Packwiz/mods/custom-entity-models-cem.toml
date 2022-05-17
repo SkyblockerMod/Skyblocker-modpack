@@ -11,3 +11,8 @@ hash = "cdee86c59231dbe6df3aa17cfa2041221346306b"
 [update.curseforge]
 file-id = 3709988
 project-id = 477078
+
+[option]
+optional = true
+default = false
+description = "An optifine alternative mod that allows the use of custom entity models."

@@ -11,3 +11,8 @@ hash = "88814223cfa1aa19745529d852d545e5273f58d3"
 [update.curseforge]
 file-id = 3664303
 project-id = 533006
+
+[option]
+optional = true
+default = false
+description = "An optifine alternative that allows the use of animated textures. Enable if you are planning to use a resource pack with animated textures."

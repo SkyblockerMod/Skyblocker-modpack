@@ -11,3 +11,8 @@ hash = "343f31455c666b3979026d8a983abfa9c8ca0c9e"
 [update.curseforge]
 file-id = 3672013
 project-id = 404870
+
+[option]
+optional = true
+default = false
+description = "Enable if you want to take REALLY big screenshots 4k+"

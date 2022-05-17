@@ -11,3 +11,8 @@ hash = "2442df3bf18516737f8cfd5badd836a7e34f6288"
 [update.curseforge]
 file-id = 3770305
 project-id = 455508
+
+[option]
+optional = true
+default = false
+description = "An optifine alternative mod that allows the use of optifine shaderpacks."
