@@ -1,3 +1,5 @@
 *.zip
 *.mrpack
 *.DS_Store
+Packwiz/.gradle/
+Packwiz/build/

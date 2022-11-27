@@ -1,0 +1,13 @@
+name = "Skyblocker LIAP"
+filename = "skyblocker-1.8.2+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/KzSmHqdu/skyblocker-1.8.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "2f3e429742b27c6f765b5167db28dfa637029761"
+
+[update]
+[update.modrinth]
+mod-id = "y6DuFGwJ"
+version = "KzSmHqdu"

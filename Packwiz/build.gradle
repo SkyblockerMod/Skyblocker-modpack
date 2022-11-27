@@ -1,0 +1,22 @@
+buildscript {
+  repositories {
+    gradlePluginPortal()
+  }
+  dependencies {
+    classpath "com.modrinth.minotaur:Minotaur:2.+"
+  }
+}
+
+apply plugin: "java"
+apply plugin: "com.modrinth.minotaur"
+
+version = "2.0.0"
+
+modrinth {
+  token = System.getenv().MODRINTH_TOKEN
+  projectId = "skyblocker-modpack"
+  gameVersions = ["1.19.2"]
+  loaders = ["fabric"]
+  changelog = System.getenv().CHANGELOG
+  uploadFile = project.file("Skyblocker Modpack-${version}.mrpack")
+}
