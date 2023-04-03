@@ -1,4 +1,4 @@
-name: CI
+name: Release Pack
 
 on:
   push:
@@ -10,32 +10,30 @@ jobs:
   export_pack:
     name: Export Pack
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-go@v2
-      with:
-        go-version: '^1.18'
-    - run: go install github.com/packwiz/packwiz@latest
-    - name: export packs
-      run: |
-        zip Skyblocker-Modpack-MultiMC.zip multimc
-        cd Packwiz
-        packwiz mr export -o Skyblocker-Modpack.mrpack
-        mkdir Skyblocker-Modpack
-        packwiz cf export -o Skyblocker-Modpack.zip
-        unzip Skyblocker-Modpack.zip -d Skyblocker-Modpack
-        rm Skyblocker-Modpack.zip
+    
+      - uses: actions/checkout@v3
+      
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.0.0
         
-    - uses: actions/upload-artifact@v3.0.0
-      with:
-        name: Skyblocker-Modrinth
-        path: Packwiz/Skyblocker-Modpack.mrpack
-    - uses: actions/upload-artifact@v3.0.0
-      with:
-        name: Skyblocker-Curseforge
-        path: Packwiz/Skyblocker-Modpack
-    - uses: actions/upload-artifact@v3.0.0
-      with:
-        name: Skyblocker-MultiMC
-        path: multimc/
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      
+      - name: Export modpack
+        run: packwiz mr export
+
+      - name: Set changelog environment variable
+        run: echo "changelog=$(sed '/___/Q' CHANGELOG.md | grep -v '# ')" >> $GITHUB_ENV
+    
+      - uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          modrinth-id: KmiWHzQ4
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          changelog: ${{ env.changelog }}
+          
+          github-token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
+          
+          files-primary: Skyblocker Modpack-*.mrpack
+          loaders: |
+            fabric
