@@ -6,7 +6,7 @@ hash = "16b8dc49700fd98c8c5ea9839545ff8089eccdb42c2ebe1714a61df86a51c01f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b32f70b3a71d9998befda3dc7fa7cb84ba5463cbd35379d8738add0d399e977c"
+hash = "d91fe3f293aa0960024983ad4eb0fd337bb7e5c774b1c8be6b3269998fce4fe7"
 
 [[files]]
 file = "LICENSE"
@@ -92,11 +92,6 @@ hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "a010d19938282de103619dc85407104f33bd69751574ec072eb6e4fd333b7791"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "a2e62ebd7ce3187f7aa004aed7e4d11975104ae590ba1d3eb0ec319c30581574"
 metafile = true
@@ -109,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]

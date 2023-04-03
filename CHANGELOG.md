@@ -2,6 +2,7 @@
 Changes
 * Update to 1.19.4
 * Use latest build of Skyblocker which is updated to 1.19.4
+* Replace Item Model Fix with Model Gap Fix
 
 Removed
 * Exordium
