@@ -37,3 +37,5 @@ jobs:
           files-primary: Skyblocker Modpack-*.mrpack
           loaders: |
             fabric
+          game-versions: |
+            1.19.4
