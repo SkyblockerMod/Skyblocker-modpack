@@ -23,14 +23,14 @@ jobs:
       - name: Export modpack
         run: packwiz mr export
 
-      - name: Set changelog environment variable
-        run: echo "changelog=$(sed '/___/Q' CHANGELOG.md | grep -v '# ')" >> $GITHUB_ENV
+      - name: Make changelog file
+        run: sed '/___/Q' CHANGELOG.md | grep -v '# ' >> latest-changelog.md
     
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: KmiWHzQ4
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          changelog: ${{ env.changelog }}
+          changelog-file: latest-changelog.md
           
           github-token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
           
