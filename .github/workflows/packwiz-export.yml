@@ -24,7 +24,7 @@ jobs:
         run: packwiz mr export
 
       - name: Make changelog file
-        run: sed '/___/Q' CHANGELOG.md | grep -v '# ' >> latest-changelog.md
+        run: sed -n '/^# Release /{x;:a;n;/^# Release /!{H;ba};x;p;q}' CHANGELOG.md >> latest-changelog.md
     
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
