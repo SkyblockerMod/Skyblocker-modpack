@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/packwiz-export.yml"
-hash = "16b8dc49700fd98c8c5ea9839545ff8089eccdb42c2ebe1714a61df86a51c01f"
+hash = "0351374910270e67c4b00e3bb1605f185408ad07c515a6865c3974810c29653a"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d91fe3f293aa0960024983ad4eb0fd337bb7e5c774b1c8be6b3269998fce4fe7"
+hash = "3225abdf07d8786a8e4b55ada42134872f11a0bb17d7e97dcbdaaaed5ef0da9e"
 
 [[files]]
 file = "LICENSE"
@@ -14,7 +14,7 @@ hash = "425347eb68a83b13fe14e5a93c518c7a939cdfd3062c33b8e6bfc4236d1ea928"
 
 [[files]]
 file = "README.md"
-hash = "9dfc60df1169fcefa7440b405e0b79a764d76f6960328c8500e64c5249b55474"
+hash = "92726c20de589c514d2d1e50eaa3b443e5b80f025365ff738777e5ccd4805c39"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -47,18 +47,13 @@ hash = "0f8269bf3c425efd7c76d48dda7f48523ed5171fe2e341c6cb926d06c67cc9ff"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "3d78a83ad084cbe94d083c3d51e67b4ae0abb8be75d3077304b1c5d5d4669b2c"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
+hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
 metafile = true
 
 [[files]]
@@ -68,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "979d1295d0c4d7497bb4f34fb85316ef331f2c4a3dbf12673345e61bef63c1d0"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
@@ -78,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bf041b31e947a9473ad3a349b1ba5f8514bfb2cc2dfaa0f020331228107d83b5"
+hash = "48942049da4b13d01d60ede0f153ea9ed1e55317e5ab65423eab316b77dd243f"
 metafile = true
 
 [[files]]
@@ -88,12 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "a2e62ebd7ce3187f7aa004aed7e4d11975104ae590ba1d3eb0ec319c30581574"
+hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
 metafile = true
 
 [[files]]
@@ -113,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]
