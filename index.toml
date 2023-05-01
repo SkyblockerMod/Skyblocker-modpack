@@ -2,19 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/packwiz-export.yml"
-hash = "0351374910270e67c4b00e3bb1605f185408ad07c515a6865c3974810c29653a"
+hash = "ca4448ba90b2a3e2ca8ce48844cc816b796ec53c015dfda69a4c460dd52064f2"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3225abdf07d8786a8e4b55ada42134872f11a0bb17d7e97dcbdaaaed5ef0da9e"
+hash = "13a853e8def689c318af4fbfe8aa7ebbaef9f6a4864f4dcefc2b06b615303646"
 
 [[files]]
 file = "LICENSE"
-hash = "425347eb68a83b13fe14e5a93c518c7a939cdfd3062c33b8e6bfc4236d1ea928"
+hash = "6557adc4bc1d59232e27567a185dd70cf2ecca3154018b0be61ea29cf9e814e2"
 
 [[files]]
 file = "README.md"
-hash = "92726c20de589c514d2d1e50eaa3b443e5b80f025365ff738777e5ccd4805c39"
+hash = "0fecd70ce12792f6c9f58e7d89c353832ea59b029801130e739b6c078ffc25ff"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0f8269bf3c425efd7c76d48dda7f48523ed5171fe2e341c6cb926d06c67cc9ff"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -53,12 +53,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -78,12 +78,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
@@ -132,8 +132,9 @@ hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
-file = "mods/skyblocker-1.8.3-beta-beta-38352b7+1.19.4.jar"
-hash = "721c5aab9ce3127971522f7805a58ddf0880c9a44f95a87fc4af115f7bb116ec"
+file = "mods/skyblocker-liap.pw.toml"
+hash = "62e9c884cab5df05285f50cb17df61a179b28e9fb72c523821bdc3df77f17c07"
+metafile = true
 
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
@@ -142,15 +143,15 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "60dbdc5acba0392fa923fbbae580d216f2a3dac4b7ab8056fe28e7e4de8331f2"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true

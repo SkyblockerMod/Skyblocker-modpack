@@ -1,3 +1,9 @@
+# Release 2.1.2
+
+## Changes
+* Updated Fabric Language Kotlin, Indium, Iris, Mod Menu, Sodium, and Sodium Extra
+* Replaced skyblocker override with official release
+
 # Release 2.1.1
 
 ## Changes
