@@ -1,6 +1,14 @@
+# Release 2.1.3
+
+## Changes
+
+* Updated Mods
+* Downgraded Sodium and addons to 0.4.10
+
 # Release 2.1.2
 
 ## Changes
+
 * Updated Fabric Language Kotlin, Indium, Iris, Mod Menu, Sodium, and Sodium Extra
 * Replaced skyblocker override with official release
 
