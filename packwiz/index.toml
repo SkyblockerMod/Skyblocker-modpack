@@ -46,6 +46,11 @@ hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
 file = "mods/less-annoying-fire.pw.toml"
 hash = "9cb4a553b45edddece7efe49364a81a888179bd3546f3cfed00e935b493d2f1d"
 metafile = true
