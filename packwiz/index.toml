@@ -134,3 +134,8 @@ metafile = true
 file = "mods/tmp.pw.toml"
 hash = "af8e9261d5170e1bf917abb661f4af9437082ae3e876177dadad8cfc900b223e"
 metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
