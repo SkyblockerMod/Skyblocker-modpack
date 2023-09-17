@@ -136,6 +136,11 @@ hash = "af8e9261d5170e1bf917abb661f4af9437082ae3e876177dadad8cfc900b223e"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "3d55838fcc1155f1e062a203b4fbf15c5f2544e3a6b56ba8d8cddfaf01d62122"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
