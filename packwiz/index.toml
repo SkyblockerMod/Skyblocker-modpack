@@ -66,6 +66,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/ok-boomer.pw.toml"
 hash = "d7eff753b1192e76f4f1a1cd4b3e9cfe00835d96c4de33cbeee00bcba4252f19"
 metafile = true
