@@ -26,6 +26,11 @@ hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "3be8e2a0f6a01ef550f2154583b26b27a243e4f2a6697d8a433080ae05ff1e1b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/higher-chat.pw.toml"
 hash = "e55bf7ef8a196dc03d0273a57f87e2de568b75ce6ef2d232eaa83c8327eff435"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a4d47f10df4769734a850e6a2cd7342802f92f5e269b27464c86cfd0b5a2182f"
 metafile = true
 
 [[files]]
