@@ -7,6 +7,11 @@ on:
   workflow_dispatch:
   
 jobs:
+  update_modpack:
+    uses: SkyblockerMod/Skyblocker-modpack/.github/workflows/update.yml@master
+    secrets:
+      token: ${{ secrets.COMMIT_GITHUB_TOKEN }}
+
   export_pack:
     name: Export Pack
     runs-on: ubuntu-latest
