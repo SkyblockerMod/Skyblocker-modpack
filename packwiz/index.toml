@@ -41,6 +41,11 @@ hash = "1c73c42c43a54d3fce6c79a520e48e62b543bca91832e3eb0a0aaed2257de171"
 metafile = true
 
 [[files]]
+file = "mods/higher-chat.pw.toml"
+hash = "e55bf7ef8a196dc03d0273a57f87e2de568b75ce6ef2d232eaa83c8327eff435"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
 metafile = true
