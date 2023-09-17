@@ -86,6 +86,11 @@ hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "7f68a1be9eb39cf56e6da218cf9095914392ccdc2d4a7a81492accc4f4db60eb"
+metafile = true
+
+[[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "65065e930c613ebbc888122b2e61ee59a3c3fbf257258196672c0ce6d64affe3"
 metafile = true
