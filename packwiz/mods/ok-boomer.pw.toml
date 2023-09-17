@@ -1,0 +1,13 @@
+name = "Ok Boomer"
+filename = "ok-boomer-0.1.3+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SOLWeImS/versions/4uzRpnqm/ok-boomer-0.1.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "228f7d3bee8e9cd139eb9460e3fd5042588c286f"
+
+[update]
+[update.modrinth]
+mod-id = "SOLWeImS"
+version = "4uzRpnqm"
