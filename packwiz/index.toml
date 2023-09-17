@@ -106,6 +106,11 @@ hash = "7f68a1be9eb39cf56e6da218cf9095914392ccdc2d4a7a81492accc4f4db60eb"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "73e5ce626d364271ce8517a717a3ef39612a587aaaecf66155a00e06edc35721"
+metafile = true
+
+[[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "65065e930c613ebbc888122b2e61ee59a3c3fbf257258196672c0ce6d64affe3"
 metafile = true
