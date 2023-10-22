@@ -1,0 +1,14 @@
+{
+  "show_button_in_game_pause_menu": true,
+  "show_button_on_title_screen": true,
+  "enable_screenshot_enlargement_animation": true,
+  "prompt_when_deleting_screenshot": true,
+  "initial_screenshot_amount_per_row": 4,
+  "screen_scroll_speed": 10,
+  "screenshot_element_background_opacity": 100,
+  "render_screenshot_element_font_shadow": true,
+  "screenshot_element_text_color": "#FFFFFF",
+  "default_list_order": "ASCENDING",
+  "pause_menu_button_offset": 4,
+  "redirect_screenshot_chat_links": false
+}
