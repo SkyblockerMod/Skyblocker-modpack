@@ -1,13 +1,13 @@
 name = "Gamma Shifter - FullBright & Auto Night"
-filename = "gamma_shifter-1.0.2+mc1.20.1.jar"
+filename = "gamma_shifter-1.0.3+mc1.20.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y3YvmDru/versions/EUu7lF0c/gamma_shifter-1.0.2%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/y3YvmDru/versions/o7t0584p/gamma_shifter-1.0.3%2Bmc1.20.2.jar"
 hash-format = "sha1"
-hash = "375a69d5e22422efab36c35e2436bd818de36f98"
+hash = "f3d424d2ac1e9442a9eee5646f0b8d0d70f80fc0"
 
 [update]
 [update.modrinth]
 mod-id = "y3YvmDru"
-version = "EUu7lF0c"
+version = "o7t0584p"
