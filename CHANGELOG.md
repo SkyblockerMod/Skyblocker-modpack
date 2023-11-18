@@ -1,4 +1,4 @@
-# Release 3
+# Release 3.0.0
 This is the stable release of the skyblocker modpack 3.0.0
 
 This modpack is for hypixel skyblock
