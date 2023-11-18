@@ -1,4 +1,4 @@
-name: update mods
+name: Update Mods
 
 on:
   workflow_dispatch:
