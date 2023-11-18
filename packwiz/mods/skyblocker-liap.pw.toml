@@ -1,0 +1,13 @@
+name = "Skyblocker"
+filename = "skyblocker-1.15.0+1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/4NiBEVg7/skyblocker-1.15.0%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "f826308a4ab9d2008de4006f4af9c222161d2f85"
+
+[update]
+[update.modrinth]
+mod-id = "y6DuFGwJ"
+version = "4NiBEVg7"

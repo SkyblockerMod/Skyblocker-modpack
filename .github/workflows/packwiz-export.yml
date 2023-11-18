@@ -1,15 +1,14 @@
 name: Release Pack
 
 on:
-  push:
-    branches:
-    - master
   workflow_dispatch:
   
 jobs:
   export_pack:
     name: Export Pack
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     
       - uses: actions/checkout@v3
@@ -21,21 +20,41 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
       
       - name: Export modpack
-        run: packwiz mr export
+        run: |
+          cd packwiz
+          packwiz mr export
+          cd ..
 
       - name: Make changelog file
-        run: sed -n "/^# Release $(grep -m1 -oP '(?<=^# Release )[^\s]+' CHANGELOG.md)/,/^# Release/{/^# Release/d; p}" CHANGELOG.md >> latest-changelog.md
+        run:  |
+          cat CHANGELOG.md  | awk '/^# /{count++; if(count==2) exit; next} count==1' >> latest-changelog.md
+          
+      - name: Get pack version
+        run: |
+          echo "PACKVERSION=$(grep -oP '(?<=# Release )\d+\.\d+\.\d+' CHANGELOG.md | head -n 1)" >> $GITHUB_ENV
+          
+      - name: Get Minecraft version
+        run: |
+          echo "MC=$(grep -E 'minecraft\s*=\s*"[0-9.]+"' packwiz/pack.toml | awk -F'"' '{print $2}')" >> $GITHUB_ENV
     
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: KmiWHzQ4
+          modrinth-featured: false
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          github-tag: ${{env.PACKVERSION}}
           changelog-file: latest-changelog.md
           
           github-token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
+          name: "${{env.PACKVERSION}} for ${{env.MC}}"
+          version: ${{env.PACKVERSION}}
           
-          files-primary: Skyblocker Modpack-*.mrpack
+          files-primary: packwiz/Skyblocker Modpack-*.mrpack
           loaders: |
             fabric
           game-versions: |
-            1.19.4
+            ${{env.MC}}
+            
+      - name: Discord notification
+        run: |
+          echo "placeholder"

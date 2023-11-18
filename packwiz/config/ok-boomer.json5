@@ -1,0 +1,15 @@
+{
+	"useCinematicCamera": false,
+	"enableScreenBooming": true,
+	"boomTransition": true,
+	"defaultBoom": 7.5,
+	"boomTransitionSpeed": 1.0,
+	"boomScrollSensitivity": 1.0,
+	"boomLimits": {
+		"enableLimits": true,
+		"allowBoomingOut": false,
+		"maxBoom": 100,
+		"maxScreenBoom": 5
+	},
+	"iDoNotEndorseTomfoolery": false
+}
