@@ -1,3 +1,19 @@
+# Release 3.0.1
+
+## Changes
+### Updated:
+ - Architectury API
+ - Chat Patches
+ - Cloth Config API
+ - Fabric API
+ - FerriteCore
+ - ImmediatelyFast
+ - Reese's Sodium Options
+ - Roughly Enough Items (REI)
+ - Seamless
+ - Sodium Extra
+ - YetAnotherConfigLib
+
 # Release 3.0.0
 This is the stable release of the skyblocker modpack 3.0.0
 
