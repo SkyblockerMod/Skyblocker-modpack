@@ -57,4 +57,36 @@ jobs:
             
       - name: Discord notification
         run: |
-          echo "placeholder"
+          JSON_PAYLOAD='{
+          "content": "<@&1175530098066210816>",
+          "embeds": [
+            {
+              "title": "${{env.PACKVERSION}} for ${{env.MC}}",
+              "color": 1345667,
+              "fields": [
+                {
+                  "name": "**Changes**",
+                  "value": "${cat latest-changelog.md | tail -n +3 | sed 's/###//' | awk '{$1=$1};1'}"
+                },
+                {
+                  "name": "Downloads",
+                  "value": "[<:modrinth:900697862206287882> Modrinth](https://modrinth.com/modpack/skyblocker-modpack/version/${{env.PACKVERSION}})\n[<:github:900697885706952725> Github](https://github.com/SkyblockerMod/Skyblocker-modpack/releases/tag/${{env.PACKVERSION}})"
+                }
+              ],
+              "author": {
+                "name": "Skyblocker Modpack",
+                "url": "https://modrinth.com/modpack/skyblocker-modpack"
+              },
+              "footer": {
+                "text": "A fabric Mod",
+                "icon_url": "https://fabricmc.net/assets/logo.png"
+              },
+              "thumbnail": {
+                "url": "https://hysky.de/skyblocker.png"
+              }
+            }
+          ],
+          "attachments": []
+          }'
+          
+          curl -H "Content-Type: application/json" --data-binary "$JSON_PAYLOAD" "${{ secrets.DISCORD_UPDATE_MODPACK_WEBHOOK }}"
