@@ -1,3 +1,9 @@
+# Release 3.0.2
+
+## Changes
+### Updated:
+ - Architectury API
+
 # Release 3.0.1
 
 ## Changes
