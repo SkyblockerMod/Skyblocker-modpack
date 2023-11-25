@@ -1,3 +1,9 @@
+# Release 3.0.4
+
+## Changes
+### Updated:
+ - Seamless
+
 # Release 3.0.3
 
 ## Changes
