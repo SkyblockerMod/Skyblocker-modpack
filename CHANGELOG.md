@@ -1,3 +1,10 @@
+# Release 3.0.6
+
+## Changes
+### Updated:
+ - Fabric API
+ - Skyblocker
+
 # Release 3.0.5
 
 ## Changes

@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b1733f1dd00ee521372f6265fd383ebfb90cd4b78aba4a449a86ee780c77273"
+hash = "d171eabd7e1e44aaf3437dff4887bd02d2bb90f54c219417f538278b0f6cda12"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "42de602f134c9348fa83766b2103a4ab786993322eb802c7c9b90664390b4cd4"
+hash = "9a625dbc85d105bf9dda42506b4992feea86eac5cd5061534c85a90831b5bea4"
 metafile = true
 
 [[files]]
