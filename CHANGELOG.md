@@ -1,3 +1,9 @@
+# Release 3.0.7
+
+## Changes
+### Updated:
+ - Chat Patches
+
 # Release 3.0.6
 
 ## Changes
