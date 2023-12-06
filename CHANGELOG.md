@@ -1,3 +1,9 @@
+# Release 3.0.8
+
+## Changes
+### Updated:
+ - Sodium
+
 # Release 3.0.7
 
 ## Changes
