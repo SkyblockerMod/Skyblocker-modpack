@@ -150,12 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8b98a77bd50c8c287121ded96feff795d9ca11d8038cd2e500a248651354b2a6"
+hash = "ec2466c36db613418b188d4ca2e09b9ec1ae960ddcfe8bdb6ab5567f805757b8"
 metafile = true
 
 [[files]]
