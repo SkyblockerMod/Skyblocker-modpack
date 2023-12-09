@@ -1,3 +1,11 @@
+# Release 3.0.11
+
+## Changes
+### Updated:
+ - Architectury API
+ - Fabric API
+ - Seamless
+
 # Release 3.0.10
 
 ## Changes
