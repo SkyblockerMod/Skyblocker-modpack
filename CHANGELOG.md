@@ -1,3 +1,12 @@
+# Release 3.0.12
+
+## Changes
+### Updated:
+ - Cloth Config API
+ - oωo (owo-lib)
+ - Roughly Enough Items (REI)
+ - Sodium
+
 # Release 3.0.11
 
 ## Changes

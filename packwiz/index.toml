@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
+hash = "3d6b086706dafceb5141954c666068d97b23aab0101836c955e826a0e43b78c6"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "a9f4f363f18b90462ca362bbe0179a3150a801a960ff81044b7ad47aa468be73"
+hash = "20b537c055853e57f065c4a73fcae7ac62a7b4cb20cf0befe0850a0bfc99408a"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "276b7031a0ae0a005049689b1375a031175160b3abc862c7369c7d9d51994e1c"
+hash = "073f8773349097fe5d1ef1a91fc69d70571d5dbaf9f0d6149ebfc077339a1344"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "f2039f027d4c4e3cb6522c116d0a9654e6c111e044a40a7dc2e1aa03eb733251"
+hash = "0d98c0b5533b3875c1bc89f6c479501ddab5b622f370752870756d9017b7d28e"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f1d83469db110ef5cad996049037740d122688703cd90e75ecdc52e4d834a360"
+hash = "4198bbe1756d96d29a82f0134bcbd5f7a2b5c4447b8628fc19fda0d9c712f868"
 metafile = true
 
 [[files]]
