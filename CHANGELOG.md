@@ -1,3 +1,9 @@
+# Release 3.0.14
+
+## Changes
+### Updated:
+ - Roughly Enough Items (REI)
+
 # Release 3.0.13
 
 ## Changes
