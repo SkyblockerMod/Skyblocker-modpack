@@ -1,3 +1,9 @@
+# Release 3.0.17
+
+## Changes
+### Updated:
+ - Cloth Config API
+
 # Release 3.0.16
 
 ## Changes
