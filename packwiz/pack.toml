@@ -1,12 +1,12 @@
 name = "Skyblocker Modpack"
 author = "Wohlhabend, TacoMonkey"
-version = "3.0.17"
+version = "3.0.18"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f08f261518bec09e84946202e5e4ff9c58b0a9fcc78e8cd8bd7d7d039d275af0"
+hash = "eb704ab1c17a0de08f60a34e0a9b955225bd9187c0800f54be3452ac1e046425"
 
 [versions]
 fabric = "0.15.0"
