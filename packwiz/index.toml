@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-shifter.pw.toml"
-hash = "5a5f8b5f6fc24912da3077551620c7e782774f6232dfa87715a90fa7a795df96"
+hash = "fd44ca2d8bee8dabda4837fbf782efcd5b3f769ddda5c5a913e2988cf7e10426"
 metafile = true
 
 [[files]]

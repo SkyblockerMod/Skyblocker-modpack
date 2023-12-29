@@ -1,3 +1,9 @@
+# Release 3.0.19
+
+## Changes
+### Updated:
+ - Gamma Shifter - FullBright & Auto Night
+
 # Release 3.0.18
 
 ## Changes
