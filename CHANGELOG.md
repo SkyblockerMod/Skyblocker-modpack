@@ -1,3 +1,9 @@
+# Release 3.0.20
+
+## Changes
+### Updated:
+ - Chat Patches
+
 # Release 3.0.19
 
 ## Changes
