@@ -1,3 +1,9 @@
+# Release 3.0.22
+
+## Changes
+### Updated:
+ - Fabric API
+
 # Release 3.0.21
 
 ## Changes
