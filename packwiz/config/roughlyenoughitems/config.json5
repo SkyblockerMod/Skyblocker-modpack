@@ -36,7 +36,7 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.right.bracket",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
@@ -137,7 +137,7 @@
 		"theme": "LIGHT",
 		"layout": {
 			// Declares the position of the search field.
-			"searchFieldLocation": "CENTER",
+			"searchFieldLocation": "BOTTOM_SIDE",
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
@@ -161,7 +161,7 @@
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": false,
+		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,

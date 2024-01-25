@@ -1,13 +1,13 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-13.0.685-fabric.jar"
+filename = "RoughlyEnoughItems-14.0.688-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/2ZQtqn2d/RoughlyEnoughItems-13.0.685-fabric.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/Jhw0fDTs/RoughlyEnoughItems-14.0.688-fabric.jar"
 hash-format = "sha1"
-hash = "d79153b7d3a0c45d2532362d0e18d99b1ca5382f"
+hash = "a0693dc5036ca869196a6d9eb815fad9d3a42625"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "2ZQtqn2d"
+version = "Jhw0fDTs"

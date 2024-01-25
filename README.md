@@ -1,7 +1,7 @@
 # Skyblocker-modpack
 <img height="150" src="https://hysky.de/skyblocker.png" />
 
-Modpack for hypixel skyblock (fabric) (1.20.2) \
+Modpack for hypixel skyblock (fabric) (1.20.4) \
 This modpack includes useful client-side **utility** and **performance** mods alongside the [Skyblocker-LIAP](https://modrinth.com/mod/skyblocker-liap) mod. \
 \
 This modpack is intended for the Skyblock game mode on hypixel.net.
@@ -9,7 +9,7 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 ## 🔧 List of mods
 
 <details open>
-<summary> Installed mods (23 mods)</summary>
+<summary> Installed mods (22 mods)</summary>
 
 ## Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -20,10 +20,9 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Too Many Players](https://modrinth.com/mod/tmp)
 
 ## Quality Of Life Mods:
-- [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
+- [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
 - [Gamma Shifter](https://modrinth.com/mod/gamma-shifter)
 - [Ok Boomer](https://modrinth.com/mod/ok-boomer)
@@ -32,9 +31,9 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 ## Miscellenious
+- [Edgeless Chat Screen](https://modrinth.com/mod/edgeless-chat-screen)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
-- [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
 - [Seamless](https://modrinth.com/mod/seamless)
 
 ## Librarys
