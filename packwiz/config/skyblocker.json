@@ -1,11 +1,14 @@
 {
 	"version": 1,
 	"general": {
+		"enableTips": true,
 		"acceptReparty": true,
+		"betterPartyFinder": true,
 		"backpackPreviewWithoutShift": true,
 		"compactorDeletorPreview": true,
 		"hideEmptyTooltips": true,
 		"hideStatusEffectOverlay": false,
+		"dontStripSkinAlphaValues": true,
 		"tabHud": {
 			"tabHudEnabled": true,
 			"tabHudScale": 100,
@@ -34,6 +37,9 @@
 			"highlightFoundSouls": true,
 			"highlightOnlyNearbySouls": false
 		},
+		"mythologicalRitual": {
+			"enableMythologicalRitualHelper": true
+		},
 		"itemCooldown": {
 			"enableItemCooldowns": true
 		},
@@ -41,6 +47,10 @@
 			"enableShortcuts": true,
 			"enableCommandShortcuts": true,
 			"enableCommandArgShortcuts": true
+		},
+		"waypoints": {
+			"enableWaypoints": true,
+			"waypointType": "WAYPOINT"
 		},
 		"quiverWarning": {
 			"enableQuiverWarning": true,
@@ -57,27 +67,35 @@
 			"avg": "BOTH",
 			"enableLowestBIN": true,
 			"enableBazaarPrice": true,
-			"enableMuseumDate": true
+			"enableObtainedDate": true,
+			"enableMuseumInfo": true,
+			"enableExoticTooltip": true
 		},
 		"itemInfoDisplay": {
 			"attributeShardInfo": true,
 			"itemRarityBackgrounds": true,
+			"itemRarityBackgroundStyle": "SQUARE",
 			"itemRarityBackgroundsOpacity": 0.5
 		},
 		"wikiLookup": {
 			"enableWikiLookup": true,
-			"officialWiki": false
+			"officialWiki": true
+		},
+		"chestValue": {
+			"enableChestValue": true,
+			"color": "DARK_GREEN",
+			"incompleteColor": "BLUE"
 		},
 		"specialEffects": {
 			"rareDungeonDropEffects": true
 		},
 		"hitbox": {
-			"oldFarmlandHitbox": true,
+			"oldFarmlandHitbox": false,
 			"oldLeverHitbox": true
 		},
 		"titleContainer": {
 			"titleContainerScale": 100.0,
-			"x": 540,
+			"x": 214,
 			"y": 10,
 			"direction": "HORIZONTAL",
 			"alignment": "MIDDLE"
@@ -107,8 +125,8 @@
 		},
 		"dungeons": {
 			"secretWaypoints": {
+				"enableRoomMatching": true,
 				"enableSecretWaypoints": true,
-				"noInitSecretWaypoints": false,
 				"waypointType": "OUTLINED_WAYPOINT",
 				"showSecretText": true,
 				"enableEntranceWaypoints": true,
@@ -120,7 +138,27 @@
 				"enableLeverWaypoints": true,
 				"enableFairySoulWaypoints": true,
 				"enableStonkWaypoints": true,
+				"enableAotvWaypoints": true,
+				"enablePearlWaypoints": true,
 				"enableDefaultWaypoints": true
+			},
+			"doorHighlight": {
+				"enableDoorHighlight": true,
+				"doorHighlightType": "OUTLINE"
+			},
+			"dungeonScore": {
+				"enableDungeonScore270Message": false,
+				"enableDungeonScore270Title": false,
+				"enableDungeonScore270Sound": false,
+				"dungeonScore270Message": "270 Score Reached!",
+				"enableDungeonScore300Message": true,
+				"enableDungeonScore300Title": true,
+				"enableDungeonScore300Sound": true,
+				"dungeonScore300Message": "300 Score Reached!",
+				"enableScoreHUD": true,
+				"scoreX": 31,
+				"scoreY": 161,
+				"scoreScaling": 1.0
 			},
 			"dungeonChestProfit": {
 				"enableProfitCalculator": true,
@@ -132,19 +170,30 @@
 				"lossColor": "RED",
 				"incompleteColor": "BLUE"
 			},
+			"mimicMessage": {
+				"sendMimicMessage": true,
+				"mimicMessage": "Mimic dead!"
+			},
 			"croesusHelper": true,
 			"enableMap": true,
 			"mapScaling": 1.0,
 			"mapX": 2,
-			"mapY": 2,
+			"mapY": 26,
+			"playerSecretsTracker": false,
 			"starredMobGlow": true,
 			"solveThreeWeirdos": true,
 			"blazeSolver": true,
 			"creeperSolver": true,
 			"solveTrivia": true,
 			"solveTicTacToe": true,
+			"solveWaterboard": true,
+			"fireFreezeStaffTimer": true,
+			"floor3GuardianHealthDisplay": true,
+			"allowDroppingProtectedItems": true,
 			"lividColor": {
-				"enableLividColor": true,
+				"enableLividColorGlow": true,
+				"enableLividColorText": true,
+				"enableLividColorTitle": true,
 				"lividColorText": "The livid color is [color]"
 			},
 			"terminals": {
@@ -161,12 +210,15 @@
 				"enabled": true,
 				"style": "SIMPLE",
 				"enableBackground": true,
-				"x": 10,
-				"y": 10
+				"x": 0,
+				"y": 25
 			}
 		},
 		"rift": {
 			"mirrorverseWaypoints": true,
+			"blobbercystGlow": true,
+			"enigmaSoulWaypoints": false,
+			"highlightFoundEnigmaSouls": true,
 			"mcGrubberStacks": 0
 		},
 		"spidersDen": {
@@ -326,12 +378,15 @@
 		"hideCombo": "PASS",
 		"hideAutopet": "PASS",
 		"hideShowOff": "PASS",
+		"hideToggleSkyMall": "PASS",
+		"hideMimicKill": "PASS",
+		"hideDeath": "PASS",
 		"hideMana": false
 	},
 	"richPresence": {
-		"enableRichPresence": false,
+		"enableRichPresence": true,
 		"info": "LOCATION",
-		"cycleMode": false,
+		"cycleMode": true,
 		"customMessage": "Skyblocker-Modpack"
 	}
 }

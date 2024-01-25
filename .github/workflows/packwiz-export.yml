@@ -37,7 +37,7 @@ jobs:
         run: |
           echo "MC=$(grep -E 'minecraft\s*=\s*"[0-9.]+"' packwiz/pack.toml | awk -F'"' '{print $2}')" >> $GITHUB_ENV
     
-      - uses: Kir-Antipov/mc-publish@v3.2
+      - uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: KmiWHzQ4
           modrinth-featured: false
@@ -58,35 +58,35 @@ jobs:
       - name: Discord notification
         run: |
           JSON_PAYLOAD='{
-          "content": "<@&1175530098066210816>",
-          "embeds": [
-            {
-              "title": "${{env.PACKVERSION}} for ${{env.MC}}",
-              "color": 1345667,
-              "fields": [
-                {
-                  "name": "**Changes**",
-                  "value": "'"${$(awk '/^# /{count++; if(count==2) exit; next} count==1' CHANGELOG.md | tail -n +3 | sed 's/###//' | awk '{$1=$1};1')//$'\n'/\\n}"'"
+            "content": "<@&1175530098066210816>",
+            "embeds": [
+              {
+                "title": "${{env.PACKVERSION}} for ${{env.MC}}",
+                "color": 1345667,
+                "fields": [
+                  {
+                    "name": "**Changes**",
+                    "value": "'"$(cat latest-changelog.md | tr '\n' '\\n')"'" 
+                  },
+                  {
+                    "name": "Downloads",
+                    "value": "[<:modrinth:900697862206287882> Modrinth](https://modrinth.com/modpack/skyblocker-modpack/version/${{env.PACKVERSION}})\n[<:github:900697885706952725> Github](https://github.com/SkyblockerMod/Skyblocker-modpack/releases/tag/${{env.PACKVERSION}})"
+                  }
+                ],
+                "author": {
+                  "name": "Skyblocker Modpack",
+                  "url": "https://modrinth.com/modpack/skyblocker-modpack"
                 },
-                {
-                  "name": "Downloads",
-                  "value": "[<:modrinth:900697862206287882> Modrinth](https://modrinth.com/modpack/skyblocker-modpack/version/${{env.PACKVERSION}})\n[<:github:900697885706952725> Github](https://github.com/SkyblockerMod/Skyblocker-modpack/releases/tag/${{env.PACKVERSION}})"
+                "footer": {
+                  "text": "A fabric Mod",
+                  "icon_url": "https://fabricmc.net/assets/logo.png"
+                },
+                "thumbnail": {
+                  "url": "https://hysky.de/skyblocker.png"
                 }
-              ],
-              "author": {
-                "name": "Skyblocker Modpack",
-                "url": "https://modrinth.com/modpack/skyblocker-modpack"
-              },
-              "footer": {
-                "text": "A fabric Mod",
-                "icon_url": "https://fabricmc.net/assets/logo.png"
-              },
-              "thumbnail": {
-                "url": "https://hysky.de/skyblocker.png"
               }
-            }
-          ],
-          "attachments": []
+            ],
+            "attachments": []
           }'
-          
+
           curl -H "Content-Type: application/json" --data-binary "$JSON_PAYLOAD" "${{ secrets.DISCORD_UPDATE_MODPACK_WEBHOOK }}"
