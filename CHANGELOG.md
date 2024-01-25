@@ -1,8 +1,19 @@
-# Release 3.0.25
-
+# Release 3.1.0
 ## Changes
-### Updated:
- - Fabric API
+Update modpack to 1.20.4
+
+### Removed:
+- modelfix
+- screenshot view
+- adaptive tooltip (because no 1.20.4 version)
+### Added:
+- tooltip scroll
+- edgeless chat screen
+### Added Resource packs:
+- Default Dark Mode
+- Enhanced Boss Bars
+### Misc:
+- changed some default configs
 
 # Release 3.0.24
 
