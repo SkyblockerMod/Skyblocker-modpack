@@ -49,7 +49,7 @@ jobs:
           name: "${{env.PACKVERSION}} for ${{env.MC}}"
           version: ${{env.PACKVERSION}}
           
-          files-primary: packwiz/Skyblocker Modpack-*.mrpack
+          files: packwiz/Skyblocker Modpack-*.mrpack
           loaders: |
             fabric
           game-versions: |
