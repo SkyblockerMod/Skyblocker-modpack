@@ -9,10 +9,11 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 ## 🔧 List of mods
 
 <details open>
-<summary> Installed mods (22 mods)</summary>
+<summary> Installed mods (23 mods)</summary>
 
 ## Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+- [Aaron’s Mod](https://modrinth.com/mod/aaron-mod)
 
 ## Performance Mods:
 - [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -22,7 +23,7 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 - [Sodium](https://modrinth.com/mod/sodium)
 
 ## Quality Of Life Mods:
-- [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
+- [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
 - [Gamma Shifter](https://modrinth.com/mod/gamma-shifter)
 - [Ok Boomer](https://modrinth.com/mod/ok-boomer)
