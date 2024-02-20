@@ -1,3 +1,17 @@
+# Release 3.2.0
+## Changes
+
+### Removed:
+- tooltip scroll
+### Added:
+- adaptive tooltip
+- aaron-mod
+### Added Resource packs (for real this time):
+- Default Dark Mode
+- Enhanced Boss Bars
+### Misc:
+- changed some default configs
+
 # Release 3.1.0
 ## Changes
 Update modpack to 1.20.4
