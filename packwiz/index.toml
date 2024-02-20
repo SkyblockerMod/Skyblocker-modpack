@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aaron-mod.json"
+hash = "949b9a7ee313add599dd8cba2e0b9804a8ce1955e64035669a51812adb616c0a"
+
+[[files]]
+file = "config/adaptive-tooltips.json"
+hash = "27f25fb8bd4dc57f21f0d5537298d7cda166baaaef05116365f22a58ce0f334b"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "59d7388e90519a788f46b09f27d766e183427a547038b6316ecaeed52c710859"
 
@@ -97,8 +105,18 @@ file = "config/tooltipscroll.json"
 hash = "26d10faa73630d65207d4c32eda39dadc6e2c5fdb7226a04a654eafb5ac11592"
 
 [[files]]
+file = "mods/aaron-mod.pw.toml"
+hash = "2b09587d74418d308f8daaf550cc6209414da13b2d99ba72c94aedb587c3e1f2"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
+hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
@@ -123,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
 metafile = true
 
 [[files]]
@@ -138,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]
@@ -163,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "7df4e9e2dcdae03cff43d5c0159b638f6b2eba53d3f9419a756facb0bcce4101"
+hash = "f3636b986e4bf3fd2c66e393dca81170247b157b076f02160ff755e17dc792a9"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
@@ -188,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ebe386eef0fb117e3bc3252786fbca4b3f05e45eb2cc8e2f56549aad396d244f"
+hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
@@ -203,7 +221,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "55b3c2c0f118e89480cab216ab750006e6dc388ca9afde9243620913b8028330"
+hash = "18c757278b260d149382db12136f4339fd195be868bf385cdb40023412c1c4cc"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode-1.20.2+-2023.11.0.zip"
+hash = "3f113808b22e227c2cbd3df226cd6559c381201b36bf8de06dc0fffe1d92dc6b"
+
+[[files]]
+file = "resourcepacks/[1.4]+Enhanced+Boss+Bars.zip"
+hash = "874bc2511c117fcec05c88333244ed3f192e5ba8d33abe3dcf8fc5d88be56b12"
 
 [[files]]
 file = "servers.dat"

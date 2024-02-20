@@ -45,7 +45,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/Default-Dark-Mode-1.20.2+-2023.11.0.zip","file/[1.4]+Enhanced+Boss+Bars.zip","seamless:default_seamless","skyblocker:top_aligned"]
+resourcePacks:["vanilla","fabric","file/Default-Dark-Mode-1.20.2+-2023.11.0.zip","file/[1.4]+Enhanced+Boss+Bars.zip","seamless:default_seamless_resourcepacks/default_seamless","skyblocker:top_aligned_resourcepacks/top_aligned","skyblocker:recolored_dungeon_items_resourcepacks/recolored_dungeon_items"]
 incompatibleResourcePacks:["file/[1.4]+Enhanced+Boss+Bars.zip","skyblocker:top_aligned"]
 lastServer:
 lang:en_us
