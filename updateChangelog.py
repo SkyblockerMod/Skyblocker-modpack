@@ -47,19 +47,18 @@ with open("CHANGELOG.md", "r+") as file:
         file.seek(0)
 
         file.write(f"# Release {new_version}\n\n")
-        file.write("## Changes\n")
         if modified:
-            file.write('### Updated:\n')
+            file.write('**Updated**\n')
             for item in modified:
                 file.write(f' - {item}\n')
 
         if added:
-            file.write('### Added:\n')
+            file.write('**Added**\n')
             for item in added:
                 file.write(f' - {item}\n')
 
         if removed:
-            file.write('### Removed:\n')
+            file.write('**Removed**\n')
             for item in removed:
                 file.write(f' - {item}\n')
 
