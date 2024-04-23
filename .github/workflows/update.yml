@@ -3,8 +3,8 @@ name: Update Mods
 on:
   workflow_dispatch:
   schedule:
-  # look everyday if there is a update
-    - cron:  '0 0 * * *'
+  # look every friday if there is a update
+    - cron:  '0 0 * * Fri'
 
 jobs:
   build:
