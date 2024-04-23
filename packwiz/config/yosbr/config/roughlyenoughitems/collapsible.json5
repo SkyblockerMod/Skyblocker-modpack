@@ -1,0 +1,12 @@
+{
+	"disabledGroups": [
+		"roughlyenoughitems:splash_potion",
+		"roughlyenoughitems:spawn_egg",
+		"roughlyenoughitems:enchanted_book",
+		"roughlyenoughitems:potion",
+		"roughlyenoughitems:lingering_potion",
+		"roughlyenoughitems:music_disc",
+		"roughlyenoughitems:tipped_arrow"
+	],
+	"customGroups": []
+}

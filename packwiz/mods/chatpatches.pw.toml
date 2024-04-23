@@ -1,6 +1,7 @@
 name = "Chat Patches"
 filename = "chatpatches-204.6.2.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/TC2Pejkl/chatpatches-204.6.2.jar"

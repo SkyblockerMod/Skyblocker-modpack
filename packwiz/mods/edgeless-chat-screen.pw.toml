@@ -1,13 +1,13 @@
 name = "Edgeless Chat Screen"
-filename = "edgelesschatscreen-1.20-1.0.2.jar"
+filename = "edgelesschatscreen-1.1.2-fabric1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lS8sHS85/versions/vNmM2mxq/edgelesschatscreen-1.20-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/lS8sHS85/versions/A4nSGhM5/edgelesschatscreen-1.1.2-fabric1.20.jar"
 hash-format = "sha1"
-hash = "d4c5eb188238c57bcc0c8abc09480efed5d2c135"
+hash = "c226ad7db52a52ac0ab048342de22029711d06b0"
 
 [update]
 [update.modrinth]
 mod-id = "lS8sHS85"
-version = "vNmM2mxq"
+version = "A4nSGhM5"
