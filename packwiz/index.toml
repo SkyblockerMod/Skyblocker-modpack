@@ -77,10 +77,6 @@ file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
 hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/hints.json"
-hash = "7a9caa9458aade9cd6750f0c23744d98b85863cada2cd950030ac3a00ef4174a"
-
-[[files]]
 file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
 hash = "9e0468388875b56abd75e763939b72a75cd4956d0eaca4a3c3df427dccca63ea"
 
