@@ -49,6 +49,8 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 
 </details>
 
+## 🎨 List of Resourcepacks
+
 <details open>
 <summary> Resourcepacks (2)</summary>
 
