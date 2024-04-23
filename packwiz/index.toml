@@ -1,112 +1,132 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/aaron-mod.json"
-hash = "949b9a7ee313add599dd8cba2e0b9804a8ce1955e64035669a51812adb616c0a"
+file = "config/yosbr/config/aaron-mod.json"
+hash = "7be2d1421a4be409bf600d351efef296257d3fc174ebb39ca30d6c4be2e44ccb"
 
 [[files]]
-file = "config/adaptive-tooltips.json"
+file = "config/yosbr/config/adaptive-tooltips.json"
 hash = "27f25fb8bd4dc57f21f0d5537298d7cda166baaaef05116365f22a58ce0f334b"
 
 [[files]]
-file = "config/chatpatches.json"
+file = "config/yosbr/config/chatpatches.json"
 hash = "59d7388e90519a788f46b09f27d766e183427a547038b6316ecaeed52c710859"
 
 [[files]]
-file = "config/emi.css"
+file = "config/yosbr/config/emi.css"
 hash = "e603b8e48622141f9e8bc81ffe68c476139fe4f5d16e374812d25f211fe5733a"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+file = "config/yosbr/config/entityculling.json"
+hash = "6e961d971f43e378643ce2a6101bc8899c63c77c661098bf6af3555b5b1dec57"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "73457abe9a08b198cdab44f39339915e371ff86decb9bdb78106ffb153d70ef6"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
-file = "config/gamma_shifter.properties"
-hash = "3e040fbf42e0621eb56fa7a450482ecfb43e094b131c1a658c355f57cceaa5ca"
+file = "config/yosbr/config/gamma_shifter.properties"
+hash = "a578c42c37f7286ed0fa8b5aae663c1b9108bfc685e328dbdce41296a9459dc5"
 
 [[files]]
-file = "config/immediatelyfast.json"
-hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
 
 [[files]]
-file = "config/iris.properties"
-hash = "c3ffa6054b9d53919ead59f9697b1ad2364744ee6f61b6de3712159b3b2805da"
+file = "config/yosbr/config/iris.properties"
+hash = "a86f213efd0490bd6e4ac97d44510e1e0b03557b3daefb169f11f762a167c0a9"
 
 [[files]]
-file = "config/libgui.json5"
+file = "config/yosbr/config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
-file = "config/lithium.properties"
+file = "config/yosbr/config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
-file = "config/midnightlib.json"
+file = "config/yosbr/config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/modelfix-client.json"
+file = "config/yosbr/config/modelfix-client.json"
 hash = "d7435276b71f9ed4a49da3c06ec54004ba8b1ed46f3c32ea3a000737507d3e7b"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "53d3ca5f6c0f0fac6e14533237af0f63d226f01a13522fd3897ccab99fa02b56"
+file = "config/yosbr/config/modmenu.json"
+hash = "304a1e541badba2f1e8d86ca96bbed9b36f64a7a74aaf4bc930d064cd9d25cb2"
 
 [[files]]
-file = "config/ok-boomer.json5"
+file = "config/yosbr/config/ok-boomer.json5"
 hash = "488feb7357c6640da047d4359940fbae58ac37a0d25d6687d25f6ac231628b9c"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "586d99a77442a349b668368f37d8ae08d691a8774f090b792a71baf63e4edb3e"
+file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
+hash = "c07c1780e1fbbbd2607eef21a979649783faf5ecece5d6757ef2645a5681ff28"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "28e841dd6531ec83dde63e09a57fb343d53df2d068e1ee6a233d4f9c7e665b31"
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "1c3b73c227d51490b75f7ab4de785fe8ba32f18e0547179bc6bf83adfbf7aa59"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "7f05645acd455f67cf5c678fe5993a0f3cabc085cfe8214ecb36be502974f264"
+file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
 
 [[files]]
-file = "config/skyblocker.json"
-hash = "ee9a704603131303618e64ed21b4198531879b1e03e2fa7c8d0b38669003748e"
+file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
+hash = "9e0468388875b56abd75e763939b72a75cd4956d0eaca4a3c3df427dccca63ea"
 
 [[files]]
-file = "config/skyblocker/shortcuts.json"
-hash = "7153205c05c7a16454adf9ba9b0bcbcedd023c7189bcd8d1bbb352cad1d42164"
+file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
+hash = "6cdce20865f384a6248d0596cbba8ac4ca2d26c29aa9a94a34389dbbec2640d2"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "config/yosbr/config/skyblocker.json"
+hash = "1908d509b978378a2e2897b1de115479d28c4d5d40170faa630fe1dccf34c0ab"
+
+[[files]]
+file = "config/yosbr/config/skyblocker/shortcuts.json"
+hash = "0ac4be36929e089081af6ee0bf81eb3a4d06054e96d63b16d016be18511b5719"
+
+[[files]]
+file = "config/yosbr/config/skyblocker/status_bars.json"
+hash = "70947f3d8c12d8b942fc22802e0c3e21e61e2271072cc3c7d3bfc998bc9884da"
+
+[[files]]
+file = "config/yosbr/config/skyblockmod/skyblockmod.json"
+hash = "cdd638b206ef0d999b8abd80ff3e8472fba54617384cefdd139832ba09989a78"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "04e355ef577c8564ea1c47dc1d5928217686061a12a6cc80cb07310b9f099cb9"
 
 [[files]]
-file = "config/sodium-extra.properties"
+file = "config/yosbr/config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "config/sodium-mixins.properties"
+file = "config/yosbr/config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
-file = "config/sodium-options.json"
-hash = "c82487042bfc98eb474bd3c9569a72bb0fed4517d7879948cf3c3df77079eb03"
+file = "config/yosbr/config/sodium-options.json"
+hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
 
 [[files]]
-file = "config/tooltipscroll.json"
+file = "config/yosbr/config/tooltipscroll.json"
 hash = "26d10faa73630d65207d4c32eda39dadc6e2c5fdb7226a04a654eafb5ac11592"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "fc48f86abb77a1a310d3125cb3741dd69833d6b055e67f0b8a496470dbccf9b4"
+
+[[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "2b09587d74418d308f8daaf550cc6209414da13b2d99ba72c94aedb587c3e1f2"
+hash = "d4078e31682258b8e305be824704e5913c6b3b8eb83871009d41be579e7f6da2"
 metafile = true
 
 [[files]]
@@ -116,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "c20b67c03bc31c5bd924dcd1bcea4f3078f5a291855fc22f7862cfb7cca0dfc2"
+hash = "14837a0e5a03f3e85748e39f88288e58782786b4d0c61ce706d7a197ef13ecd1"
 metafile = true
 
 [[files]]
@@ -131,17 +151,17 @@ metafile = true
 
 [[files]]
 file = "mods/edgeless-chat-screen.pw.toml"
-hash = "35755676a947feb3286a4b7dcb9e48f2ffc7b7e8cf15384a16a5501a41b23c09"
+hash = "71e6244c015ace1bced37a9a29f539ab20d3baf0de5eddf83f20c4455d32dc25"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
+hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -156,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -170,8 +190,13 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/loqui.pw.toml"
+hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
@@ -181,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "f3636b986e4bf3fd2c66e393dca81170247b157b076f02160ff755e17dc792a9"
+hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
 
 [[files]]
@@ -191,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fa061dc6468aa501d456d99f4a73a92076a00944b62faefff122c7ce4c2c4e18"
+hash = "26d3a1b4b1c43582f551a165bc206154933481c91433e15b65d0cce0ae9d019b"
 metafile = true
 
 [[files]]
@@ -201,7 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "d163bc0a758034bf025fc5be2ef43cc262f4cc13142211b2d7263a403b15ca40"
+hash = "eede7315fd3415778ba394a88464bc2dd9e1572deb8fba42cf5dff7e62626c8f"
+metafile = true
+
+[[files]]
+file = "mods/skyblockmod.pw.toml"
+hash = "f03427c265ec665d671ea2ca203609b30b17d3167f702191c42bbd64ab9f92f4"
 metafile = true
 
 [[files]]
@@ -220,16 +250,23 @@ hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "18c757278b260d149382db12136f4339fd195be868bf385cdb40023412c1c4cc"
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode-1.20.2+-2023.11.0.zip"
-hash = "3f113808b22e227c2cbd3df226cd6559c381201b36bf8de06dc0fffe1d92dc6b"
+file = "resourcepacks/Dark.Gui.zip"
+hash = "6ab4108105ad7d8d41ea6d939aeed3ace2e81cf20161a02fc0f81f4105eb66b5"
 
 [[files]]
-file = "resourcepacks/[1.4]+Enhanced+Boss+Bars.zip"
-hash = "874bc2511c117fcec05c88333244ed3f192e5ba8d33abe3dcf8fc5d88be56b12"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "0aa728deb609a9a8a5885f6466f6b5df27ea6a9d488b43cdc94ad7bdb2adc21c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "f23d73086224a2fb9d01684ffef169158c865355d1776af045afd6171c98ef67"
+metafile = true
 
 [[files]]
 file = "servers.dat"

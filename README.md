@@ -9,11 +9,12 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 ## 🔧 List of mods
 
 <details open>
-<summary> Installed mods (23 mods)</summary>
+<summary> Installed mods (26 mods)</summary>
 
 ## Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 - [Aaron’s Mod](https://modrinth.com/mod/aaron-mod)
+- [Skyblock Mod](https://modrinth.com/mod/skyblockmod)
 
 ## Performance Mods:
 - [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -36,6 +37,8 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Seamless](https://modrinth.com/mod/seamless)
+- [Loqui](https://modrinth.com/mod/loqui)
+- [YOSBR](https://modrinth.com/mod/yosbr)
 
 ## Librarys
 - [Architectury API](https://modrinth.com/mod/architectury-api)
@@ -43,5 +46,13 @@ This modpack is intended for the Skyblock game mode on hypixel.net.
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+
+</details>
+
+<details open>
+<summary> Resourcepacks (2)</summary>
+
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
+- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars)
 
 </details>

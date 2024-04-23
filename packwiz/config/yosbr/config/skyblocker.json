@@ -4,25 +4,20 @@
 		"enableTips": true,
 		"acceptReparty": true,
 		"betterPartyFinder": true,
+		"fancyCraftingTable": true,
 		"backpackPreviewWithoutShift": true,
 		"compactorDeletorPreview": true,
 		"hideEmptyTooltips": true,
 		"hideStatusEffectOverlay": false,
 		"dontStripSkinAlphaValues": true,
+		"dungeonQuality": true,
+		"enableNewYearCakesHelper": true,
 		"tabHud": {
 			"tabHudEnabled": true,
 			"tabHudScale": 100,
+			"enableHudBackground": true,
 			"plainPlayerNames": false,
 			"nameSorting": "DEFAULT"
-		},
-		"bars": {
-			"enableBars": true,
-			"barPositions": {
-				"healthBarPosition": "LAYER2",
-				"manaBarPosition": "LAYER2",
-				"defenceBarPosition": "RIGHT",
-				"experienceBarPosition": "LAYER1"
-			}
 		},
 		"experiments": {
 			"enableChronomatronSolver": true,
@@ -30,7 +25,11 @@
 			"enableUltrasequencerSolver": true
 		},
 		"fishing": {
-			"enableFishingHelper": true
+			"enableFishingHelper": true,
+			"enableFishingTimer": true,
+			"changeTimerColor": true,
+			"fishingTimerScale": 1.0,
+			"hideOtherPlayersRods": true
 		},
 		"fairySouls": {
 			"enableFairySoulsHelper": false,
@@ -69,13 +68,17 @@
 			"enableBazaarPrice": true,
 			"enableObtainedDate": true,
 			"enableMuseumInfo": true,
-			"enableExoticTooltip": true
+			"enableExoticTooltip": true,
+			"enableAccessoriesHelper": true
 		},
 		"itemInfoDisplay": {
 			"attributeShardInfo": true,
 			"itemRarityBackgrounds": true,
 			"itemRarityBackgroundStyle": "SQUARE",
 			"itemRarityBackgroundsOpacity": 0.5
+		},
+		"itemProtection": {
+			"slotLockStyle": "FANCY"
 		},
 		"wikiLookup": {
 			"enableWikiLookup": true,
@@ -109,19 +112,48 @@
 			"enableWitherImpact": true
 		},
 		"flameOverlay": {
-			"flameHeight": 0.24,
-			"flameOpacity": 0.3
+			"flameHeight": 25,
+			"flameOpacity": 40
+		},
+		"searchOverlay": {
+			"enableBazaar": true,
+			"enableAuctionHouse": true,
+			"keepPreviousSearches": true,
+			"maxSuggestions": 3,
+			"historyLength": 3,
+			"enableCommands": true,
+			"bazaarHistory": [],
+			"auctionHistory": [
+				"Shimmering Light Slippers"
+			]
+		},
+		"fancyAuctionHouse": {
+			"enabled": true,
+			"highlightCheapBIN": true
 		},
 		"lockedSlots": [],
 		"protectedItems": [],
 		"customItemNames": {},
 		"customDyeColors": {},
-		"customArmorTrims": {}
+		"customArmorTrims": {},
+		"customAnimatedDyes": {}
 	},
 	"locations": {
 		"barn": {
 			"solveHungryHiker": true,
 			"solveTreasureHunter": true
+		},
+		"crimsonIsle": {
+			"kuudra": {
+				"supplyWaypoints": true,
+				"fuelWaypoints": true,
+				"suppliesAndFuelWaypointType": "WAYPOINT",
+				"ballistaBuildWaypoints": true,
+				"safeSpotWaypoints": true,
+				"pearlWaypoints": true,
+				"noArrowPoisonWarning": true,
+				"arrowPoisonThreshold": 32
+			}
 		},
 		"dungeons": {
 			"secretWaypoints": {
@@ -155,6 +187,9 @@
 				"enableDungeonScore300Title": true,
 				"enableDungeonScore300Sound": true,
 				"dungeonScore300Message": "300 Score Reached!",
+				"enableDungeonCryptsMessage": true,
+				"dungeonCryptsMessageThreshold": 250,
+				"dungeonCryptsMessage": "We only have [crypts] crypts out of 5, we need more!",
 				"enableScoreHUD": true,
 				"scoreX": 31,
 				"scoreY": 161,
@@ -164,6 +199,7 @@
 				"enableProfitCalculator": true,
 				"includeKismet": false,
 				"includeEssence": true,
+				"croesusProfit": true,
 				"neutralThreshold": 1000,
 				"neutralColor": "DARK_GRAY",
 				"profitColor": "DARK_GREEN",
@@ -179,14 +215,18 @@
 			"mapScaling": 1.0,
 			"mapX": 2,
 			"mapY": 26,
-			"playerSecretsTracker": false,
+			"playerSecretsTracker": true,
 			"starredMobGlow": true,
+			"starredMobBoundingBoxes": true,
 			"solveThreeWeirdos": true,
 			"blazeSolver": true,
 			"creeperSolver": true,
 			"solveTrivia": true,
 			"solveTicTacToe": true,
 			"solveWaterboard": true,
+			"solveBoulder": true,
+			"solveIceFill": true,
+			"solveSilverfish": true,
 			"fireFreezeStaffTimer": true,
 			"floor3GuardianHealthDisplay": true,
 			"allowDroppingProtectedItems": true,
@@ -206,12 +246,27 @@
 			"enableDrillFuel": true,
 			"solveFetchur": true,
 			"solvePuzzler": true,
+			"metalDetectorHelper": true,
 			"dwarvenHud": {
-				"enabled": true,
+				"enabledCommissions": true,
+				"enabledPowder": true,
 				"style": "SIMPLE",
-				"enableBackground": true,
 				"x": 0,
-				"y": 25
+				"y": 25,
+				"powderX": 2,
+				"powderY": 91
+			},
+			"crystalsHud": {
+				"enabled": true,
+				"showLocations": true,
+				"locationSize": 8,
+				"x": 10,
+				"y": 130,
+				"mapScaling": 1.0
+			},
+			"crystalsWaypoints": {
+				"enabled": true,
+				"findInChat": true
 			}
 		},
 		"rift": {
@@ -221,14 +276,37 @@
 			"highlightFoundEnigmaSouls": true,
 			"mcGrubberStacks": 0
 		},
+		"end": {
+			"enableEnderNodeHelper": true,
+			"hudEnabled": true,
+			"waypoint": true,
+			"x": 10,
+			"y": 10
+		},
 		"spidersDen": {
 			"relics": {
 				"enableRelicsHelper": false,
 				"highlightFoundRelics": true
 			}
+		},
+		"garden": {
+			"farmingHud": {
+				"enableHud": true,
+				"x": 0,
+				"y": 0
+			},
+			"dicerTitlePrevent": true,
+			"visitorHelper": true,
+			"lockMouseTool": false,
+			"lockMouseGroundOnly": false
 		}
 	},
 	"slayer": {
+		"endermanSlayer": {
+			"enableYangGlyphsNotification": true,
+			"highlightBeacons": true,
+			"highlightNukekubiHeads": true
+		},
 		"vampireSlayer": {
 			"enableEffigyWaypoints": true,
 			"compactEffigyWaypoints": false,
@@ -381,7 +459,12 @@
 		"hideToggleSkyMall": "PASS",
 		"hideMimicKill": "PASS",
 		"hideDeath": "PASS",
-		"hideMana": false
+		"hideMana": false,
+		"hideDicer": "PASS",
+		"chatRuleConfig": {
+			"announcementLength": 60,
+			"announcementScale": 3
+		}
 	},
 	"richPresence": {
 		"enableRichPresence": true,

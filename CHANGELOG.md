@@ -1,3 +1,30 @@
+# Release 3.3.0
+## Info
+Roughly enough items may not work. Follow these steps to temporarily fix the problem (until you restart the game)
+1. Start a single-player world or join a non hypixel server.
+2. Open your inventory; the "Roughly Enough Items" list should now be visible.
+3. Return to the main menu and connect to the Hypixel server.
+Your inventory should now be visible.
+
+## Changes
+### Added:
+- [Skyblock Mod](https://modrinth.com/mod/skyblockmod)
+- [Loqui](https://modrinth.com/mod/loqui)
+- [YOSBR](https://modrinth.com/mod/yosbr)
+### Updated:
+- skyblocker
+- aaron-mod
+- architectury-api
+- RoughlyEnoughItems
+- owo-lib
+- modmenu
+- ImmediatelyFast
+- fabric-api
+- entityculling
+- edgelesschatscreen
+### Misc:
+- changed some default configs
+
 # Release 3.2.0
 ## Changes
 

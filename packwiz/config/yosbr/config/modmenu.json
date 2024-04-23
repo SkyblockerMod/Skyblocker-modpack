@@ -26,5 +26,6 @@
   "disable_update_checker": [],
   "update_checker": true,
   "button_update_badge": true,
+  "update_channel": "release",
   "quick_configure": true
 }
