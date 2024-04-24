@@ -1,3 +1,10 @@
+# Release 3.3.1
+
+**Updated**
+ - Iris Shaders
+ - Skyblocker
+ - YetAnotherConfigLib
+
 # Release 3.3.0
 ## Info
 Roughly enough items may not work. Follow these steps to temporarily fix the problem (until you restart the game)

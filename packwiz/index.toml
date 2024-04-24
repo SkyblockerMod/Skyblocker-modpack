@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "eede7315fd3415778ba394a88464bc2dd9e1572deb8fba42cf5dff7e62626c8f"
+hash = "04d83d0cc7daaf771bd31cab082fd3e6f6ae0f55f93e01182bcf938ae0c26a1f"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
+hash = "db2e8974e11be3fb8c9bf6db7ef2dfe3c70e3b1b114640dc5fb9e6f9504ffa10"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ hash = "6ab4108105ad7d8d41ea6d939aeed3ace2e81cf20161a02fc0f81f4105eb66b5"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "0aa728deb609a9a8a5885f6466f6b5df27ea6a9d488b43cdc94ad7bdb2adc21c"
+hash = "6177cbc13f73360c5e88aebc0f243fb984c6b6e543824321117d55114496be73"
 metafile = true
 
 [[files]]
