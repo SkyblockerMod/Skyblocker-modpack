@@ -50,17 +50,17 @@ with open("CHANGELOG.md", "r+") as file:
         if modified:
             file.write('**Updated**\n')
             for item in modified:
-                file.write(f' - {item}\n')
+                file.write(f'- {item}\n')
 
         if added:
             file.write('**Added**\n')
             for item in added:
-                file.write(f' - {item}\n')
+                file.write(f'- {item}\n')
 
         if removed:
             file.write('**Removed**\n')
             for item in removed:
-                file.write(f' - {item}\n')
+                file.write(f'- {item}\n')
 
         file.write("\n"+content)
         file.close
