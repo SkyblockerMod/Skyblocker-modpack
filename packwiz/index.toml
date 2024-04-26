@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "26d3a1b4b1c43582f551a165bc206154933481c91433e15b65d0cce0ae9d019b"
+hash = "7089be9eb75e3eaf7f65e5493d2114000d83329a302f504cb115765263d8351b"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "db2e8974e11be3fb8c9bf6db7ef2dfe3c70e3b1b114640dc5fb9e6f9504ffa10"
+hash = "065cd3632e86519e4785ebab2d39749753ffd9e82112773e79fd5bf1dad4a1b9"
 metafile = true
 
 [[files]]

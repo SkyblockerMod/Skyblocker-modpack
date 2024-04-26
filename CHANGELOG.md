@@ -1,3 +1,9 @@
+# Release 3.3.2
+
+**Updated**
+ - Roughly Enough Items (REI)
+ - YetAnotherConfigLib
+
 # Release 3.3.1
 
 **Updated**
