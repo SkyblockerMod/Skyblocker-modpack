@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "04d83d0cc7daaf771bd31cab082fd3e6f6ae0f55f93e01182bcf938ae0c26a1f"
+hash = "265cdd542bd293c588cf8f4802618c398259b8f6a5271972a1e6715b3cb9b916"
 metafile = true
 
 [[files]]
