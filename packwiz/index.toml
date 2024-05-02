@@ -122,7 +122,7 @@ hash = "26d10faa73630d65207d4c32eda39dadc6e2c5fdb7226a04a654eafb5ac11592"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fc48f86abb77a1a310d3125cb3741dd69833d6b055e67f0b8a496470dbccf9b4"
+hash = "4c4a576fe9afc2802038d9593bb937d46a3d365446da82af1ad111e727365396"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
@@ -255,8 +255,92 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Dark.Gui.zip"
-hash = "6ab4108105ad7d8d41ea6d939aeed3ace2e81cf20161a02fc0f81f4105eb66b5"
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/all.png"
+hash = "ee05378cd8fa0aeff962a38499e7d5a3c584e38993dfd256c8e4c09f3ddcc969"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/auctions.png"
+hash = "019208eff70ac62e6ce927f51079b5e567ebfadc754a40992b01e3c42262383e"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/back.png"
+hash = "dbdcadab736bdc966273df6aa178324087b48e4d9837b9d00e3d2818e5e28f6f"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/bin.png"
+hash = "0fbec9bbdfdba6fc7d2198c2b744af27e0a0305ab2b9c681569a9f6472741227"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/hover.png"
+hash = "19a6242ecdc31db8296e1492c78a756b2728c949e5e71d27980f43d902397a4a"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/browser/background.png"
+hash = "d548acaf5ec1f548ff5caadd307d0feb758c7eb8b876665a919c017f76d3fd3a"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/browser/background_view.png"
+hash = "49b9421a29aa485f71312ea73c2aa6feb6d816f24aeafe210c2b1aaf315cf43a"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/rarity_widget/background.png"
+hash = "b7215bbb31609903edb3237242ddff2449af5e49e0d8cff903841b17abe59a6d"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/rarity_widget/hover.png"
+hash = "5e86475d3fcade1a6bb372fdcddb1f8e044dfdbc84a0ab44a7b325c9da8314d1"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/back.png"
+hash = "69687a18bd3cc5f962129a02c46593ae852cc3803fb3df1131a61573707784b9"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/high.png"
+hash = "c948ee2ae0db8e6a242a02fbb49651fcb7dc81e05eb1a9027fb23f5dc49a8347"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/hover.png"
+hash = "8a956679e0d49f4653ee7f6b262b8695bfadee2610ce0c8c6ea2603b05d707fe"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/low.png"
+hash = "cf06872c2c5911ec564dd3cabd5a34e555f1df557f40ed9ff844bca8a9960c0b"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/rand.png"
+hash = "0a29696b2bbaef728ed5791e8f3cc9c65fbdf6ad9d22cf53d6b57c4311d0878e"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/soon.png"
+hash = "e264035e37ca308b58fd92b3dc28ad54275657af90b795676e8500a7a82d3bc5"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/party_card.png"
+hash = "5c5e0b55ad0f785166d4f07621d6bb244269929d3aa7fea6bbe48f085bc7907e"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/party_card_hover.png"
+hash = "e6b9b12c15dcdb5795663dec5664ce7fbf43e266d0a0e7b9578788eb68d0a1bc"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button.png"
+hash = "201de309424040198bb21600b38a3668a26822269959b8ed380133b4101b5b81"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button_disabled.png"
+hash = "78a73531b8d753a3aff82092908d67f73ab86be31b8108079cc6db32d179424a"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button_highlighted.png"
+hash = "655c225a8fd5644ec4a5f05828dda388f336140a82b326c33b476ffa51e1dd34"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/quick_craft_overlay.png"
+hash = "6c5895a429dc84aacbc30638ad8b4537ef211291617cc921f75d5fb264aefc82"
+
+[[files]]
+file = "resourcepacks/Skyblocker_Dark/pack.mcmeta"
+hash = "e962282614808841d7fb854222f5afbac85afec3c51a3bc463e01c8a63c10dcc"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
