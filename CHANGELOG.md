@@ -1,3 +1,11 @@
+# Release 3.3.4
+
+**Updated**
+- ImmediatelyFast
+- Roughly Enough Items (REI)
+- Skyblock Mod (Fabric)
+- YetAnotherConfigLib
+
 # Release 3.3.3
 
 **Updated**

@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "7089be9eb75e3eaf7f65e5493d2114000d83329a302f504cb115765263d8351b"
+hash = "c16ce1897aca8ee3b5aeb39203199f62a1bfb9426219255eb145b415157a6d9f"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockmod.pw.toml"
-hash = "f03427c265ec665d671ea2ca203609b30b17d3167f702191c42bbd64ab9f92f4"
+hash = "e82970aa00fb2e34e26bd02726b7c57adc17c90e1ac48a44f5cfdb335e22419e"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "065cd3632e86519e4785ebab2d39749753ffd9e82112773e79fd5bf1dad4a1b9"
+hash = "fc89119ebc9c811ef3cd852556b5caaa27c03eb8fb0014567dd83cc44024ba98"
 metafile = true
 
 [[files]]
