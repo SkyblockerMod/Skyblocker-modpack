@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
+hash = "572f8b9b4e550f34994ec841890be885f9e24e89d39547d2b2891993327fb851"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ hash = "6c5895a429dc84aacbc30638ad8b4537ef211291617cc921f75d5fb264aefc82"
 
 [[files]]
 file = "resourcepacks/Skyblocker_Dark/pack.mcmeta"
-hash = "e962282614808841d7fb854222f5afbac85afec3c51a3bc463e01c8a63c10dcc"
+hash = "7521ac90147a970b2177bb7278dc9692d5dfcaaedc3d50bd4d2857a1b99cee9d"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
