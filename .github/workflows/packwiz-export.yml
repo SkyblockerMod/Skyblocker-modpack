@@ -70,7 +70,7 @@ jobs:
                   },
                   {
                     "name": "Downloads",
-                    "value": "[<:modrinth:900697862206287882> Modrinth](https://modrinth.com/modpack/skyblocker-modpack/version/${{env.PACKVERSION}})\n[<:github:900697885706952725> Github](https://github.com/SkyblockerMod/Skyblocker-modpack/releases/tag/${{env.PACKVERSION}})"
+                    "value": "[<:modrinth:1237114573354438696> Modrinth](https://modrinth.com/modpack/skyblocker-modpack/version/${{env.PACKVERSION}})\n[<:github:900697885706952725> Github](https://github.com/SkyblockerMod/Skyblocker-modpack/releases/tag/${{env.PACKVERSION}})"
                   }
                 ],
                 "author": {
