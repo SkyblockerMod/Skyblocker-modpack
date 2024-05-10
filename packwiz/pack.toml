@@ -1,6 +1,6 @@
 name = "Skyblocker Modpack"
 author = "Wohlhabend, TacoMonkey"
-version = "3.3.4"
+version = "3.3.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
