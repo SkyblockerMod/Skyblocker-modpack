@@ -1,3 +1,10 @@
+# Release 3.3.6
+
+**Updated**
+- Entity Culling
+- Fabric API
+- YetAnotherConfigLib
+
 # Release 3.3.5
 
 
