@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
+hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "26a403ecc15b5d7658dbff36ee6d2279ae814eb0a078f1a8a50167c596c06193"
+hash = "bc8d5b36edde896d0b72fc5d33a6bf52d7bdfc7e58b641cce2e95aa0f7ebd736"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ hash = "7521ac90147a970b2177bb7278dc9692d5dfcaaedc3d50bd4d2857a1b99cee9d"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "6177cbc13f73360c5e88aebc0f243fb984c6b6e543824321117d55114496be73"
+hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
 metafile = true
 
 [[files]]

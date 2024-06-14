@@ -1,3 +1,9 @@
+# Release 3.3.7
+
+**Updated**
+- Iris Shaders
+- YetAnotherConfigLib
+
 # Release 3.3.6
 
 **Updated**
