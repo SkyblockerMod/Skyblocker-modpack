@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
+hash = "19234a2e250e302674c9ccc9b457a3789e475d92c0d3e849e2a61e093caa9ee9"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]

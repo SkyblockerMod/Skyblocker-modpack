@@ -1,3 +1,9 @@
+# Release 3.3.8
+
+**Updated**
+- Entity Culling
+- Mod Menu
+
 # Release 3.3.7
 
 **Updated**
