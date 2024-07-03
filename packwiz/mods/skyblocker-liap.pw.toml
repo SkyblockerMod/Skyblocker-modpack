@@ -1,13 +1,13 @@
 name = "Skyblocker"
-filename = "skyblocker-1.20.2+1.20.4.jar"
+filename = "skyblocker-1.21.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/WxOxVmzV/skyblocker-1.20.2%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/AfQAcwhH/skyblocker-1.21.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "614460e46389ab61d117fcbf6403be4859809f50"
+hash = "a755866c79752c4c656ffb9885b7d278c026c221"
 
 [update]
 [update.modrinth]
 mod-id = "y6DuFGwJ"
-version = "WxOxVmzV"
+version = "AfQAcwhH"

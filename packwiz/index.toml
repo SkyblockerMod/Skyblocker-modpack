@@ -86,7 +86,7 @@ hash = "6cdce20865f384a6248d0596cbba8ac4ca2d26c29aa9a94a34389dbbec2640d2"
 
 [[files]]
 file = "config/yosbr/config/skyblocker.json"
-hash = "1908d509b978378a2e2897b1de115479d28c4d5d40170faa630fe1dccf34c0ab"
+hash = "4e48426c4124cbcb521294e606b5e470dae81fb43cc24baac2ff8aeb635b5cb5"
 
 [[files]]
 file = "config/yosbr/config/skyblocker/shortcuts.json"
@@ -122,131 +122,115 @@ hash = "26d10faa73630d65207d4c32eda39dadc6e2c5fdb7226a04a654eafb5ac11592"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4c4a576fe9afc2802038d9593bb937d46a3d365446da82af1ad111e727365396"
+hash = "1b4857913e4d6a3ee963e30ac24d85d126f58d3784f2e7c8a691d2872580cec9"
+
+[[files]]
+file = "mods/AdaptiveTooltips-1.3.0-fabric-1.21-rc1.jar"
+hash = "a17acbb75b74b03f38aad352653303f81001b285d9c5b3715cf7f588da07dd7b"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "d4078e31682258b8e305be824704e5913c6b3b8eb83871009d41be579e7f6da2"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+hash = "e1099c6f826e3d158a199ceef871733336adf8ea35f0d271c8fd52e694eed253"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
+hash = "0f04e9419ee67dca92f48d2c1e8b7602e260763c52aebd13453e8449141cc5ff"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "14837a0e5a03f3e85748e39f88288e58782786b4d0c61ce706d7a197ef13ecd1"
+hash = "6cd8354be5fbe8d9c369c0702156cc39352acfe36be593974a0d7ffec75283cf"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
-metafile = true
-
-[[files]]
-file = "mods/edgeless-chat-screen.pw.toml"
-hash = "71e6244c015ace1bced37a9a29f539ab20d3baf0de5eddf83f20c4455d32dc25"
+hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19234a2e250e302674c9ccc9b457a3789e475d92c0d3e849e2a61e093caa9ee9"
+hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
-file = "mods/gamma-shifter.pw.toml"
-hash = "fd44ca2d8bee8dabda4837fbf782efcd5b3f769ddda5c5a913e2988cf7e10426"
+file = "mods/gjeb.pw.toml"
+hash = "a2bf4406a6117dc9818c8280a0845fa5e5b0a41c882e17c2402bb2fe7b7e3df8"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "572f8b9b4e550f34994ec841890be885f9e24e89d39547d2b2891993327fb851"
+hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
+hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
-metafile = true
-
-[[files]]
-file = "mods/loqui.pw.toml"
-hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
 file = "mods/ok-boomer.pw.toml"
-hash = "2390504b56605e6464ecddda031cb221d46871437ecb4035783feb67faa1bff1"
+hash = "2fba6190529be027a0d1ee1e224ac6bdf4aec3e0159402516c983970cd31b521"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
+hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c16ce1897aca8ee3b5aeb39203199f62a1bfb9426219255eb145b415157a6d9f"
-metafile = true
-
-[[files]]
-file = "mods/seamless.pw.toml"
-hash = "be222778d10e4959d2ae852a2d7d21b200e728302e4c4fa9527699c40077ca21"
+hash = "2217144fc3c02492f7c3479396917478df02ebed1566514dbe1c3dae4fe46059"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "265cdd542bd293c588cf8f4802618c398259b8f6a5271972a1e6715b3cb9b916"
+hash = "2e4ceb9e3983f458ab722dba4f5ac37022c230e51f73a3b42e5dda46d21e10e4"
 metafile = true
 
 [[files]]
 file = "mods/skyblockmod.pw.toml"
-hash = "e82970aa00fb2e34e26bd02726b7c57adc17c90e1ac48a44f5cfdb335e22419e"
+hash = "6d5e6b627730b5cd2f76ef0497ec0de65101a614ec9da6da25f17ca3c6da9c3c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
+hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bc8d5b36edde896d0b72fc5d33a6bf52d7bdfc7e58b641cce2e95aa0f7ebd736"
+hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
 metafile = true
 
 [[files]]
@@ -349,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "f23d73086224a2fb9d01684ffef169158c865355d1776af045afd6171c98ef67"
+hash = "35e5f6cdcd85a70c7367d68059c5a3da984bc031a79479e405641c07521e6c81"
 metafile = true
 
 [[files]]

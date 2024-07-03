@@ -216,7 +216,7 @@
 			"mapX": 2,
 			"mapY": 26,
 			"playerSecretsTracker": true,
-			"starredMobGlow": true,
+			"starredMobGlow": false,
 			"starredMobBoundingBoxes": true,
 			"solveThreeWeirdos": true,
 			"blazeSolver": true,
@@ -320,129 +320,6 @@
 			"steakStakeUpdateFrequency": 5,
 			"enableManiaIndicator": true,
 			"maniaUpdateFrequency": 5
-		}
-	},
-	"quickNav": {
-		"enableQuickNav": true,
-		"button1": {
-			"render": true,
-			"item": {
-				"itemName": "diamond_sword",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Your Skills",
-			"clickEvent": "/skills"
-		},
-		"button2": {
-			"render": true,
-			"item": {
-				"itemName": "painting",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Collections",
-			"clickEvent": "/collection"
-		},
-		"button3": {
-			"render": true,
-			"item": {
-				"itemName": "bone",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Pets(:? \\(\\d+\\/\\d+\\))?",
-			"clickEvent": "/pets"
-		},
-		"button4": {
-			"render": true,
-			"item": {
-				"itemName": "leather_chestplate",
-				"count": 1,
-				"nbt": "tag:{display:{color:8991416}}"
-			},
-			"uiTitle": "Wardrobe \\([12]/2\\)",
-			"clickEvent": "/wardrobe"
-		},
-		"button5": {
-			"render": true,
-			"item": {
-				"itemName": "player_head",
-				"count": 1,
-				"nbt": "tag:{SkullOwner:{Id:[I;-2081424676,-57521078,-2073572414,158072763],Properties:{textures:[{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MTMxMDU4NTYwOSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBhMDc3ZTI0OGQxNDI3NzJlYTgwMDg2NGY4YzU3OGI5ZDM2ODg1YjI5ZGFmODM2YjY0YTcwNjg4MmI2ZWMxMCIKICAgIH0KICB9Cn0=\"}]}}}"
-			},
-			"uiTitle": "Sack of Sacks",
-			"clickEvent": "/sacks"
-		},
-		"button6": {
-			"render": true,
-			"item": {
-				"itemName": "ender_chest",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "(?:Rift )?Storage(?: \\(1/2\\))?",
-			"clickEvent": "/storage"
-		},
-		"button7": {
-			"render": true,
-			"item": {
-				"itemName": "player_head",
-				"count": 1,
-				"nbt": "tag:{SkullOwner:{Id:[I;-300151517,-631415889,-1193921967,-1821784279],Properties:{textures:[{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdjYzY2ODc0MjNkMDU3MGQ1NTZhYzUzZTA2NzZjYjU2M2JiZGQ5NzE3Y2Q4MjY5YmRlYmVkNmY2ZDRlN2JmOCJ9fX0=\"}]}}}"
-			},
-			"uiTitle": "none",
-			"clickEvent": "/hub"
-		},
-		"button8": {
-			"render": true,
-			"item": {
-				"itemName": "player_head",
-				"count": 1,
-				"nbt": "tag:{SkullOwner:{Id:[I;1605800870,415127827,-1236127084,15358548],Properties:{textures:[{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg5MWQ1YjI3M2ZmMGJjNTBjOTYwYjJjZDg2ZWVmMWM0MGExYjk0MDMyYWU3MWU3NTQ3NWE1NjhhODI1NzQyMSJ9fX0=\"}]}}}"
-			},
-			"uiTitle": "none",
-			"clickEvent": "/warp dungeon_hub"
-		},
-		"button9": {
-			"render": true,
-			"item": {
-				"itemName": "player_head",
-				"count": 1,
-				"nbt": "tag:{SkullOwner:{Id:[I;-562285948,532499670,-1705302742,775653035],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVkZjU1NTkyNjQzMGQ1ZDc1YWRlZDIxZGQ5NjE5Yjc2YzViN2NhMmM3ZjU0MDE0NDA1MjNkNTNhOGJjZmFhYiJ9fX0=\"}]}}}"
-			},
-			"uiTitle": "Visit prtl",
-			"clickEvent": "/visit prtl"
-		},
-		"button10": {
-			"render": true,
-			"item": {
-				"itemName": "enchanting_table",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Enchant Item",
-			"clickEvent": "/etable"
-		},
-		"button11": {
-			"render": true,
-			"item": {
-				"itemName": "anvil",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Anvil",
-			"clickEvent": "/anvil"
-		},
-		"button12": {
-			"render": true,
-			"item": {
-				"itemName": "crafting_table",
-				"count": 1,
-				"nbt": ""
-			},
-			"uiTitle": "Craft Item",
-			"clickEvent": "/craft"
 		}
 	},
 	"messages": {

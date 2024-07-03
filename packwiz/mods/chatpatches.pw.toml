@@ -1,14 +1,13 @@
 name = "Chat Patches"
-filename = "chatpatches-204.6.2.jar"
+filename = "chatpatches-210.6.5.1.jar"
 side = "client"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/TC2Pejkl/chatpatches-204.6.2.jar"
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/7ZefzlQj/chatpatches-210.6.5.1.jar"
 hash-format = "sha1"
-hash = "94b1f058f0dd1a68c9bc9dab05e498046a594d7e"
+hash = "12b573a36a9e1735fae7640720e37f9b547e8aa0"
 
 [update]
 [update.modrinth]
 mod-id = "MOqt4Z5n"
-version = "TC2Pejkl"
+version = "7ZefzlQj"

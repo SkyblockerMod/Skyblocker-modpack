@@ -1,3 +1,26 @@
+# Release 3.4.1
+**Updated**
+- Fabric API
+- Chat Patches
+- Skyblocker
+- Architectury API
+- Aaron’s Mod
+
+# Release 3.4.0
+Update to mc 1.21
+
+**Added**
+- gjeb replacement for gamma shifter
+
+**Removed** (because no 1.21 support)
+- Edgeless Chat Screen
+- Gamma Shifter - FullBright & Auto Night
+- Seamless
+- Loqui
+
+**Updated**
+- rest of the modpack
+
 # Release 3.3.8
 
 **Updated**

@@ -33,7 +33,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-gamma:20.0
+gamma:10.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
@@ -123,14 +123,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.aaron-mod.zoom:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.gamma_shifter.increase_gamma:key.keyboard.equal
-key_key.gamma_shifter.decrease_gamma:key.keyboard.minus
-key_key.gamma_shifter.toggle_mod:key.keyboard.g
-key_key.gamma_shifter.max_gamma:key.keyboard.right.bracket
-key_key.gamma_shifter.default_gamma:key.keyboard.left.bracket
-key_key.gamma_shifter.preset_one:key.keyboard.semicolon
-key_key.gamma_shifter.preset_two:key.keyboard.apostrophe
-key_key.gamma_shifter.show_gamma:key.keyboard.comma
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.ok-boomer.boom:key.keyboard.c
 key_key.ok-boomer.screen_boom:key.keyboard.unknown
@@ -144,7 +136,7 @@ key_key.itemProtection:key.keyboard.v
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
