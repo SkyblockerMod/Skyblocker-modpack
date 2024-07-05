@@ -1,3 +1,10 @@
+# Release 3.4.2
+
+**Updated**
+- Architectury API
+- Iris Shaders
+- Sodium
+
 # Release 3.4.1
 **Updated**
 - Fabric API
