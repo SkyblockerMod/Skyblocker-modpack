@@ -1,13 +1,13 @@
 name = "Skyblock Mod (Fabric)"
-filename = "skyblock-mod-1.10.4+1.21.jar"
+filename = "skyblock-mod-1.10.5+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GTIrlvJk/versions/V5m1Mbhy/skyblock-mod-1.10.4%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/GTIrlvJk/versions/5PpKEyEB/skyblock-mod-1.10.5%2B1.21.jar"
 hash-format = "sha1"
-hash = "6d86efe2af0b810c92d7abf5f5fa3e33ee7fb50c"
+hash = "6b5aa640dce88ae51a6942ad25009ea6a0faee6b"
 
 [update]
 [update.modrinth]
 mod-id = "GTIrlvJk"
-version = "V5m1Mbhy"
+version = "5PpKEyEB"

@@ -1,3 +1,10 @@
+# Release 3.4.3
+
+**Updated**
+- Architectury API
+- Fabric API
+- Skyblock Mod (Fabric)
+
 # Release 3.4.2
 
 **Updated**

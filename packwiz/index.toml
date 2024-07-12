@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockmod.pw.toml"
-hash = "6d5e6b627730b5cd2f76ef0497ec0de65101a614ec9da6da25f17ca3c6da9c3c"
+hash = "8bb47fcb9a4d4f74f306a223dacf335b57ec75400a1eb763bfbd4560e3b104ce"
 metafile = true
 
 [[files]]
