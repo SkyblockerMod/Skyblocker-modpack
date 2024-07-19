@@ -1,3 +1,9 @@
+# Release 3.4.4
+
+**Updated**
+- Fabric API
+- Reese's Sodium Options
+
 # Release 3.4.3
 
 **Updated**
