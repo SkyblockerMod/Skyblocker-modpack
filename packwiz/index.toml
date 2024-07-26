@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/gjeb.pw.toml"
-hash = "a2bf4406a6117dc9818c8280a0845fa5e5b0a41c882e17c2402bb2fe7b7e3df8"
+hash = "bfc73171a1e21a683758e7c645be517af007e4f4313aca027f1f1882e35fa21d"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-boomer.pw.toml"
-hash = "2fba6190529be027a0d1ee1e224ac6bdf4aec3e0159402516c983970cd31b521"
+hash = "a60c44f47cbaa90e20fbe426e4a29c7d1f40f68381cb52b2cb63b7595dd64b13"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "2217144fc3c02492f7c3479396917478df02ebed1566514dbe1c3dae4fe46059"
+hash = "23e13c735cde71527fdf7fcc0845ca2a096ce4b899c6a22f32ef91a3afa68316"
 metafile = true
 
 [[files]]

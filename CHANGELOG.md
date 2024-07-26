@@ -1,3 +1,12 @@
+# Release 3.4.5
+
+**Updated**
+- Architectury API
+- Cloth Config API
+- GJEB (GammaJustExtremeBright)
+- Ok Boomer
+- Roughly Enough Items (REI)
+
 # Release 3.4.4
 
 **Updated**

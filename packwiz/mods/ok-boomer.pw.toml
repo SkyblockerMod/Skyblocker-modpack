@@ -1,13 +1,13 @@
 name = "Ok Boomer"
-filename = "ok-boomer-0.1.3+1.21.jar"
+filename = "ok-boomer-0.1.4+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SOLWeImS/versions/Av0HwHHl/ok-boomer-0.1.3%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/SOLWeImS/versions/LopBLHCH/ok-boomer-0.1.4%2B1.21.jar"
 hash-format = "sha1"
-hash = "53a81de5cc2f63d89784770b1ba4ea97cbb7858b"
+hash = "95c5eeb96075584e959ebf812e5f1440fc9900ec"
 
 [update]
 [update.modrinth]
 mod-id = "SOLWeImS"
-version = "Av0HwHHl"
+version = "LopBLHCH"
