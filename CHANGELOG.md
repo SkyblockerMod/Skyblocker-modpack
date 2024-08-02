@@ -1,3 +1,9 @@
+# Release 3.4.6
+
+**Updated**
+- Fabric API
+- oωo (owo-lib)
+
 # Release 3.4.5
 
 **Updated**
