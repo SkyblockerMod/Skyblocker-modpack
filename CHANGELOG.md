@@ -1,3 +1,9 @@
+# Release 3.4.7
+
+**Updated**
+- Fabric API
+- ImmediatelyFast
+
 # Release 3.4.6
 
 **Updated**
