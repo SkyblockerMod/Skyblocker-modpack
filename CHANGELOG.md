@@ -1,3 +1,11 @@
+# Release 3.4.8
+
+**Updated**
+- Cloth Config API
+- ImmediatelyFast
+- Lithium
+- Roughly Enough Items (REI)
+
 # Release 3.4.7
 
 **Updated**
