@@ -1,3 +1,10 @@
+# Release 3.4.9
+
+**Updated**
+- Fabric API
+- Lithium
+- Skyblocker
+
 # Release 3.4.8
 
 **Updated**
