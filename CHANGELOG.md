@@ -1,3 +1,10 @@
+# Release 3.4.10
+
+**Updated**
+- Entity Culling
+- Iris Shaders
+- Sodium
+
 # Release 3.4.9
 
 **Updated**
