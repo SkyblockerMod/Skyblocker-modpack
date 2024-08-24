@@ -1,3 +1,10 @@
+# Release 3.4.11
+
+**Updated**
+- Iris Shaders
+- Reese's Sodium Options
+- Sodium Extra
+
 # Release 3.4.10
 
 **Updated**
