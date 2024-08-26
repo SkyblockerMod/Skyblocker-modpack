@@ -25,7 +25,7 @@ jobs:
       - name: Update mods
         run: |
           cd packwiz
-#          go run github.com/packwiz/packwiz@latest update --all -y
+          # go run github.com/packwiz/packwiz@latest update --all -y
           ./packwiz update --all --releaseType release -y
           cd ..
       
