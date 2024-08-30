@@ -1,3 +1,15 @@
+# Release 3.4.12
+
+**Updated**
+- Entity Culling
+- Fabric API
+- ImmediatelyFast
+- Iris Shaders
+- Mod Menu
+- Reese's Sodium Options
+- Sodium Extra
+- Sodium
+
 # Release 3.4.11
 
 **Updated**
