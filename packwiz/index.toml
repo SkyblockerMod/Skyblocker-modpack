@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "4dfb6c93b31fd322ed150cdd5619a15274611db16d34b61170d509a0f30cbd97"
+
+[[files]]
 file = "config/yosbr/config/aaron-mod.json"
 hash = "7be2d1421a4be409bf600d351efef296257d3fc174ebb39ca30d6c4be2e44ccb"
 
