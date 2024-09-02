@@ -134,7 +134,7 @@ hash = "a3ee5d1224f5417296907c446c3aba6a9e8564a4b216325563be0b6c01ab0b7c"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "e1099c6f826e3d158a199ceef871733336adf8ea35f0d271c8fd52e694eed253"
+hash = "d33ee64e0b2a9ad3b923d7c9dc8fedf911264e27fd8416aca5dbddf732b1635f"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "f9326440726283980a89d79923baa8a264183aac41341d57954dc6d2bfbbbfe5"
+hash = "5bf1d51abd06f3fa9cf89a8c326de0bb422dedfd0363ee9cee75ca855f2b6e5c"
 metafile = true
 
 [[files]]
