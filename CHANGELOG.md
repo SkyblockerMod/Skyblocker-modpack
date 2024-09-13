@@ -1,3 +1,9 @@
+# Release 3.4.16
+
+**Updated**
+- Chat Patches
+- Fabric API
+
 # Release 3.4.15
 
 **Updated**
