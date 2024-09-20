@@ -1,3 +1,11 @@
+# Release 3.4.17
+
+**Updated**
+- Chat Patches
+- Cloth Config API
+- oωo (owo-lib)
+- Roughly Enough Items (REI)
+
 # Release 3.4.16
 
 **Updated**

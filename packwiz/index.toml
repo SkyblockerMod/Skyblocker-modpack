@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "532be3f8e198cd5846225053bef609479992b2865b3e8bc921a052428c4abf23"
+hash = "8298e2e87a466a3635a67f537d5c15083805c9ec69139a0441eae83b4ec9c822"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "dc3aff994dec568716795ca2389336affaada5495e574c8193beee1555a77110"
+hash = "705b12953afb39daf0def61796eb3e59e562c3781d0b6283db0e5ffd85464036"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c35a2d6c48b65f253d5a5abee0aad1926c7a0701aa925c9793212acd3730b748"
+hash = "0dbaf4f8d2a2d24ff1ad4d4cfff4178d3ac02fecd2f9b4c589716094edfb4fd8"
 metafile = true
 
 [[files]]
