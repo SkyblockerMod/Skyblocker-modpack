@@ -1,3 +1,10 @@
+# Release 3.4.18
+
+**Updated**
+- Chat Patches
+- Fabric API
+- Lithium
+
 # Release 3.4.17
 
 **Updated**

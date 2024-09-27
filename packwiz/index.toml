@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "8298e2e87a466a3635a67f537d5c15083805c9ec69139a0441eae83b4ec9c822"
+hash = "d565971a2d0ef7546b239a7199e0e2d315a712df5fa4ebcd280764f7da6dc04c"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
+hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
 metafile = true
 
 [[files]]
