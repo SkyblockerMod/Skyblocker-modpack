@@ -1,3 +1,8 @@
+# Release 3.4.19
+
+**Updated**
+- Roughly Enough Items (REI)
+
 # Release 3.4.18
 
 **Updated**
