@@ -1,3 +1,9 @@
+# Release 3.4.21
+
+**Updated**
+- Fabric API
+- Mod Menu
+
 # Release 3.4.20
 
 **Updated**
