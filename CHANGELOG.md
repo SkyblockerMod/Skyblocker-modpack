@@ -1,3 +1,10 @@
+# Release 3.4.22
+
+**Updated**
+- FerriteCore
+- ImmediatelyFast
+- YetAnotherConfigLib
+
 # Release 3.4.21
 
 **Updated**
