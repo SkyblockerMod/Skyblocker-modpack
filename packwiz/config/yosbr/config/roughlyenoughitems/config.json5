@@ -159,6 +159,7 @@
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
 				"categoryOrdering": [
+					"skyblocker:skyblock",
 					"minecraft:plugins/crafting",
 					"minecraft:plugins/smelting",
 					"minecraft:plugins/smoking",
@@ -179,7 +180,6 @@
 					"minecraft:plugins/wax_scraping",
 					"minecraft:plugins/oxidizing",
 					"minecraft:plugins/oxidation_scraping",
-					"skyblocker:skyblock",
 					"roughlyenoughitems:plugins/information",
 					"minecraft:plugins/tag"
 				],
