@@ -1,16 +1,4 @@
 {
-  "defense": {
-    "colors": [
-      "ffffff"
-    ],
-    "text_color": "b9b9b9",
-    "size": 2,
-    "anchor": "HOTBAR_RIGHT",
-    "x": 0,
-    "y": 0,
-    "icon_position": "LEFT",
-    "show_text": true
-  },
   "health": {
     "colors": [
       "ff0000",
@@ -22,19 +10,7 @@
     "x": 0,
     "y": 1,
     "icon_position": "LEFT",
-    "show_text": true
-  },
-  "experience": {
-    "colors": [
-      "64e646"
-    ],
-    "text_color": "80ff20",
-    "size": 12,
-    "anchor": "HOTBAR_TOP",
-    "x": 0,
-    "y": 0,
-    "icon_position": "LEFT",
-    "show_text": true
+    "text_position": "BAR_CENTER"
   },
   "intelligence": {
     "colors": [
@@ -47,6 +23,42 @@
     "x": 1,
     "y": 1,
     "icon_position": "LEFT",
-    "show_text": true
+    "text_position": "BAR_CENTER"
+  },
+  "defense": {
+    "colors": [
+      "ffffff"
+    ],
+    "text_color": "b9b9b9",
+    "size": 2,
+    "anchor": "HOTBAR_RIGHT",
+    "x": 0,
+    "y": 0,
+    "icon_position": "LEFT",
+    "text_position": "BAR_CENTER"
+  },
+  "experience": {
+    "colors": [
+      "64e646"
+    ],
+    "text_color": "80ff20",
+    "size": 12,
+    "anchor": "HOTBAR_TOP",
+    "x": 0,
+    "y": 0,
+    "icon_position": "LEFT",
+    "text_position": "BAR_CENTER"
+  },
+  "speed": {
+    "colors": [
+      "ffffff"
+    ],
+    "text_color": "b9b9b9",
+    "size": 2,
+    "anchor": "HOTBAR_RIGHT",
+    "x": 1,
+    "y": 0,
+    "icon_position": "LEFT",
+    "text_position": "BAR_CENTER"
   }
 }

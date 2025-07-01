@@ -37,7 +37,7 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.f",
+				"keyCode": "key.keyboard.a",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
@@ -56,7 +56,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "DARK",
+		"theme": "LIGHT",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "BOTTOM_SIDE",
@@ -70,8 +70,9 @@
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		// Declares whether entry panel should be invisible when not searching
-		"hideEntryPanelIfIdle": false,
-		"horizontalEntriesBoundaries": 0.8348123301630435,
+		"hideEntryPanelIfIdle": true,
+		"rainbow": false,
+		"horizontalEntriesBoundaries": 0.8549382716049383,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
@@ -91,6 +92,8 @@
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,
+		"inventoryHighlightingDarkenOpacity": 0.8500000000000001,
+		"inventoryHighlightingOpacity": 1.0,
 		"itemCheatingMode": "REI_LIKE"
 	},
 	"advanced": {

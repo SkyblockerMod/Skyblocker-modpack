@@ -1,80 +1,72 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "4dfb6c93b31fd322ed150cdd5619a15274611db16d34b61170d509a0f30cbd97"
+file = "config/modrinth.index.json"
+hash = "2feaacf2517afae8ef079a0eb9b1d18be9fc0795426e965095f1bb8160052ac6"
+
+[[files]]
+file = "config/simple-modpack-update-checker.txt"
+hash = "2125b921246bd0ea371b017b6d1ce6f86b47968aa28d609cfb7d2354e52cc128"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
-hash = "7be2d1421a4be409bf600d351efef296257d3fc174ebb39ca30d6c4be2e44ccb"
-
-[[files]]
-file = "config/yosbr/config/adaptive-tooltips.json"
-hash = "27f25fb8bd4dc57f21f0d5537298d7cda166baaaef05116365f22a58ce0f334b"
+hash = "42f5b7adf5cb1ab2598ea7920c5590ad64df4a3852792da5fb2a95e9304d421d"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "59d7388e90519a788f46b09f27d766e183427a547038b6316ecaeed52c710859"
-
-[[files]]
-file = "config/yosbr/config/emi.css"
-hash = "e603b8e48622141f9e8bc81ffe68c476139fe4f5d16e374812d25f211fe5733a"
+hash = "6c7324ce2fc05e0328640930fbd0cf42f6b5c5b20ea523f6a193559c4915e02a"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "6e961d971f43e378643ce2a6101bc8899c63c77c661098bf6af3555b5b1dec57"
+hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "73457abe9a08b198cdab44f39339915e371ff86decb9bdb78106ffb153d70ef6"
+hash = "d1241397dbd8f3e664c94271bd9db41d9d2a9514f28a9e903df318897eec0874"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
-file = "config/yosbr/config/gamma_shifter.properties"
-hash = "a578c42c37f7286ed0fa8b5aae663c1b9108bfc685e328dbdce41296a9459dc5"
+file = "config/yosbr/config/gammautils.json"
+hash = "2b38ec7a0663b3b85f296f305a5564cd5c5c16fc83ed8377ecf2c34f8c254efc"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
+hash = "f4933d24a5acc79d5a54716d914ad499a49cb3083130fd994874d9efa686f580"
+
+[[files]]
+file = "config/yosbr/config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "a86f213efd0490bd6e4ac97d44510e1e0b03557b3daefb169f11f762a167c0a9"
-
-[[files]]
-file = "config/yosbr/config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+hash = "eac97b4ef2cad12ecda2de5808e0fccdc072e10f7a2785cb0751c5033a98b786"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/yosbr/config/modelfix-client.json"
-hash = "d7435276b71f9ed4a49da3c06ec54004ba8b1ed46f3c32ea3a000737507d3e7b"
+hash = "7e02c1d587a4c011b0b18080b7ba7451bd44535159a52c4c0c9a94b863334678"
+
+[[files]]
+file = "config/yosbr/config/moderate-loading-screen.json5"
+hash = "ad9e166da09b1064ab690dfb1b458e2d13c56318d765c168343dd2d673f6e271"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "304a1e541badba2f1e8d86ca96bbed9b36f64a7a74aaf4bc930d064cd9d25cb2"
-
-[[files]]
-file = "config/yosbr/config/ok-boomer.json5"
-hash = "488feb7357c6640da047d4359940fbae58ac37a0d25d6687d25f6ac231628b9c"
+hash = "de9f11d332bf2804986886e45e5235363910594e7b5311a7c887bda9b7cac90f"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
-hash = "c07c1780e1fbbbd2607eef21a979649783faf5ecece5d6757ef2645a5681ff28"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "1c3b73c227d51490b75f7ab4de785fe8ba32f18e0547179bc6bf83adfbf7aa59"
+hash = "1cc332004c5c5ae9366278d9de78fae3b01182d1142f8238d1ebdbaac9ba59d8"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
@@ -82,159 +74,184 @@ hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "9e0468388875b56abd75e763939b72a75cd4956d0eaca4a3c3df427dccca63ea"
+hash = "abc1345cfe16da39cd506406bd895447673b25e9e837052e89d7c11b99f55f57"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "6cdce20865f384a6248d0596cbba8ac4ca2d26c29aa9a94a34389dbbec2640d2"
+hash = "8a9b3e877222d06729dd594ebde05c4b26695be058833f8120f96d611d67da19"
 
 [[files]]
 file = "config/yosbr/config/skyblocker.json"
-hash = "4e48426c4124cbcb521294e606b5e470dae81fb43cc24baac2ff8aeb635b5cb5"
+hash = "7ed1726b8d1a995b7cdde06812535960d3f410222d6dbe5e3a7499e461b3b641"
+
+[[files]]
+file = "config/yosbr/config/skyblocker/hud_widgets.json"
+hash = "beb746240cfd56020f7631f539084c4f0ba049dd62e21ab9b953050d8d3f2c1f"
 
 [[files]]
 file = "config/yosbr/config/skyblocker/shortcuts.json"
-hash = "0ac4be36929e089081af6ee0bf81eb3a4d06054e96d63b16d016be18511b5719"
+hash = "3cd85c545316fea761bfa09318519a4851343d302b8bd1e4db0def81399cd4f9"
+
+[[files]]
+file = "config/yosbr/config/skyblocker/speed_presets.json"
+hash = "22071932165fda8b52c768e2975eea60aa26542ac04e57a12873da65f4a01a32"
 
 [[files]]
 file = "config/yosbr/config/skyblocker/status_bars.json"
-hash = "70947f3d8c12d8b942fc22802e0c3e21e61e2271072cc3c7d3bfc998bc9884da"
+hash = "cf7b65aa826bd973b2a389f6afe94ca35b26d840b232c88aa833acd0d86b988a"
 
 [[files]]
-file = "config/yosbr/config/skyblockmod/skyblockmod.json"
-hash = "cdd638b206ef0d999b8abd80ff3e8472fba54617384cefdd139832ba09989a78"
+file = "config/yosbr/config/skyblocker/update_notifications.json"
+hash = "d5785ecd0353396b2168bf5487f654e8cfcf998d23637e73a1ae0137a75130eb"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "04e355ef577c8564ea1c47dc1d5928217686061a12a6cc80cb07310b9f099cb9"
+hash = "da6128463b44919a76c90f216f1ede49e4b052b7d6f6c98dddd9ba91f9c6ab24"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/yosbr/config/sodium-fingerprint.json"
+hash = "a6a686b41ee84af7094051f2cebef4e1d322efd654fce32106d12ad8eba76d49"
+
+[[files]]
 file = "config/yosbr/config/sodium-mixins.properties"
-hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
 file = "config/yosbr/config/tooltipscroll.json"
-hash = "26d10faa73630d65207d4c32eda39dadc6e2c5fdb7226a04a654eafb5ac11592"
+hash = "0c3af65d5fe2cb919fb34e4a8c81337a77f232367b4e63c1ec29e3a74e3e44f2"
+
+[[files]]
+file = "config/yosbr/config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1b4857913e4d6a3ee963e30ac24d85d126f58d3784f2e7c8a691d2872580cec9"
-
-[[files]]
-file = "mods/AdaptiveTooltips-1.3.0-fabric-1.21.jar"
-hash = "a3ee5d1224f5417296907c446c3aba6a9e8564a4b216325563be0b6c01ab0b7c"
+hash = "131b4b1d85fbd8f46ff55834eba6ff3c0d63ac5eee829d33baf3b0345971cfa5"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "d33ee64e0b2a9ad3b923d7c9dc8fedf911264e27fd8416aca5dbddf732b1635f"
+hash = "ef297f472369321fafb32f4f3c9e37ce39a81d0c11a6e6d31fe3adb8d380b4d4"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+hash = "777633dc1beb41da2bac9d7607036730c2bdcd9c4610a45addc90826eeacf4ae"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "d565971a2d0ef7546b239a7199e0e2d315a712df5fa4ebcd280764f7da6dc04c"
+hash = "018ba110c5c691002c166122de8edd886e96dff0aeb06b6967c613dccea9c49a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+hash = "358105b652a698c4db5cecdab9b2eb4258ceaae7ceac9bff0ac754078f228576"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+hash = "673e0c821a3aa52547ae47833747a54205c59d2c9aeffe56f481d2a000e705b1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4f98c68b1de3837e8e7c519dfffc8c2b312768c69f804540334cc3f20714f7f6"
+hash = "030954c72cc4b961776ad73dc53b482450895aa2b606df6074667f77dd7b97ee"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "2250b48970ad684f439bf82e0275be0a2b3dbeab43dca0d2dd884601975d286a"
+hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
 metafile = true
 
 [[files]]
-file = "mods/gjeb.pw.toml"
-hash = "bfc73171a1e21a683758e7c645be517af007e4f4313aca027f1f1882e35fa21d"
+file = "mods/gamma-utils.pw.toml"
+hash = "01447878e1faf87ca8523997b246f9bcc8410ffd39544d6f824dbafa25fc05f2"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835b42848b40cd6f0568cb95fa655833e0caeb488a74cfd05df97a5644fd052b"
+hash = "90ccb0fe0e37bc5bad79886b6c32f00792dba47298d7248d1bc2d3e6d9480ac1"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+hash = "4119d56953d432be0614c7e4a317050222ce2f69844ea9b9c2954d31cedf6269"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "02da2b7f81a47d9c93eec5d9a4452f6f74d82bae4d4769559517a71baed9cf2c"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "dba4626152814c1c8987d368b2d6efcc87eb6e46adae7c9a87b250f88fa22133"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
+hash = "54cb5d9892c78247c2bd78a16333cd981a7fb47655ee1c37b221d17f4c5add4a"
 metafile = true
 
 [[files]]
-file = "mods/ok-boomer.pw.toml"
-hash = "a60c44f47cbaa90e20fbe426e4a29c7d1f40f68381cb52b2cb63b7595dd64b13"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
+file = "mods/placeholder-api.pw.toml"
+hash = "4b45aa3bb214cb9bbd3e2b6c0ef24ddaee88cbfcb617d15322a5804a3a8e7708"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "19a26dee7bda8b276722fdb43ca29b657e92441f204871194a6cbd781052ad4a"
+hash = "38aa8c3065f4ca116b089e8b9da323ea68b125221fb4bd695c307a646b75055e"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "5bf1d51abd06f3fa9cf89a8c326de0bb422dedfd0363ee9cee75ca855f2b6e5c"
+hash = "660f12d49d68660958f72637f8f73de0e8b6c4b5fa8098542bad82f3164b068b"
 metafile = true
 
 [[files]]
-file = "mods/skyblockmod.pw.toml"
-hash = "8bb47fcb9a4d4f74f306a223dacf335b57ec75400a1eb763bfbd4560e3b104ce"
-metafile = true
+file = "mods/skyblocker-modpack-lib-1.0.0.jar"
+hash = "5972327b4f6d78d2bc8fc0696c7f0f2cd3a4c32e402d38c3c88996dece4338ef"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
+hash = "1ebb470fbf9a256cd65f7f2be0c7494e7fe409aae8d7fc0efc14f8357f6f2cc4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "38bf000ad4fca8c59b96856df25c9d91dde198828ce55189939343c1d25aaf5f"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "20eef975f3b240dd5d22ae2edc3505636de2709863c971749f595c19d3ff46e4"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "43e0db4e0c5f11869cf9dafd75163ebd6eab43df9ff240a5714619b083f543ba"
+hash = "ec9c118445580c7b29b2a2cc9ffaa45c2610287467aad2696d861ecb9b028f6c"
 metafile = true
 
 [[files]]
@@ -243,102 +260,13 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/all.png"
-hash = "ee05378cd8fa0aeff962a38499e7d5a3c584e38993dfd256c8e4c09f3ddcc969"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/auctions.png"
-hash = "019208eff70ac62e6ce927f51079b5e567ebfadc754a40992b01e3c42262383e"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/back.png"
-hash = "dbdcadab736bdc966273df6aa178324087b48e4d9837b9d00e3d2818e5e28f6f"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/bin.png"
-hash = "0fbec9bbdfdba6fc7d2198c2b744af27e0a0305ab2b9c681569a9f6472741227"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/auction_type_widget/hover.png"
-hash = "19a6242ecdc31db8296e1492c78a756b2728c949e5e71d27980f43d902397a4a"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/browser/background.png"
-hash = "d548acaf5ec1f548ff5caadd307d0feb758c7eb8b876665a919c017f76d3fd3a"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/browser/background_view.png"
-hash = "49b9421a29aa485f71312ea73c2aa6feb6d816f24aeafe210c2b1aaf315cf43a"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/rarity_widget/background.png"
-hash = "b7215bbb31609903edb3237242ddff2449af5e49e0d8cff903841b17abe59a6d"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/rarity_widget/hover.png"
-hash = "5e86475d3fcade1a6bb372fdcddb1f8e044dfdbc84a0ab44a7b325c9da8314d1"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/back.png"
-hash = "69687a18bd3cc5f962129a02c46593ae852cc3803fb3df1131a61573707784b9"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/high.png"
-hash = "c948ee2ae0db8e6a242a02fbb49651fcb7dc81e05eb1a9027fb23f5dc49a8347"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/hover.png"
-hash = "8a956679e0d49f4653ee7f6b262b8695bfadee2610ce0c8c6ea2603b05d707fe"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/low.png"
-hash = "cf06872c2c5911ec564dd3cabd5a34e555f1df557f40ed9ff844bca8a9960c0b"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/rand.png"
-hash = "0a29696b2bbaef728ed5791e8f3cc9c65fbdf6ad9d22cf53d6b57c4311d0878e"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/auctions_gui/sort_widget/soon.png"
-hash = "e264035e37ca308b58fd92b3dc28ad54275657af90b795676e8500a7a82d3bc5"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/party_card.png"
-hash = "5c5e0b55ad0f785166d4f07621d6bb244269929d3aa7fea6bbe48f085bc7907e"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/party_card_hover.png"
-hash = "e6b9b12c15dcdb5795663dec5664ce7fbf43e266d0a0e7b9578788eb68d0a1bc"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button.png"
-hash = "201de309424040198bb21600b38a3668a26822269959b8ed380133b4101b5b81"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button_disabled.png"
-hash = "78a73531b8d753a3aff82092908d67f73ab86be31b8108079cc6db32d179424a"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/more_button_highlighted.png"
-hash = "655c225a8fd5644ec4a5f05828dda388f336140a82b326c33b476ffa51e1dd34"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/assets/skyblocker/textures/gui/sprites/quick_craft/quick_craft_overlay.png"
-hash = "6c5895a429dc84aacbc30638ad8b4537ef211291617cc921f75d5fb264aefc82"
-
-[[files]]
-file = "resourcepacks/Skyblocker_Dark/pack.mcmeta"
-hash = "7521ac90147a970b2177bb7278dc9692d5dfcaaedc3d50bd4d2857a1b99cee9d"
-
-[[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "3605969b0c53956a4e39112e2571e10a77ebc4c3acc512c199b148eb1aa07b57"
+file = "mods/zoomify.pw.toml"
+hash = "d5fe98870c68ae2b76fffd04ac8ca053559dd2b864e30e418f942f4a9c9dd9ba"
 metafile = true
 
 [[files]]
-file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "35e5f6cdcd85a70c7367d68059c5a3da984bc031a79479e405641c07521e6c81"
-metafile = true
+file = "resourcepacks/skyblocker modpack.zip"
+hash = "04006e77bfd6fd11c51d2a192b3fc2b7ff2d0539f8d2a83bcb2516199eb5ab35"
 
 [[files]]
 file = "servers.dat"
