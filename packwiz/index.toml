@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "018ba110c5c691002c166122de8edd886e96dff0aeb06b6967c613dccea9c49a"
+hash = "c7bb80a7f6fc310e6ecde655badd23179d11e969e4eb9749ae60a47bfffe0fdf"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "38aa8c3065f4ca116b089e8b9da323ea68b125221fb4bd695c307a646b75055e"
+hash = "fc839eb8722a60cabf0b5ddef0fd7fb11d2da7bfbc38e402f1b42fb94f6a1f9f"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "660f12d49d68660958f72637f8f73de0e8b6c4b5fa8098542bad82f3164b068b"
+hash = "8f04886c0f407d2b9766aadd4ff0faf42c7682f5de94c5651dbacc6fcd9e2074"
 metafile = true
 
 [[files]]
