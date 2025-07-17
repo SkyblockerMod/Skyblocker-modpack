@@ -162,7 +162,8 @@
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
 				"categoryOrdering": [
-					"skyblocker:skyblock",
+					"skyblocker:skyblock_crafting",
+					"skyblocker:skyblock_forge",
 					"minecraft:plugins/crafting",
 					"minecraft:plugins/smelting",
 					"minecraft:plugins/smoking",
