@@ -164,6 +164,7 @@
 				"categoryOrdering": [
 					"skyblocker:skyblock_crafting",
 					"skyblocker:skyblock_forge",
+					"skyblocker:skyblock_info",
 					"minecraft:plugins/crafting",
 					"minecraft:plugins/smelting",
 					"minecraft:plugins/smoking",
@@ -187,7 +188,30 @@
 					"roughlyenoughitems:plugins/information",
 					"minecraft:plugins/tag"
 				],
-				"hiddenCategories": []
+				"hiddenCategories": [
+					"minecraft:plugins/crafting",
+					"minecraft:plugins/smelting",
+					"minecraft:plugins/smoking",
+					"minecraft:plugins/blasting",
+					"minecraft:plugins/campfire",
+					"minecraft:plugins/stone_cutting",
+					"minecraft:plugins/fuel",
+					"minecraft:plugins/brewing",
+					"minecraft:plugins/composting",
+					"minecraft:plugins/stripping",
+					"minecraft:plugins/smithing",
+					"minecraft:plugins/anvil",
+					"minecraft:plugins/beacon_base",
+					"minecraft:plugins/beacon_payment",
+					"minecraft:plugins/tilling",
+					"minecraft:plugins/pathing",
+					"minecraft:plugins/waxing",
+					"minecraft:plugins/wax_scraping",
+					"minecraft:plugins/oxidizing",
+					"minecraft:plugins/oxidation_scraping",
+					"roughlyenoughitems:plugins/information",
+					"minecraft:plugins/tag"
+				]
 			}
 		},
 		"filtering": {
