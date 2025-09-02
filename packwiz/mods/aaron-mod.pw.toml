@@ -1,13 +1,13 @@
 name = "Aaron’s Mod"
-filename = "aaron-mod-2.2.0+1.21.5.jar"
+filename = "aaron-mod-2.3.0+1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/axe0DxiW/versions/oJweoe5p/aaron-mod-2.2.0%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/axe0DxiW/versions/xeSeQsqr/aaron-mod-2.3.0%2B1.21.8.jar"
 hash-format = "sha1"
-hash = "51299f9192de45d6cd3096a2628a3126d5143f13"
+hash = "664443df98fa635f07c809220ac12a6b01266136"
 
 [update]
 [update.modrinth]
 mod-id = "axe0DxiW"
-version = "oJweoe5p"
+version = "xeSeQsqr"

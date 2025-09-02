@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "2feaacf2517afae8ef079a0eb9b1d18be9fc0795426e965095f1bb8160052ac6"
+hash = "a5b376c09951bcf7c445d7cde0c284af7c17f8b6c359e7d6e527fe2f4dca1bca"
 
 [[files]]
-file = "config/simple-modpack-update-checker.txt"
-hash = "2125b921246bd0ea371b017b6d1ce6f86b47968aa28d609cfb7d2354e52cc128"
+file = "config/simple-modpack-update-checker.json"
+hash = "771aa470b6aae477a78b45b055c171433b288b76242e6a8063c174da11c823ac"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -53,20 +53,16 @@ file = "config/yosbr/config/modelfix-client.json"
 hash = "7e02c1d587a4c011b0b18080b7ba7451bd44535159a52c4c0c9a94b863334678"
 
 [[files]]
-file = "config/yosbr/config/moderate-loading-screen.json5"
-hash = "ad9e166da09b1064ab690dfb1b458e2d13c56318d765c168343dd2d673f6e271"
-
-[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "de9f11d332bf2804986886e45e5235363910594e7b5311a7c887bda9b7cac90f"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
-hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+hash = "31e99198f7a93bbbb6cd9d005a4e90cb44eb5a73f74d7c17c01b0277485bf2c4"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "1cc332004c5c5ae9366278d9de78fae3b01182d1142f8238d1ebdbaac9ba59d8"
+hash = "2025bf43bbc7cbcc311011ace0462745485f4603e3357ecc0857bc773db7b7c8"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
@@ -142,37 +138,37 @@ hash = "131b4b1d85fbd8f46ff55834eba6ff3c0d63ac5eee829d33baf3b0345971cfa5"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "ef297f472369321fafb32f4f3c9e37ce39a81d0c11a6e6d31fe3adb8d380b4d4"
+hash = "aedcb2a11b7bc6d67d1eddfb632a25561b501dd7ef0e32e8995330dd446fe1aa"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "777633dc1beb41da2bac9d7607036730c2bdcd9c4610a45addc90826eeacf4ae"
+hash = "88a6d55d88959c47eaf2545ac1f8e212e144feaf5a2e775aef96c4f3f932ee64"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "c7bb80a7f6fc310e6ecde655badd23179d11e969e4eb9749ae60a47bfffe0fdf"
+hash = "3ca97b5229d7c0c953eee808edd892363a515aa8950411af31a8638dd43a1b6c"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "358105b652a698c4db5cecdab9b2eb4258ceaae7ceac9bff0ac754078f228576"
+hash = "2ffba149ee8a8c283ec050c1ad5b5e5ef930854443f5b52fc3ef233d877a6253"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "673e0c821a3aa52547ae47833747a54205c59d2c9aeffe56f481d2a000e705b1"
+hash = "0d5c7ff4961a493b99c17379f477d68e8e52fd8e975460afabdab2e4261a8cc4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "030954c72cc4b961776ad73dc53b482450895aa2b606df6074667f77dd7b97ee"
+hash = "781e07694c2765c529428388011d611fff85b0c0fc76783d3dd8ee6403c520e1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
+hash = "cfb48d257d09f8bb2774e36da577eae1221c16bda1175e22f8fa00e6c98073f6"
 metafile = true
 
 [[files]]
@@ -182,52 +178,47 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "01447878e1faf87ca8523997b246f9bcc8410ffd39544d6f824dbafa25fc05f2"
+hash = "fd49dd74d3bcde70f97497a7fd2ea0b9e5baf5eb664bb233f44224cc77da4cb7"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "90ccb0fe0e37bc5bad79886b6c32f00792dba47298d7248d1bc2d3e6d9480ac1"
+hash = "dcf3cc99ff026bde29ac2cc0309905832f7e74a4816158852cf1b5b0e2306aee"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4119d56953d432be0614c7e4a317050222ce2f69844ea9b9c2954d31cedf6269"
+hash = "979910eb08666fb5dd62ab5703c369110b9d6a22288bc0506b3830c1fefeef28"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "02da2b7f81a47d9c93eec5d9a4452f6f74d82bae4d4769559517a71baed9cf2c"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-hash = "dba4626152814c1c8987d368b2d6efcc87eb6e46adae7c9a87b250f88fa22133"
+hash = "cc981500c0a67706d7333bd0c25c7c4ae832e7128d3064cd5de0ab64a98eae1b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "54cb5d9892c78247c2bd78a16333cd981a7fb47655ee1c37b221d17f4c5add4a"
+hash = "d8255eee93bf887ad02b1b81912dba40a6bfc3018dfe591d29f4a658f1292d33"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "4b45aa3bb214cb9bbd3e2b6c0ef24ddaee88cbfcb617d15322a5804a3a8e7708"
+hash = "e411141f5f9d6330e445707481515672dd078804d10fe3f4d27a75ce02663791"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+hash = "78dce7561dde35bedb64cd0bd4ae614367bd987da1b70ec90a13a83e5da0fe8b"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fc839eb8722a60cabf0b5ddef0fd7fb11d2da7bfbc38e402f1b42fb94f6a1f9f"
+hash = "41fffd8c008c2e0c9940172559a50c1e28c11bcc06fcd41b3423a555843b0881"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "8f04886c0f407d2b9766aadd4ff0faf42c7682f5de94c5651dbacc6fcd9e2074"
+hash = "e5859b9f04f04fd5c1054d02fa81b308a49c56304cd416088697b8938e0708ec"
 metafile = true
 
 [[files]]
@@ -235,23 +226,28 @@ file = "mods/skyblocker-modpack-lib-1.0.0.jar"
 hash = "5972327b4f6d78d2bc8fc0696c7f0f2cd3a4c32e402d38c3c88996dece4338ef"
 
 [[files]]
+file = "mods/smuc.pw.toml"
+hash = "f194617e1ca5d1bf2169fd41e033ed4ba2053fff112b470f68715fb579ac73d3"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1ebb470fbf9a256cd65f7f2be0c7494e7fe409aae8d7fc0efc14f8357f6f2cc4"
+hash = "72fb086eab1f721c4acb564c0866af541fd6d4e6e788f5b6a8c90506a1e2ee90"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "38bf000ad4fca8c59b96856df25c9d91dde198828ce55189939343c1d25aaf5f"
+hash = "ef5b990499a2223875dd6151d6a254ed2d5fed98d8f2e4038a2f0b5a8a9e2b54"
 metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "20eef975f3b240dd5d22ae2edc3505636de2709863c971749f595c19d3ff46e4"
+hash = "1d3e813ec089557bbbfa8bbd40889e78aec7a28e90bcba970ebd957553c9bc32"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ec9c118445580c7b29b2a2cc9ffaa45c2610287467aad2696d861ecb9b028f6c"
+hash = "e9c38ed1a72d03f5095538ec08ffdf7b670d29847af7582b4f4de628fc10aa44"
 metafile = true
 
 [[files]]
@@ -261,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d5fe98870c68ae2b76fffd04ac8ca053559dd2b864e30e418f942f4a9c9dd9ba"
+hash = "9309839dc290b40a382898b4ffd85fb5f04bf6395047732bddbd918779c951ae"
 metafile = true
 
 [[files]]
 file = "resourcepacks/skyblocker modpack.zip"
-hash = "04006e77bfd6fd11c51d2a192b3fc2b7ff2d0539f8d2a83bcb2516199eb5ab35"
+hash = "26af891b19a7ec8f83a68b75a1cbf498b24a42cb5e3449cdef5ceead1438442c"
 
 [[files]]
 file = "servers.dat"

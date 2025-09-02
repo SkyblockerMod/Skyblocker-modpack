@@ -156,7 +156,6 @@
 			// Declares whether arrows in containers should be clickable.
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
-			"newFastEntryRendering": true,
 			"cachingFastEntryRendering": false,
 			"cachingDisplayLookup": true,
 			"categorySettings": {
@@ -189,28 +188,28 @@
 					"minecraft:plugins/tag"
 				],
 				"hiddenCategories": [
-					"minecraft:plugins/crafting",
-					"minecraft:plugins/smelting",
-					"minecraft:plugins/smoking",
-					"minecraft:plugins/blasting",
-					"minecraft:plugins/campfire",
-					"minecraft:plugins/stone_cutting",
-					"minecraft:plugins/fuel",
-					"minecraft:plugins/brewing",
-					"minecraft:plugins/composting",
-					"minecraft:plugins/stripping",
+					"minecraft:plugins/tilling",
+					"roughlyenoughitems:plugins/information",
+					"minecraft:plugins/pathing",
+					"minecraft:plugins/wax_scraping",
 					"minecraft:plugins/smithing",
-					"minecraft:plugins/anvil",
+					"minecraft:plugins/crafting",
 					"minecraft:plugins/beacon_base",
 					"minecraft:plugins/beacon_payment",
-					"minecraft:plugins/tilling",
-					"minecraft:plugins/pathing",
+					"minecraft:plugins/blasting",
 					"minecraft:plugins/waxing",
-					"minecraft:plugins/wax_scraping",
-					"minecraft:plugins/oxidizing",
 					"minecraft:plugins/oxidation_scraping",
-					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/fuel",
+					"minecraft:plugins/composting",
+					"minecraft:plugins/tag",
+					"minecraft:plugins/anvil",
+					"minecraft:plugins/smelting",
+					"minecraft:plugins/oxidizing",
+					"minecraft:plugins/smoking",
+					"minecraft:plugins/campfire",
+					"minecraft:plugins/stone_cutting",
+					"minecraft:plugins/brewing",
+					"minecraft:plugins/stripping"
 				]
 			}
 		},
