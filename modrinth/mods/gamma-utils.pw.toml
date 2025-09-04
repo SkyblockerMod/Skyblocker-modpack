@@ -1,0 +1,13 @@
+name = "Gamma Utils (Fullbright)"
+filename = "Gamma-Utils-2.3.5+mc1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/RrDVLeBW/Gamma-Utils-2.3.5%2Bmc1.21.6.jar"
+hash-format = "sha1"
+hash = "87ca2fcc0b18c2c32045e6a7180cdd35588b20fd"
+
+[update]
+[update.modrinth]
+mod-id = "wdLuzzEP"
+version = "RrDVLeBW"

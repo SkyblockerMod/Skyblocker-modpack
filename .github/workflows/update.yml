@@ -24,7 +24,7 @@ jobs:
 
       - name: Update mods
         run: |
-          cd packwiz
+          cd modrinth
           # go run github.com/packwiz/packwiz@latest update --all -y
           ./packwiz update --all --releaseType release -y
           cd ..
@@ -34,11 +34,11 @@ jobs:
           git config --local user.name ${{ secrets.ACTION_USERNAME }}
           git config --local user.email ${{ secrets.ACTION_EMAIL }}
           git fetch --prune --unshallow --tags
-          if ! git diff --exit-code $(git tag --sort version:refname | grep -v 'v[0-9]' | tail -n 1) -- packwiz/mods; then
+          if ! git diff --exit-code $(git tag --sort version:refname | grep -v 'v[0-9]' | tail -n 1) -- modrinth/mods; then
             git add .
-            git --no-pager diff --unified=0 $(git tag --sort version:refname | grep -v 'v[0-9]' | tail -n 1) -- packwiz/mods | grep -w "name" | python updateChangelog.py
+            git --no-pager diff --unified=0 $(git tag --sort version:refname | grep -v 'v[0-9]' | tail -n 1) -- modrinth/mods | grep -w "name" | python updateChangelog.py
             VERSION=$(grep -oP '(?<=# Release )\d+\.\d+\.\d+' CHANGELOG.md | head -n 1)
-            sed -i "s/version = \".*\"/version = \"$VERSION\"/" packwiz/pack.toml
+            sed -i "s/version = \".*\"/version = \"$VERSION\"/" modrinth/pack.toml
             git add .
             git commit -m "update mods"
             git push

@@ -21,7 +21,7 @@ jobs:
       
       - name: Export modpack
         run: |
-          cd packwiz
+          cd modrinth
           packwiz mr export
           cd ..
 
@@ -35,7 +35,7 @@ jobs:
           
       - name: Get Minecraft version
         run: |
-          echo "MC=$(grep -E 'minecraft\s*=\s*"[0-9.]+"' packwiz/pack.toml | awk -F'"' '{print $2}')" >> $GITHUB_ENV
+          echo "MC=$(grep -E 'minecraft\s*=\s*"[0-9.]+"' modrinth/pack.toml | awk -F'"' '{print $2}')" >> $GITHUB_ENV
     
       - uses: Kir-Antipov/mc-publish@v3.3
         with:
@@ -49,7 +49,7 @@ jobs:
           name: "${{env.PACKVERSION}} for ${{env.MC}}"
           version: ${{env.PACKVERSION}}
           
-          files: packwiz/Skyblocker Modpack-*.mrpack
+          files: modrinth/Skyblocker Modpack-*.mrpack
           loaders: |
             fabric
           game-versions: |

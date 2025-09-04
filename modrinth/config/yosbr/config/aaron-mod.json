@@ -1,0 +1,161 @@
+{
+	"version": 2,
+	"general": {
+		"colourProfile": "Original",
+		"customColourProfile": {
+			"primaryColour": -1,
+			"secondaryColour": -1,
+			"infoColour": -1,
+			"highlightColour": -1,
+			"hoverColour": -1,
+			"supportingInfoColour": -1
+		}
+	},
+	"uiAndVisuals": {
+		"scoreboard": {
+			"shadowedScoreboardText": true,
+			"hideScore": false
+		},
+		"nameTags": {
+			"shadowedNameTags": true,
+			"hideNameTagBackground": false
+		},
+		"overlays": {
+			"hideFireOverlay": false,
+			"statusEffectBackgroundAlpha": 1.0,
+			"hideTutorials": false
+		},
+		"fpsHud": {
+			"enableFpsHud": false,
+			"x": 1,
+			"y": 2,
+			"scale": 1.0
+		},
+		"pingHud": {
+			"enablePingHud": false,
+			"colouredPing": true,
+			"x": 2,
+			"y": 15,
+			"scale": 1.0
+		},
+		"debugHud": {
+			"extraDebugInfo": false,
+			"alwaysShowDayInF3": true
+		},
+		"world": {
+			"zoomMultiplier": 0.3,
+			"hideWorldLoadingScreen": false,
+			"hideMobSpawnerAnimations": false,
+			"hideLightning": false,
+			"hideFog": false,
+			"correctAmbientDarkness": true
+		},
+		"legacyRevival": {
+			"oldMessageTrustIndicatorColours": false,
+			"potionGlint": false
+		},
+		"inventoryScreen": {
+			"separateInventoryGuiScale": false,
+			"inventoryGuiScale": 0
+		},
+		"imagePreview": {
+			"enableImagePreview": true,
+			"scale": 1.0
+		},
+		"chromaText": {
+			"chromaSize": 100,
+			"chromaSpeed": 4.0,
+			"chromaSaturation": 0.75
+		},
+		"seasonal": {
+			"decemberChristmasChests": false
+		}
+	},
+	"refinements": {
+		"secureSkinDownloads": true,
+		"silenceResourcePackLogSpam": true,
+		"chat": {
+			"copyChatMessages": true,
+			"copyChatMode": "ENTIRE_MESSAGE",
+			"copyChatMouseButton": "MIDDLE",
+			"chatHistoryLength": 100
+		},
+		"input": {
+			"disableScrollLooping": false,
+			"dontResetCursorPosition": false,
+			"alternateF3PlusNKeybind": false
+		},
+		"screenshots": {
+			"optimizedScreenshots": true
+		},
+		"tooltips": {
+			"showItemGroupsOutsideCreative": false
+		},
+		"music": {
+			"uninterruptedMusic": false
+		}
+	},
+	"skyblock": {
+		"commands": {
+			"enableSkyblockCommands": true,
+			"lbinPriceDayAverage": "THREE_DAY"
+		},
+		"enchantments": {
+			"rainbowMaxEnchants": true,
+			"rainbowMode": "CHROMA",
+			"showGoodEnchants": true,
+			"goodEnchantsColour": -22016
+		},
+		"dungeons": {
+			"dungeonFinderPlayerStats": true,
+			"oldMasterStars": false,
+			"fancyDiamondHeadNames": false,
+			"hideClickOnTimeTooltips": true
+		},
+		"m7": {
+			"glowingDragons": true,
+			"dragonBoundingBoxes": true,
+			"dragonSpawnTimers": true,
+			"dragonSpawnNotifications": true,
+			"dragonHealthDisplay": true,
+			"dragonAimWaypoints": false,
+			"arrowStackWaypoints": false
+		}
+	},
+	"particles": {
+		"states": {},
+		"scaling": {
+			"minecraft:explosion": 0.5
+		},
+		"alphas": {
+			"minecraft:explosion": 0.15
+		}
+	},
+	"textReplacer": {
+		"enableTextReplacer": false,
+		"textReplacements": {}
+	},
+	"itemModel": {
+		"enableItemModelCustomization": true,
+		"swingDuration": 6,
+		"ignoreMiningEffects": false,
+		"mainHand": {
+			"x": 0.0,
+			"y": 0.0,
+			"z": 0.0,
+			"scale": 1.0,
+			"xRotation": 0.0,
+			"yRotation": 0.0,
+			"zRotation": 0.0
+		},
+		"offHand": {
+			"x": 0.0,
+			"y": 0.0,
+			"z": 0.0,
+			"scale": 1.0,
+			"xRotation": 0.0,
+			"yRotation": 0.0,
+			"zRotation": 0.0
+		}
+	}
+}

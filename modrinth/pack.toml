@@ -1,0 +1,16 @@
+name = "Skyblocker Modpack"
+author = "Wohlhabend/LifeIsAParadox"
+version = "3.5.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a39c8e9f428a16b14e8520a2b6cc4e8c80dd533f9f5d26b1c25d03575fca460b"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
+
+[options]
+acceptable-game-versions = ["1.21.4"]

@@ -1,0 +1,13 @@
+name = "Simple Modpack Update Checker"
+filename = "simple-modpack-update-checker-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75fdec36aaf3126ae631dfe18456909d38b05aa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6910492
+project-id = 1331739
