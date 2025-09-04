@@ -137,10 +137,6 @@ file = "config/yosbr/options.txt"
 hash = "131b4b1d85fbd8f46ff55834eba6ff3c0d63ac5eee829d33baf3b0345971cfa5"
 
 [[files]]
-file = "mods/aaron-mod-2.3.0+1.21.8.jar"
-hash = "5e1b75e4b24bb25e83ae858c895e972cbfa944fea3553ea6bbc0fa6a278aeadd"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "02a609de09efd7cadb420e44e392d6b48d62ec92ffefcbef4af4511bc8b33ac2"
 metafile = true
