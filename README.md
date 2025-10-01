@@ -47,12 +47,15 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 
 </details>
 
-## 🎨 Resource Packs
+## 🎨 Recommended Resource Packs
 
 <details open>
-<summary> Resource Packs (2)</summary>
+<summary> Resource Packs </summary>
 
-- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars)
+- [Hypixel Plus](https://modrinth.com/resourcepack/hypixel-plus)
+  - Requires [Firmament](https://modrinth.com/mod/firmament) and an additional JVM argument!
+- [Furfsky Reborn](https://modrinth.com/resourcepack/furfsky-reborn)
+  - Requires [Firmament](https://modrinth.com/mod/firmament)!
+- [Skyblock Dark UI](https://modrinth.com/resourcepack/skyblock-dark-ui)
 
 </details>
