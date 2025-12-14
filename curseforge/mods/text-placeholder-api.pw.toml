@@ -1,13 +1,13 @@
 name = "Text Placeholder API"
-filename = "placeholder-api-2.7.2+1.21.8.jar"
+filename = "placeholder-api-2.8.1+1.21.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f538eec8d6ec2e1af3c9e8ee73e4a4787abcd9cc"
+hash = "4950367323147265b272ad2156bf1a343db3f64c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6931987
+file-id = 7149012
 project-id = 1037459

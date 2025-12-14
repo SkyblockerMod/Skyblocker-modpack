@@ -1,13 +1,13 @@
 name = "Tooltip Scroll [Fabric]"
-filename = "tooltip-scroll-1.5.1+1.21.6.jar"
+filename = "tooltip-scroll-1.5.1+1.21.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "91a5c2abf43be507f1a73ddc30127ce9208d9958"
+hash = "cf4adde9c92d15f1817ee6126ee794633ea1ca9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7306657
+file-id = 7306654
 project-id = 495546
