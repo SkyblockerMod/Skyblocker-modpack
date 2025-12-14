@@ -1,7 +1,7 @@
 # Skyblocker Modpack
 <img height="150" src="https://hysky.de/skyblocker.png" alt="Skyblocker Logo"/>
 
-A modpack for Hypixel SkyBlock on Minecraft 1.21.8 (Fabric) \
+A modpack for Hypixel SkyBlock on Minecraft 1.21.10 (Fabric) \
 This modpack includes useful client-side **utility** and **performance** mods alongside the [Skyblocker](https://modrinth.com/mod/skyblocker-liap) mod. \
 \
 This modpack is intended for the SkyBlock game mode on hypixel.net.
