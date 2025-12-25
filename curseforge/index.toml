@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "266cad861265a1c978039b6805a51b4d6696e7e6b0230d2f17221d3f5d8a4ba1"
+hash = "c4cbf855dfe25aa37661ea83b68e60ed2b5442d3480a0fd2256fca0c24c2c962"
 metafile = true
 
 [[files]]
@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "189134fe48404ea4f716f6ee705d5af668a493264c1af07b02ce18113b346de9"
+hash = "2acf991b9ab5eda85f595f5e91289116f3b14e5d4b3ee571a1068497754b91e2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -178,12 +178,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "778bf63381f45639875bea198ebdcc559923f87365b2976d64f205d75c5931fc"
+hash = "064bb96880b86395a0493d055ea23af48d411c010635a9c8e14bd6f802a3e123"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "427b4d017b83401708e96e36f11f11c7474365011b108b255f69e000ecc6422c"
+hash = "ee13368a3c2b3f834eb152a661e642455df50f4f5b1688f1c34626c4b01b6620"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "474dbec1a749b8a1af2504bf0380c77a3f5815ba4038614b91b873aae2fe57d8"
+hash = "7f44fd433f995c8083c07ad9686b307b26691cc484e5ec41af2d1e4e7b5421fd"
 metafile = true
 
 [[files]]
