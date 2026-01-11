@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f44fd433f995c8083c07ad9686b307b26691cc484e5ec41af2d1e4e7b5421fd"
+hash = "b9bb98767d6b26fd16a123020eb04b50e6ff575a5bfa37bd84247201bf05d143"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "74c920cae58e2e159507b6d1c2e7485d4e628368e33593c1ddaef03b9c669ff9"
+hash = "6d002495de7af2cf384c8fbc9c86f8b9b257bee0f12b2144e6e6a7b60827ee1c"
 metafile = true
 
 [[files]]
