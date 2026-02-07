@@ -163,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
+hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "47a38ead307c2d86ac06e12f70847dc0194da9014608d4ac7b4133ae6a5abdda"
+hash = "ba8f877cd852773eb0eccee87c5942a5cf580c761779f7a1b9f006870ee2d5a4"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "064bb96880b86395a0493d055ea23af48d411c010635a9c8e14bd6f802a3e123"
+hash = "a305dd3b53a78e207570f16637bf436d8a1692f065ac3aa3f98f5c2c682e67f3"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "24ec005442cecbe94a971c838eee430eef40b0bb15d4678a579436a5aaf9d865"
+hash = "7fbb6f1678e1f1c494ee16edf325be4488c4c9f10ad598a46bb6f101c5d1f899"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
-hash = "c5fdf842ac50d5992853c9c6f073d876d358913b161498eb2f52b1de58d2a390"
+hash = "964ad007b3df23bb23c90e2f5d2a25aa30f403808a0a853d9021f232caff106f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c41c88bf75d26b2b5eda3254ebfef62a6e8625d75c2a80cfe1207c95b9de2c5f"
+hash = "2476f7001c44c072f82a7cf1559bb9bf90beb37bcba2dcb2b11b6efe89f2b705"
 metafile = true
 
 [[files]]

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "a0c5f3af0d0426f3559c999f1d8e7a834086da893deeaef96f6144cf0d574f2c"
+hash = "5454d2dd28678d494f7f96b918ccae51f60cc10513fd306a3fc58391c8a9fc51"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "70654b3963b70228b2aea7d34522a18b570015a1ad750d2095613f7fb600db3e"
+hash = "8fd50f0540ab4aed5e6304e2f6ef5e21b986b9306f67fbf11b8f23f7e679955f"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -168,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "691cea763cfcd4625c3b7af109acba96289ade9cfe0008510f05dc4abf98eb50"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77364cc74f5c0819ef77e5e2fd11bd304ad98dc193348d3d875e23fae62f8f74"
+hash = "db46aeba51086f72e755106ca1a2196717ddb3844dfd7b781e7a93c57a9d5b32"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "da8027302e071db16b21c4abf1ab8f04245b283c4f44a3fdf98dc1e4c6d2d585"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
@@ -213,12 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "9906dacfff9777acb306b5e1f8e7d8e4a187a728e649d916839bf71b260b804a"
+hash = "9ad32731597a3a512463d3010e9974995afff5ec4312761153fdc7e5ebb5b5b0"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "b2cfb566acf2b4a44ad6857457f1af4de86526da4860ec5c1cf94fe16b57f8ef"
+hash = "d6b60b03eb7c6891d5c63b9b7d68d7f9f5260ac5dc9dedc3db61b63578a2b81a"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "a75a40e1e61a074f8c0bc203254b325d7f251f22974fd82b0b3af1abb6ba818e"
+hash = "0711719bcce3f5d52babf08b4ef2f00f771057b2cf2b3d554cf002c41ddacb9b"
 metafile = true
 
 [[files]]
