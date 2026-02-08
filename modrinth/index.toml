@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "5454d2dd28678d494f7f96b918ccae51f60cc10513fd306a3fc58391c8a9fc51"
+hash = "788f82c579bff9cec387d2963b109514162e51212a00de37a7b89164e94300de"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "8fd50f0540ab4aed5e6304e2f6ef5e21b986b9306f67fbf11b8f23f7e679955f"
+hash = "8d193f3cd02cfefca64ec0ea864084c501964736fc2ea5e609579d140712a989"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -138,7 +138,7 @@ hash = "80aea453a4d1ebe90f433867c6dca8db9c3bdb921196276b18259c8b1a3b384b"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
-hash = "2df531e0d242ef958a22533745ee04d4a82ace666510bfde163c33b83a97f6f4"
+hash = "5318bc1416a6fdc9b3b2ad3507595b8cc0068253b1fbeafe3ba6e998aeef9ed0"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "d6b60b03eb7c6891d5c63b9b7d68d7f9f5260ac5dc9dedc3db61b63578a2b81a"
+hash = "7db943c343b2172dddc2e65056ff4f76c701c865e25704e880c37fe8c14d2f6b"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0711719bcce3f5d52babf08b4ef2f00f771057b2cf2b3d554cf002c41ddacb9b"
+hash = "9190014654c3a01d217640032fccd571bf7d2e63b3f83d5b555da5e5e83f63ac"
 metafile = true
 
 [[files]]
