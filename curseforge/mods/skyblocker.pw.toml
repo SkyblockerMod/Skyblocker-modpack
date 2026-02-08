@@ -1,13 +1,13 @@
 name = "Skyblocker"
-filename = "skyblocker-5.11.0+1.21.10.jar"
+filename = "skyblocker-6.0.1+1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "09674b1d51b50ad205ee3b540ac2439c157f793f"
+hash = "2990ac3f3f26a647e87a8b8385cb2c85e2684302"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7374465
+file-id = 7592196
 project-id = 936169
