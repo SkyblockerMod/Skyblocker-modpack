@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "f91308584812db793d156d4d10fa4023e6bd922212528ff1833a40b85b52478d"
+hash = "dd75d43ec26ef0dc7f03630fa28217755cabf470c5f6c5755f88618e72644e38"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ hash = "5972327b4f6d78d2bc8fc0696c7f0f2cd3a4c32e402d38c3c88996dece4338ef"
 
 [[files]]
 file = "mods/skyblocker.pw.toml"
-hash = "c0eb183a57f62354aadc78934c329fab2010080e60fc27091dc99a1afc9d2bd8"
+hash = "c8006f7dff0c88552cca5dc58665ebf7913ee1ff4010562372c512a4062a5102"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7fa050606a694a651d716188af044c4c0eb0519a51f08d4862da0fac597ab622"
+hash = "9a6072d78cb04d4abf2dc9e0a0d3e5545195f8eb68f21e514580c3eaa9745498"
 metafile = true
 
 [[files]]
