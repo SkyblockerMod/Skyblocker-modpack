@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "ca61aa844abd321f41669b4278511b1ebe37060efca0f993fc10ea91ef75328f"
+hash = "e9a84edeff6983b0ee511a034225597235b42c0a260ec7e81f54d345da86f23d"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "31d6082f7a953efb5c66b9ee7e34852d3e7da3a21c8fe56de8d3b39dd38de773"
+hash = "21bb5ed6da5a4d43f2f641d40202dd66ceff54446cf7936900a5eba9b12ff8e0"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "364f2179b456fe5f8dc1f5c977d6c96aa5dfa1f2c1479a8fb2c9ebaea0204cf5"
+hash = "122da0458bacc7f1ae0fe3fe87de2b929103bc19ef7f22815326b5ae17198d8d"
 metafile = true
 
 [[files]]
