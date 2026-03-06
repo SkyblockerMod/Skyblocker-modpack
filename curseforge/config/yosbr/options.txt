@@ -97,8 +97,6 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
-key_key.sneak:key.keyboard.left.control
-key_key.sprint:key.keyboard.left.shift
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -140,14 +138,6 @@ key_key.tooltipscroll.moveDown:key.keyboard.page.down
 key_key.tooltipscroll.reset:key.keyboard.unknown
 key_key.tooltipscroll.horizontal:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.hotbarSlotLock:key.keyboard.h
-key_key.itemPriceLookup:key.keyboard.f6
-key_key.itemPriceRefresh:key.keyboard.z
-key_key.itemProtection:key.keyboard.v
-key_key.wikiLookup:key.keyboard.f4
-key_key.skyblocker.slottext:key.keyboard.left.alt
-key_key.skyblocker.toggleA:key.keyboard.z
-key_key.skyblocker.defaultTgl:key.keyboard.m
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r

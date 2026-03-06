@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "e9a84edeff6983b0ee511a034225597235b42c0a260ec7e81f54d345da86f23d"
+hash = "4645f2f84dffae75b413ca28bf5d8d604f9c41b3daee74d5bf0652e6f1b86f0d"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "21bb5ed6da5a4d43f2f641d40202dd66ceff54446cf7936900a5eba9b12ff8e0"
+hash = "cf6f531ed5fa0084c20f634730f7317f1118b85b960130eaf90a090ac76a3876"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -14,7 +14,7 @@ hash = "d1d201d38031def0512f0eb225c8c8d70636633ba644234a82c1ccaf7d6e9436"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "99320d94b3df04257c8392075807ea73798c7ee1aac81bafcc289bfafa3399e2"
+hash = "de6686fdb8fef035ce2b77fb72bedfe60a2bbacf203abb204284bd2c68459d70"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -134,7 +134,7 @@ hash = "a498f39b73d4e4107650cff8749f05dae8edab089f455bf882d27dda0311442d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "80aea453a4d1ebe90f433867c6dca8db9c3bdb921196276b18259c8b1a3b384b"
+hash = "92180b38d52a6afc9cdcf58c7d316df287efd3368a386b5b55241799fc4db2e1"
 
 [[files]]
 file = "mods/aaron-mod.pw.toml"
