@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f05db8b0e20fb3563dfab19dfefa9dd07c017beba16cea50ffa32efa5ccb0d83"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "122da0458bacc7f1ae0fe3fe87de2b929103bc19ef7f22815326b5ae17198d8d"
+hash = "ac3337c5b589b71b8f9a31f03eb5868677b32f07c2ed6dd84b40be76c7c8405c"
 metafile = true
 
 [[files]]
