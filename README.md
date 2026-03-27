@@ -55,7 +55,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Hypixel Plus](https://modrinth.com/resourcepack/hypixel-plus)
   - Requires [Firmament](https://modrinth.com/mod/firmament) and an additional JVM argument!
 - [Furfsky Reborn](https://modrinth.com/resourcepack/furfsky-reborn)
-  - Requires [Firmament](https://modrinth.com/mod/firmament)!
+  - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [Skyblock Dark UI](https://modrinth.com/resourcepack/skyblock-dark-ui)
 
 </details>
