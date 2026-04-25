@@ -1,6 +1,6 @@
 name = "Skyblocker Modpack"
 author = "Wohlhabend/LifeIsAParadox"
-version = "3.5.17"
+version = "3.5.18"
 pack-format = "packwiz:1.1.0"
 
 [index]
