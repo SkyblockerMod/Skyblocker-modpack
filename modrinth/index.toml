@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "b08518107b0cf3f4130ecadca27fdf45e047b290ab6dac095db0381ee9377d23"
+hash = "8a9898a16e881d29eb48ad6e43d79813d6ee69ea8ae779656cd4314566ff6fa5"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "fda228d7e0e915b0b174f553f7cc4ed76a905efe45cfce7167292abedf68b08e"
+hash = "6e5234f517d3a0f44b9a91ed610ce151ff66a9fba584c7c8bcdb24202704b662"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "20a2a4c3fc3e99dee506664b4a5ae292eeb6d7c3b8a6fdd9c462818ec19d67a9"
+hash = "d5eeab4d755feb40abf81d8465b972b3bccdb83938fc433fc066fc525082d1b4"
 metafile = true
 
 [[files]]
@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
+hash = "3ad4b7788d3201535ed21b91e753bf599934331b313ac89cc808f24cb4158c16"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ea42e776a36a67d5b3bbc3406aa4bb2415e709f9733c41ec4fc880bb7f913a9f"
+hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "16611fafa70cf3d772d0df629dd50d41499c8e3769013b136c63afb6e3764f3e"
+hash = "482be8585d09b22b14fe3ca6dad976d227fd6902fba1a338876b00fbc643841f"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5dc004992aed6e5e4527c6eb5b7609ab67a386081c6b721972998f65f973c81e"
+hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
 metafile = true
 
 [[files]]
