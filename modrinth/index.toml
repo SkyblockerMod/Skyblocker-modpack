@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "8a9898a16e881d29eb48ad6e43d79813d6ee69ea8ae779656cd4314566ff6fa5"
+hash = "61053ef2f3fdfb2e525a97595691beb73b30fea3a98eb9f031d1cf197cdc701b"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "6e5234f517d3a0f44b9a91ed610ce151ff66a9fba584c7c8bcdb24202704b662"
+hash = "3afb172c25706665cc25c246ef141b147362b41a7ce5fd3ac257f24065791073"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "482be8585d09b22b14fe3ca6dad976d227fd6902fba1a338876b00fbc643841f"
+hash = "97082a887db3bf13598fd0af119f8749a13e2b76585a9a1a760e102c2a353d76"
 metafile = true
 
 [[files]]
