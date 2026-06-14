@@ -1,7 +1,7 @@
 # Skyblocker Modpack
 <img height="150" src="https://hysky.de/skyblocker.png" alt="Skyblocker Logo"/>
 
-A modpack for Hypixel SkyBlock on Minecraft 1.21.11 (Fabric) \
+A modpack for Hypixel SkyBlock on Minecraft 26.1.2 (Fabric) \
 This modpack includes useful client-side **utility** and **performance** mods alongside the [Skyblocker](https://modrinth.com/mod/skyblocker-liap) mod. \
 \
 This modpack is intended for the SkyBlock game mode on hypixel.net.
@@ -9,7 +9,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 ## 🔧 Mods
 
 <details open>
-<summary> Installed mods (24 mods)</summary>
+<summary> Installed mods (22 mods)</summary>
 
 ### Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -27,7 +27,6 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
 - [Gamma Utils (Full-bright)](https://modrinth.com/mod/gamma-utils)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-- [Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 ### Miscellaneous:
@@ -37,7 +36,6 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Libraries:
-- [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
@@ -53,7 +51,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 <summary> Resource Packs </summary>
 
 - [Hypixel Plus](https://modrinth.com/resourcepack/hypixel-plus)
-  - Requires [Firmament](https://modrinth.com/mod/firmament) and an additional JVM argument!
+  - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [FurSky Reborn](https://modrinth.com/resourcepack/furfsky-reborn)
   - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [Skyblock Dark UI](https://modrinth.com/resourcepack/skyblock-dark-ui)
