@@ -1,13 +1,13 @@
 name = "Skyblocker • Hypixel Skyblock"
-filename = "skyblocker-6.5.1+26.1.2.jar"
+filename = "skyblocker-6.6.0+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/15dvwUko/skyblocker-6.5.1%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/fWLQ4vHh/skyblocker-6.6.0%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "d870ecc9ce0bf12b64244428a7c0d9df41df2fba3553dc0d7dad28092ec379609c4d91ee5748b692d6d3214282b7db015c9b5410834a8098e2511b5143311771"
+hash = "415160092af3ddde5c63ed610629a36c9388915bd6a3b1e9d7ad2762e995949317b440f478569b03d416c595a2f1ce91dd034d9636beabc5088ed0a36e6bf894"
 
 [update]
 [update.modrinth]
 mod-id = "y6DuFGwJ"
-version = "15dvwUko"
+version = "fWLQ4vHh"
