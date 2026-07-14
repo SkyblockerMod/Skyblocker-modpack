@@ -137,6 +137,10 @@ file = "config/yosbr/options.txt"
 hash = "92180b38d52a6afc9cdcf58c7d316df287efd3368a386b5b55241799fc4db2e1"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "bbca8308fe2824e148eef7d1c278bc713afb16f62516c090ba781a92aaf7b90e"
+
+[[files]]
 file = "mods/aaron-mod.pw.toml"
 hash = "8bf2f19b4c3c7c411ee9e5e3f4d38f2260279ef0037c9b667537bf15e6ef8ee7"
 metafile = true
@@ -259,11 +263,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "db52e50c6846f0850e9a58ed9709310b87efa4f924caa013b8a49ab96f86f714"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "455f8e439d77c707f7c45a0b140000f3b8e70df252d0db1df390bf22e8a9b98e"
-
-[[files]]
-file = "servers.dat_old"
-hash = "3d5552097b4529901567e0d6a27b490c4dfc7fdb7d2aaed597795894f1b881ce"
