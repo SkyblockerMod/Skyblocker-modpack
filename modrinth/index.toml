@@ -9,24 +9,12 @@ file = "config/simple-modpack-update-checker.json"
 hash = "f19fdab1c5dbafad7b9b04fadc57fd5f3e8f0ac65e828c86dff2b69e2ccda4cb"
 
 [[files]]
-file = "config/yosbr/config/aaron-mod.json"
-hash = "d1d201d38031def0512f0eb225c8c8d70636633ba644234a82c1ccaf7d6e9436"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "de6686fdb8fef035ce2b77fb72bedfe60a2bbacf203abb204284bd2c68459d70"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "b147dcda724b6741b27a753e1b0c1e1c3107ea72eff993b02a9c42ce605bda7a"
-
-[[files]]
-file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "a67cdf8a28612ffa77dfd39e29796e7dfe4e09fd0628e7bbc56c8df7f3a4703e"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/yosbr/config/gammautils.json"
@@ -37,24 +25,8 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "0bcdd02d11dc35070f645fafe39cef59b6cff810372b5fb139001cdf5be57a16"
 
 [[files]]
-file = "config/yosbr/config/iris-excluded.json"
-hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "fd7b65ea92f171e2e91dc3ad7fda0bc87208006db22ada70f6e7db8e380062e5"
-
-[[files]]
 file = "config/yosbr/config/lithium.properties"
 hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
-
-[[files]]
-file = "config/yosbr/config/modelfix-client.json"
-hash = "1f7d946ec7a12efbbe58cdeedc2ae767446e06e7ffed095c18482d5cc27a86a7"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "3f1c59816df57677e6068961d823f8c5171e965e354774614c1a468eca00ed35"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
@@ -77,40 +49,12 @@ file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
 hash = "dac7a306d1d9dd7cea6a45bb697f66acf14a705d9eca579f6f2573388d5d56c6"
 
 [[files]]
-file = "config/yosbr/config/skyblocker.json"
-hash = "4652b57259fedfcf0f44375dd7f787779b64ed9ef38520154aae769aef11aef5"
-
-[[files]]
-file = "config/yosbr/config/skyblocker/hud_widgets.json"
-hash = "050379a562eaf9c62553b95cba0bb197b5a5c6ac5afbc60178cfa6261aa186c2"
-
-[[files]]
-file = "config/yosbr/config/skyblocker/shortcuts.json"
-hash = "8ae7bf63044f1fd8262959deaba95accce855e35a9d02132bc53c441f72aed7a"
-
-[[files]]
-file = "config/yosbr/config/skyblocker/speed_presets.json"
-hash = "93f72fe810d9f752eb9c8890717ed0ca74c98939c671381aaa0fdb99cc6dae57"
-
-[[files]]
-file = "config/yosbr/config/skyblocker/status_bars.json"
-hash = "c7c4729825151e338c88b30b4be9f2594fb87ba1dedaceaaa37b8a54f1c1e71a"
-
-[[files]]
-file = "config/yosbr/config/skyblocker/update_notifications.json"
-hash = "a2dded0b9bc87b27c613c35766bdc090309b99de8fb3b219dd892753c58877a4"
-
-[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "3bc7a5bc42d8afa3785e79941650f6ec2cb0f895445883303ac1c644c652b8e7"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra.properties"
 hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
-
-[[files]]
-file = "config/yosbr/config/sodium-fingerprint.json"
-hash = "a6a686b41ee84af7094051f2cebef4e1d322efd654fce32106d12ad8eba76d49"
 
 [[files]]
 file = "config/yosbr/config/sodium-mixins.properties"
