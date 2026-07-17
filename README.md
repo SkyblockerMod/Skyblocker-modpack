@@ -9,7 +9,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 ## 🔧 Mods
 
 <details open>
-<summary> Installed mods (24 mods)</summary>
+<summary> Installed mods (25 mods)</summary>
 
 ### Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -35,6 +35,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [YOSBR](https://modrinth.com/mod/yosbr)
 - [Zoomify](https://modrinth.com/mod/zoomify)
+- [Resource Pack Cached](https://modrinth.com/mod/resourcepackcached)
 
 ### Libraries:
 - [Architectury API](https://modrinth.com/mod/architectury-api)

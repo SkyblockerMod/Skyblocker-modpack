@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "dd65c11381e4fd2bd6990db8ea9811f73ad5565db371c96bb331f1e343145879"
+hash = "f61435eb61e8aa62ccf3b740f17a262eef8dfb56e2fe4e1f9f187d9cb7e9af7c"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "2f95d97744f72f3555b06835bd77ed30abfb2809eb51975beaf27fabcb1200ce"
+hash = "f19fdab1c5dbafad7b9b04fadc57fd5f3e8f0ac65e828c86dff2b69e2ccda4cb"
 
 [[files]]
 file = "config/yosbr/config/aaron-mod.json"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e6437f543512e4103bae1bb72ce87c4c66da3bcbd88637143d71053b82bc07b0"
+hash = "2178a153baf1abf1d693dc921ed647359d512b99bfe003a65a34032fc235bfdd"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
+hash = "78040c78606a76e40d996a19e13daf011beea75526da05c00f6a07e9ae3487f2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bc13079f8f323741d97ee8eedd24b2944b1caa6ef2a2fd4a6162cba270e9f866"
+hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2f4681ec6c84ddaab6584c8c44398dcc2c200342f5455ada6062704492c93700"
+hash = "6a487f3191e67284ec51e3c884d6fe30eac1cec120869c690d6eccc2db9dfc39"
 metafile = true
 
 [[files]]
@@ -221,8 +221,13 @@ hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
 metafile = true
 
 [[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "5883b1bae9c8f01b1dc112254dddb429070aa0b33c7982264bd64d1d27d6f4d0"
+metafile = true
+
+[[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "2e304ae69661538a35e211cc74a14bb9f12db35a76bd8fd2a48383aa127b4ed3"
+hash = "da563c915b80bd390726bfbcf11bc9703d6996d989d893d2fc340db0e26faec9"
 metafile = true
 
 [[files]]
@@ -236,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9e430a96fd19ad02fcff9d15f63eeb4e482db4d55c970157d7b85ec2413cd3e5"
+hash = "76f0c3b0f97c781fab964ec383b5031d780814e63abe7c456354187deaafaae2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6a9a5fd63b74032e640821e5624c20596ccf9566af76813aa1972b162781da4"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
