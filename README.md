@@ -35,7 +35,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [YOSBR](https://modrinth.com/mod/yosbr)
 - [Zoomify](https://modrinth.com/mod/zoomify)
-- [Resource Pack Cached](https://modrinth.com/mod/resourcepackcached)
+- [ResourcePackCached](https://modrinth.com/mod/resourcepackcached)
 
 ### Libraries:
 - [Architectury API](https://modrinth.com/mod/architectury-api)
