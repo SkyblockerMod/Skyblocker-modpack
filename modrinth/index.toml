@@ -2,31 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "f61435eb61e8aa62ccf3b740f17a262eef8dfb56e2fe4e1f9f187d9cb7e9af7c"
+hash = "9f5222a9b0afc87bbe9f1b03a4d87a63fe3d4787395a4f6ff0473816bb563028"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "f19fdab1c5dbafad7b9b04fadc57fd5f3e8f0ac65e828c86dff2b69e2ccda4cb"
+hash = "e4c7db9df9f6382cedd688315960f47c7e8fdda775dfdebe8ca264dfd6576ffb"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "de6686fdb8fef035ce2b77fb72bedfe60a2bbacf203abb204284bd2c68459d70"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "b147dcda724b6741b27a753e1b0c1e1c3107ea72eff993b02a9c42ce605bda7a"
-
-[[files]]
-file = "config/yosbr/config/gammautils.json"
-hash = "30811ed5e085051dee82d5dc74a78aa89564c243720ba23d6852e406a71a7dd8"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "0bcdd02d11dc35070f645fafe39cef59b6cff810372b5fb139001cdf5be57a16"
-
-[[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
@@ -34,51 +18,11 @@ hash = "569d5b061e7a2f8011d95a5d4a8d8a8fa9f31cd4d25d8117a356d64df0030c0e"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "bdd73d00987ffebc54b4f6cd6b6529500b42ed2e6c84821ba4d9aaefacf2bdf2"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
-hash = "459eda5b95f7897a261b2947478e2ebe1c6b48b0c9e3ec05d4b2977aa9e9c227"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "2299cb82a725cfccd0b443bd7dd59b6978e21edd9aaf0c19ec708d3a9e5abc95"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "dac7a306d1d9dd7cea6a45bb697f66acf14a705d9eca579f6f2573388d5d56c6"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "3bc7a5bc42d8afa3785e79941650f6ec2cb0f895445883303ac1c644c652b8e7"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra.properties"
-hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
-
-[[files]]
-file = "config/yosbr/config/sodium-mixins.properties"
-hash = "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "592d14ea22405d4057e1ec1e04902a00fd9f6a623e385261c1e4e17cc78b03ab"
-
-[[files]]
-file = "config/yosbr/config/tooltipscroll.json"
-hash = "45b54631b6da5b2fd5d8c826b0ad179d4b643ec991d627d6980c461805181e97"
-
-[[files]]
-file = "config/yosbr/config/yacl.json5"
-hash = "1fa97dc3412ea64defd44952854637ba438bdd4a5a7c00728c9dd917e011d9f6"
-
-[[files]]
-file = "config/yosbr/config/zoomify.json"
-hash = "a498f39b73d4e4107650cff8749f05dae8edab089f455bf882d27dda0311442d"
+hash = "f9e785832eef7119288d35ef460c0067aa0e1507151349853cae7d65877c732c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "92180b38d52a6afc9cdcf58c7d316df287efd3368a386b5b55241799fc4db2e1"
+hash = "0eaab2f0b10f4f7c68c22a46682b112d6211018f6e5878c5df6a245eb95ed1fe"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -91,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2178a153baf1abf1d693dc921ed647359d512b99bfe003a65a34032fc235bfdd"
+hash = "acb1cfcd29bee820e0151739954616858bbf1a2ffc244a9fcf1824f16fa8362b"
 metafile = true
 
 [[files]]
@@ -111,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "78040c78606a76e40d996a19e13daf011beea75526da05c00f6a07e9ae3487f2"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
@@ -166,12 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackcached.pw.toml"
-hash = "5883b1bae9c8f01b1dc112254dddb429070aa0b33c7982264bd64d1d27d6f4d0"
+hash = "943a797cb5ff41e6c05341cb7785d05e7aa9dc25a80f3147acb1ff9123b1f4fd"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "da563c915b80bd390726bfbcf11bc9703d6996d989d893d2fc340db0e26faec9"
+hash = "ad03abcca35882c73722f5e9eb682b47346139c922be2ffedb483fc35be1db8a"
 metafile = true
 
 [[files]]
@@ -200,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e212db98871e5d51f2015f3134090353cec414333af3ba2e6015b8c642f5267b"
+hash = "fca5afdd9955e658237d14f21a8473610c659b3fb85652ff8de8314fa3322b07"
 metafile = true
 
 [[files]]

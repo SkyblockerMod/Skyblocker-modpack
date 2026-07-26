@@ -1,13 +1,13 @@
 name = "ResourcePackCached"
-filename = "rpc-1.2.6+26.1-26.1.2.jar"
+filename = "rpc-1.2.7+26.1-26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d4phKsx2/versions/VAFwgEXe/rpc-1.2.6%2B26.1-26.1.2.jar"
+url = "https://cdn.modrinth.com/data/d4phKsx2/versions/fYBMerql/rpc-1.2.7%2B26.1-26.2.jar"
 hash-format = "sha512"
-hash = "522bb9f55a22dec46251bedeb5f1cc5d4a150cce9e954af68c601205d29321f8339ea654950dd633307d102cfcba81c2839e5cd4c2513726fb90065205ef4f49"
+hash = "986b50c766456a6f1c07a7923486fe34f04acff38753ffd36b7044479de5e5aba4a1c4d78852c004bef7ab510786ba7384ee921a4d5d69eed31b7fe518b2567d"
 
 [update]
 [update.modrinth]
 mod-id = "d4phKsx2"
-version = "VAFwgEXe"
+version = "fYBMerql"
