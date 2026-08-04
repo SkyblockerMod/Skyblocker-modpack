@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "a9c9a7819ed929ae256a28c7a42439a8020b24c4c0f141612875a21f44141102"
+hash = "97b1cb09e27b3f38c6ef0148dca3b5abb4072a890939caa3b9c80997ea0ae804"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "d686fe5410d25e8e2a11a2fe9615deb2e5a27542c8a5102cc780236a1031fed2"
+hash = "d8450628c8c227a608773710839acdd86c23bf33f4c25ed1023bc43f63f801f8"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "acb1cfcd29bee820e0151739954616858bbf1a2ffc244a9fcf1824f16fa8362b"
+hash = "5630959d69e2159c4abe180e581b40fa2f2424acd969f502d44e9a47797d7079"
 metafile = true
 
 [[files]]
@@ -50,12 +50,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "aea5ea551600e691b75fac9dfa02670dc70903d732746d90e0c3711b2e6c564a"
+hash = "e871d31c3ab0982b3cc6593f3b9425667e98fb1c02ae18e930b8f9354aad398e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+hash = "cc70eaa7bdcc0fb5e74b3d56bb2a37ea8d2eb2b4ec3b2b7b98c9bd87a31c19ec"
 metafile = true
 
 [[files]]
@@ -75,22 +75,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
+hash = "a46e90f3e3a615b0c00671b9d133ca401e8c8988537b2a7a17a1a26dd8ece5a8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
+hash = "19e74f770611dabc1bd0713f3a7622abd65b4aaca6b37282135e8fb462630f2d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
+hash = "552f5e5fcadda96970087861cfd0fcd08a4008f6c459bbbfe78adf53fc798635"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
+hash = "b9f7229a5da399f6f280c4346dc46ee819b60cd2893926a47d59c72d1d58e4e6"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a487f3191e67284ec51e3c884d6fe30eac1cec120869c690d6eccc2db9dfc39"
+hash = "ae2757eef84537ca218a6893f71810564e6d010b1d13d0354f73bf38c8bb95b4"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
+hash = "e65c24eb7da88df4ed50a2c6528be9d5c913f5963fbccc994cf03c0e3f5a0813"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "59501a6e3e5450a7887e6b213ecd4b9939ee2c982868148b61e2c52187a56175"
+hash = "68b0e9b07d8f36f9b66304e3e5af717846ebb3cbc39ae570b14b854e5c867a73"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "76f0c3b0f97c781fab964ec383b5031d780814e63abe7c456354187deaafaae2"
+hash = "bafe4cd8411f0b6a41f3461b72411de59149233827747f2f676a0130248bee32"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
+hash = "628038ca1977bb2cb6dad9bb414468a00defe9aa6fa337d776a405288ab5f5e0"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fca5afdd9955e658237d14f21a8473610c659b3fb85652ff8de8314fa3322b07"
+hash = "6473741d6da32dbdc9a163d1862b13613ff84216ff9c237f1f97fae1e76abe87"
 metafile = true
 
 [[files]]
@@ -154,5 +154,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "db52e50c6846f0850e9a58ed9709310b87efa4f924caa013b8a49ab96f86f714"
+hash = "6f6a0306f8bacac1e9fa9f6527283458067bcb563c54dee08aaff4d5f7c7dc45"
 metafile = true
