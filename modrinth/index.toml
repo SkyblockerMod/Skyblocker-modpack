@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "a9c9a7819ed929ae256a28c7a42439a8020b24c4c0f141612875a21f44141102"
+hash = "97b1cb09e27b3f38c6ef0148dca3b5abb4072a890939caa3b9c80997ea0ae804"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "d686fe5410d25e8e2a11a2fe9615deb2e5a27542c8a5102cc780236a1031fed2"
+hash = "d8450628c8c227a608773710839acdd86c23bf33f4c25ed1023bc43f63f801f8"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "99c470d7645ce0b117be78844b166ef0216d6f57b3fc3e854d839f75c6510590"
+hash = "1c5dbdc5e213127ae20ea2e878d8a9b8e052279df69834d41f19f3f076d2ed9f"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "da22321bb437dc784a34ab4f52248ac70d95e7a79ba5038eb3fbfc3367d1d44b"
+hash = "5295454b59c59bffdf40b20295b1b3452aebcf52b0e703f3c715ad449fd992c7"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "ccd5e178aebe11e78adb3d3ea214468506294abe4dea37c66edc89f9c66f9e7f"
 metafile = true
 
 [[files]]
