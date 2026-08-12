@@ -39,6 +39,16 @@ hash = "5630959d69e2159c4abe180e581b40fa2f2424acd969f502d44e9a47797d7079"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "0c615d15fa44b5f4511383f35f4f814a24abc3a3a1d9af9c1bb516be7962010d"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "6ca9484dcfa28762f68768bca2c7e26373554c1ec8dd9abe6dca07ac05bb27ee"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "49c859c5d404e45a8167b66c43e96f9f85324430efec07d9e2da4c5c8bb7e8ea"
 metafile = true
@@ -46,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2a313913ed613a69bebea104a6535987182808cfce30acce473816437f85850"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
 metafile = true
 
 [[files]]
@@ -69,6 +84,11 @@ hash = "fc6ed047d2ef8a289ff2f85e1852d403e36260dd0ef37fac7266071288e06b70"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "11543756d1c403d88cd8df0761c00616d0d7217179b617cb4650c7f6b665ecd4"
 metafile = true
@@ -84,13 +104,28 @@ hash = "19e74f770611dabc1bd0713f3a7622abd65b4aaca6b37282135e8fb462630f2d"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "d37e02e49f79a26ce8099217671b027a60db46eff44a869495a45e15e27672c2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "552f5e5fcadda96970087861cfd0fcd08a4008f6c459bbbfe78adf53fc798635"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "cb4b411882267dfba9ab18f33d3fa69f3f4a545e996411000a3ed6315f3b8452"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b9f7229a5da399f6f280c4346dc46ee819b60cd2893926a47d59c72d1d58e4e6"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]

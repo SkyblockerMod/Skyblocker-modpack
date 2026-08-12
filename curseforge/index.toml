@@ -142,6 +142,16 @@ hash = "868f195d730f1ca4f7b33cc7882d0f196f2765ea285115377d012b9a9ca46e54"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "5b0d446d46e000b1c297f58cfba7a6ca25565106af53aa576f0385024d7f3648"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "bfeb130c935fdde65166b9ae58e886b00985f3911efb049a64e8cc91a2b866bf"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "ab7452ad31c045b4a28f63f919e786407407a5fc2999521ea0c81086dafe5bfc"
 metafile = true
@@ -149,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e07078853043528e5c86de979e1732704c5a08e63c0d3b5134e6f151885d2a2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6e9bcf87d30c6d416572e1a121fdcc9d78158aaebe2edcbfdc420c8d2f720074"
 metafile = true
 
 [[files]]
@@ -172,6 +187,11 @@ hash = "a10cf4379943f37d7b0b79f5736197f65f60600269c88acd34a87a3e173aa20d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "52dac2cf369ce868e3e698b6a096c8945304b33026177ed147e344cbc02b1891"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "74e1b6b79ad0d30190acad8b243393f3fbc4bf20fcbbcae060b891da43959721"
 metafile = true
@@ -187,13 +207,28 @@ hash = "dd75d43ec26ef0dc7f03630fa28217755cabf470c5f6c5755f88618e72644e38"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "223c8369af58bc3edba5065faf676e3fbbcc3e45b20a5addc424035c4223a54d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "aff4aa2f11b20a4535e9a794c3fb316d86ae7ab5e6350bd21ec202784ea1fe9c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "43827d63735d9c130228480c6f13c9c5208d1ceb35aa94f1a97066411555d56f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7676c88a1e0d2018909d7591eb45d1a11ce9be24077bc794ed5e1c720d74166b"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "97031b6b81b885c263a152b3c69e5143bdf8926da7ee1c7c21b5dd31a6d42c4f"
 metafile = true
 
 [[files]]

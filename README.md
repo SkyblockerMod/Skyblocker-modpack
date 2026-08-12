@@ -9,17 +9,23 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 ## 🔧 Mods
 
 <details open>
-<summary> Installed mods (25 mods)</summary>
+<summary> Installed mods (32 mods)</summary>
 
 ### Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 - [Aaron’s Mod](https://modrinth.com/mod/aaron-mod)
 
 ### Performance Mods:
+- [Async Logger](https://modrinth.com/mod/asynclogger)
+- [Better Block Entities](https://modrinth.com/mod/better-block-entities)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Ixeris](https://modrinth.com/mod/ixeris)
 - [Lithium](https://modrinth.com/mod/lithium)
+- [ModernFix](https://modrinth.com/mod/modernfix-mvus)
+- [Particle Core](https://modrinth.com/mod/particle-core)
 - [Sodium](https://modrinth.com/mod/sodium)
 
 ### Quality Of Life Mods:
@@ -42,6 +48,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Simple Modpack Update Checker](https://modrinth.com/mod/smuc)
@@ -56,6 +63,8 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Hypixel Plus](https://modrinth.com/resourcepack/hypixel-plus)
   - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [FurSky Reborn](https://modrinth.com/resourcepack/furfsky-reborn)
+  - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
+- [Hypixel Skyblock Legacy](https://modrinth.com/resourcepack/hypixel-skyblock-legacy)
   - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [Skyblock Dark UI](https://modrinth.com/resourcepack/skyblock-dark-ui)
 
