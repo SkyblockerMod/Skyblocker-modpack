@@ -64,8 +64,6 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
   - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [FurSky Reborn](https://modrinth.com/resourcepack/furfsky-reborn)
   - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
-- [Hypixel Skyblock Legacy](https://modrinth.com/resourcepack/hypixel-skyblock-legacy)
-  - Requires [Catharsis](https://modrinth.com/mod/catharsis)!
 - [Skyblock Dark UI](https://modrinth.com/resourcepack/skyblock-dark-ui)
 
 </details>

@@ -162,11 +162,6 @@ hash = "9e07078853043528e5c86de979e1732704c5a08e63c0d3b5134e6f151885d2a2"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "6e9bcf87d30c6d416572e1a121fdcc9d78158aaebe2edcbfdc420c8d2f720074"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ef402eed3ab6178805a2b7fc512d83e3a5e680c3cd14bcc814ef13cb00d17b09"
 metafile = true
@@ -214,11 +209,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "aff4aa2f11b20a4535e9a794c3fb316d86ae7ab5e6350bd21ec202784ea1fe9c"
-metafile = true
-
-[[files]]
-file = "mods/modernfix-mvus.pw.toml"
-hash = "43827d63735d9c130228480c6f13c9c5208d1ceb35aa94f1a97066411555d56f"
 metafile = true
 
 [[files]]
