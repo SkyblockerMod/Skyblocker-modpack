@@ -39,6 +39,11 @@ hash = "104dbc3cfda364399a03a3d7f62e50a8a1ba3c9a3f364212864f5f1d850543be"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "23aedb3232ba0a4946fa62deee8cfe1bed876049339cc007058dcbd517c3ae3c"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "aba872fd948ab02f1e8c60128a01fe3bc09e2a7f3d7c97f0217268fa38bbd0be"
 metafile = true
@@ -55,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "163ca8a0ad0ea4fa727e3a8bb8c3f6ad4a3981d5b7f77d70113500ee4217718b"
 metafile = true
 
 [[files]]
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fc6ed047d2ef8a289ff2f85e1852d403e36260dd0ef37fac7266071288e06b70"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
 
 [[files]]
@@ -84,6 +94,11 @@ hash = "398091ed273793ef42ba364bbf4060ae66027a1888fbe76170372b2caf56e72c"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "9963b50fd02f2ab453194229781e2ae953e4df38a37afbcfe58a838945ce99b3"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9d8b32a7a672675288eacf988f380867d5b2e28d20a8e1eeacc0e3bcb4c1a054"
 metafile = true
@@ -91,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "66f727988b9364fdeaa13883c6b0e4737caa60f30b8f586e030e731460050757"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
 metafile = true
 
 [[files]]
@@ -115,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "2c1314474b25e24ed06e2986a49e68013814d214d64ae70f9aaa9a16ed151939"
+hash = "81e2471474dce471f7d3a573ff5d9ce04a20d78116b76cb2d7250eca6dbc8ab3"
 metafile = true
 
 [[files]]
