@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "ef966f97fdddc06ce7ebd7e919b88ad61e93c2bb7535e9dab2edea9cc20c7797"
+hash = "f1ef9cc469f2913dff23e74008830cb767efb857e6736f5246709c5feff3c248"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "686aecb660267d8796519a95cd537f91c46dca84d7bb07f10ebe2b69383791c7"
+hash = "b3ee04009a02af27b53d6b9758392c2e3943c2009eef552f41c91126ffa1abbd"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "163ca8a0ad0ea4fa727e3a8bb8c3f6ad4a3981d5b7f77d70113500ee4217718b"
+hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
+hash = "7337ce7aad1123fe3bc23828124b66b12ccfe1e7e26d1923b3291edb27001821"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7f0bf407c70551bf591822433baeecb39654baded40aa8a84996eff250503787"
+hash = "2c5cb7b630f770c1cbd923135dca774367fa28dfdca7e3f9c38314729d566b38"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9963b50fd02f2ab453194229781e2ae953e4df38a37afbcfe58a838945ce99b3"
+hash = "40a8fc26af91b110b3af6758d7a5b120f5419f449d4c221abf2ac4d1749700f4"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
+hash = "b0dc4f8a6a4a086dc6b356d58f61363ffb16954f7156c748d639fc12b3a8f94f"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "81e2471474dce471f7d3a573ff5d9ce04a20d78116b76cb2d7250eca6dbc8ab3"
+hash = "b60291cd2e9acc4eef9ed2ad47b27efb87f9bc596f2d4f2391875480c811cdf1"
 metafile = true
 
 [[files]]
