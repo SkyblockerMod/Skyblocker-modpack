@@ -147,11 +147,6 @@ hash = "5b0d446d46e000b1c297f58cfba7a6ca25565106af53aa576f0385024d7f3648"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "bfeb130c935fdde65166b9ae58e886b00985f3911efb049a64e8cc91a2b866bf"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "ab7452ad31c045b4a28f63f919e786407407a5fc2999521ea0c81086dafe5bfc"
 metafile = true

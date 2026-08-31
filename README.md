@@ -9,7 +9,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 ## 🔧 Mods
 
 <details open>
-<summary> Installed mods (30 mods)</summary>
+<summary> Installed mods (29 mods)</summary>
 
 ### Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -17,7 +17,6 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 
 ### Performance Mods:
 - [Async Logger](https://modrinth.com/mod/asynclogger)
-- [Better Block Entities](https://modrinth.com/mod/better-block-entities)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
