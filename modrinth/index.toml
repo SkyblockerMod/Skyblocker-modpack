@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modrinth.index.json"
-hash = "f1ef9cc469f2913dff23e74008830cb767efb857e6736f5246709c5feff3c248"
+hash = "092c8da9445ed999e07653d61b15d0fe12ff9642d436cc5b455c07785fa6e5ff"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "b3ee04009a02af27b53d6b9758392c2e3943c2009eef552f41c91126ffa1abbd"
+hash = "841b322c29851fa1a8d00fc12f4427a40620344ee7768882aba84a19bada152f"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
+hash = "2f63ca526981e06de2c3b9684cfb7e21abf636cf9f0f657b9151685cd11692a7"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "b60291cd2e9acc4eef9ed2ad47b27efb87f9bc596f2d4f2391875480c811cdf1"
+hash = "a2bd8e26305ce939fdaf7d22d2585398b8a92b62f1eaf0a8f1ded9ae773fe73a"
 metafile = true
 
 [[files]]
