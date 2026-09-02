@@ -9,6 +9,10 @@ file = "config/simple-modpack-update-checker.json"
 hash = "841b322c29851fa1a8d00fc12f4427a40620344ee7768882aba84a19bada152f"
 
 [[files]]
+file = "config/yosbr/config/aaron-mod.json"
+hash = "df239ea62a620835ed1a34ad091419df3be58504e4dcb5888d48ac2d543f548d"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "de6686fdb8fef035ce2b77fb72bedfe60a2bbacf203abb204284bd2c68459d70"
 
