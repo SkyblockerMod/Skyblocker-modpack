@@ -1,13 +1,13 @@
 name = "Simple Modpack Update Checker"
-filename = "simple-modpack-update-checker-2.2.0.jar"
+filename = "simple-modpack-update-checker-2.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/I70N6bTC/versions/SAnIN94w/simple-modpack-update-checker-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/I70N6bTC/versions/g9FhLyv9/simple-modpack-update-checker-2.2.1.jar"
 hash-format = "sha512"
-hash = "8a6a1e13491c057680e97dc470de04bb43fdfb0a13c0b6e0e345cecddbf6e1c812abb55a0f7a1b1caf5b51b4c59d6578fea8f92f378a1aae776174e0f6a52f24"
+hash = "32e16e787da780e3ca76fd8acd7ffc142e9768f3f4cae704bb33fc6a9535d3cc431f1bbeb9af463439599a76f885d0e0b3295a492fa70ae58c3acdc29c7ec22b"
 
 [update]
 [update.modrinth]
 mod-id = "I70N6bTC"
-version = "SAnIN94w"
+version = "g9FhLyv9"
