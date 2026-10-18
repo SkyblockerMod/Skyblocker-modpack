@@ -1,0 +1,13 @@
+name = "Cull Fewer Leaves"
+filename = "cull-fewer-leaves-1.1.2+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de9ddf108622b1b517f575dff5d7ebbd152cf47b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7825103
+project-id = 1415675
