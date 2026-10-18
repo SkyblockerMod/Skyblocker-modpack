@@ -157,6 +157,11 @@ hash = "9e07078853043528e5c86de979e1732704c5a08e63c0d3b5134e6f151885d2a2"
 metafile = true
 
 [[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "334dc43b32e53633e7d78d317fdc53cc650b485e08bf51c5f7b20fb5cde7f2ff"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ef402eed3ab6178805a2b7fc512d83e3a5e680c3cd14bcc814ef13cb00d17b09"
 metafile = true
@@ -212,8 +217,18 @@ hash = "7676c88a1e0d2018909d7591eb45d1a11ce9be24077bc794ed5e1c720d74166b"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "5a509c2497a0f6098f11313db6842470cb4e9fec0416d0baab69f3960f3c34e5"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "97031b6b81b885c263a152b3c69e5143bdf8926da7ee1c7c21b5dd31a6d42c4f"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "df90182afed67db68b8f290294f813e675e13a20db536bb9115bd339e295aaf0"
 metafile = true
 
 [[files]]
