@@ -1,0 +1,22 @@
+[general]
+help_link = "https://discord.gg/aNNJHQykck"
+formulation_type = "DISCORD"
+upload_to = "mclo.gs"
+
+[text]
+support_name = "Skyblocker Discord"
+support_place = "#support channel"
+modpack_name = "Skyblocker Modpack"
+
+[modpack_modlist]
+enabled = false
+
+[piracy]
+enabled = true
+delay = 0
+
+[greeting]
+shown_greeting = true
+
+[scripts]
+enabled = false
