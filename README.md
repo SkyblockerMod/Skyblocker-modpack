@@ -9,7 +9,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 ## 🔧 Mods
 
 <details open>
-<summary> Installed mods (29 mods)</summary>
+<summary> Installed mods (30 mods)</summary>
 
 ### Hypixel Quality Of Life Mods:
 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -34,6 +34,7 @@ This modpack is intended for the SkyBlock game mode on hypixel.net.
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 ### Miscellaneous:
+- [Crash Assistant](https://modrinth.com/mod/crash-assistant)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [YOSBR](https://modrinth.com/mod/yosbr)
